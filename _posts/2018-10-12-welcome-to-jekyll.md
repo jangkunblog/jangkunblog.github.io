@@ -1,6 +1,8 @@
 ---
 layout: post
+lang: ko
 title:  "Welcome to Jekyll!"
+permalink: /wp/Welcome-to-Jekyll/
 date:   2018-10-12 20:05:22 +0900
 categories: jekyll update
 ---
