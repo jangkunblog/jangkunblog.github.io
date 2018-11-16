@@ -1,44 +1,38 @@
-<header class="site-header">
-	<div class="branding">
-		{% if site.theme_settings.gravatar %}
-		<a href="{{ site.baseurl }}/">
-			<img class="avatar" src="https://secure.gravatar.com/avatar/{{ site.theme_settings.gravatar }}?s=100" alt=""/>
-		</a>
-		{% elsif site.theme_settings.avatar %}
-		<a href="{{ site.baseurl }}/">
-			<img class="avatar" src="{{ site.baseurl }}/{{ site.theme_settings.avatar }}" alt=""/>
-		</a>
-		{% endif %}
+{% include icons.html %}
+<header class="site-header" role="banner">
+	<div class="site-branding">
 		<h1 class="site-title">
 			<a href="{{ site.baseurl }}/">{{ site.theme_settings.title }}</a>
 		</h1>
+		<p class="site-description">진심을 담은 마크업! 그 마음이 웹 접근성을 향상시킵니다.</p>
 	</div>
-	<nav class="site-nav">
-		<ul>
-			{% for page in site.pages %}
-			{% if page.title and page.hide != true %}
-			<li>
-				<a class="page-link" href="{{ page.url | relative_url }}">
-					{{ page.title }}
-				</a>
-			</li>
+	<div class="main-navigation-wrapper">
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h1 class="menu-toggle">Menu</h1>
+			<div class="menu-jangkunblog-container">
+				<ul id="menu-jangkunblog" class="menu">
+					{% for page in site.pages %}
+					{% if page.title and page.hide != true %}
+					<li class="menu-item">
+						<a class="page-link" href="{{ page.url | relative_url }}">
+							{{ page.title }}
+						</a>
+					</li>
+					{% endif %}
+					{% endfor %}
+				</ul>
+			</div>
+			<!-- Search bar -->
+			{% if site.theme_settings.search %}
+			<form action="{{ site.baseurl }}/search.html" method="get" role="search" class="search-form">
+				<label>
+					<span class="screen-reader-text">장군블로그 검색</span>
+					<input type="search" id="search-box" name="query" class="search-field" placeholder="검색 …" value="" name="s">
+				</label>
+				<input type="submit" class="search-submit" value="검색">
+			</form>
 			{% endif %}
-			{% endfor %}
-			<!-- Social icons from Font Awesome, if enabled  -->
-			{% include icons.html %}
-            
-            <!-- Search bar -->
-            {% if site.theme_settings.search %}
-            <li>
-            <form action="{{ site.baseurl }}/search.html" method="get">
-                <input type="text" id="search-box" name="query" placeholder="Search" class="">
-                <button type="submit" class="">
-                    <i class="fa fa-fw fa-search"></i>
-                </button>
-            </form>
-            </li>
-            {% endif %}
-		</ul>
-	</nav>
+		</nav>            
+	</div>
     
 </header>
