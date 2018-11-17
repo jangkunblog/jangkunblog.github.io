@@ -41,6 +41,8 @@ paginate_path: "page/:num"
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge
+
+
 sass:
   sass_dir: _sass
   style: :compressed
@@ -48,7 +50,7 @@ plugins:
   - jekyll-paginate
   
 #  - jekyll-category-pages
-theme: jekyll-theme-type
+# theme: jekyll-theme-type
 exclude:
   - Gemfile
   - Gemfile.lock
