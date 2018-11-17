@@ -27,11 +27,12 @@ views:
 
 Sublime Text의 기본적인 처리방법은 아래와 같이 속성(property)을 자동완성에서 선택하면 콜론(:)뒤에 한 칸 여백이 생깁니다.
 
-```CSS
+``` css
 .class {
 	float: left;
 }
 ```
+
 
 저희 회사는 이 여백을 사용하지 않고 있습니다.  
 어떤 분은 실서버에 반영할 때 자동으로 날리면 된다고 하시는 분들도 있지만, 저희는 아직 그런거 안합니다. ㅜㅜ
@@ -58,19 +59,19 @@ PackageResourceViewer라는 플러그인을 설치하고 수정하는 방법도 
 
 CSS 폴더에 css_completions.py라는 파일이 있고, 이를 에디터에서 열면 190번째 줄에 아래와 같이 작성되어 있습니다.
 
-```HTML
+``` html
 .append((p, p + ": "))
 ```
 
 여기에서 콜론 뒤의 공간을 삭제합니다.
 
-```HTML
+``` html
 l.append((p, p + ":"))
 ```
 
 파일을 저장하고, Sublime Text를 재실행하면 이제 끝!
 
-```CSS
+``` css
 .class {
 	float:left;
 }
