@@ -3,7 +3,7 @@ layout: post
 lang: ko
 title: 워드프레스로 웹 접근성 칭찬받기
 permalink: /wp/how-to-improve-wordpress-s-web-accessibility/
-date: 2015-03-10
+date:   2015-03-10
 categories:
   - 워드프레스
   - 웹접근성
