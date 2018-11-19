@@ -1,16 +1,9 @@
 ---
-id: 1174
-title: DevOn 후기 및 발표자료
-date: 2011-11-29T19:58:16+00:00
-author: astar2
-excerpt: '지난주 금요일 DevOn 2011이라는 행사가 있었습니다. 오랜만(정말 오랜만 ㅜㅜ)에 하는 행사라 많은 국내 개발자들의 관심을 받았습니다. 한국 웹 접근성 그룹도 즐거운 마음으로 행사에 참여하였습니다. 한국 웹 접근성 그룹.콱도 이 행사에 참여하였습니다. 사실 참여를 결정하면서 많은 고민이 있었습니다. 특별히 올한해 활동이 없었기 때문입니다. 활동이 없었는데, 참여해서 뭔가 발표를 한다는게 계속 신경이 쓰였습니다. 하지만, 참여를 결정하였습니다. 이유는 내년 활동을 위한 자극, 그리고 활동이 없다고 해도 콱이 가지고 있는 상징적인 의미때문입니다. 2012년 열심히 하겠습니다. 이번 행사에는 한국 웹 접근성 그룹에서 저와 조현진님이 [...]'
 layout: post
-guid: http://www.jangkunblog.com/wp/?p=1174
+lang: ko
+title: DevOn 후기 및 발표자료
 permalink: /wp/devon2011-with-kwag/
-views:
-  - "33126"
-dsq_thread_id:
-  - "3584961770"
+date:   2011-11-29
 categories:
   - 성민장군
   - 웹접근성
@@ -19,32 +12,31 @@ tags:
   - KWCAG20
   - 웹 접근성
   - 장차법
+excerpt: 지난주 금요일 DevOn 2011이라는 행사가 있었습니다. 오랜만(정말 오랜만 ㅜㅜ)에 하는 행사라 많은 국내 개발자들의 관심을 받았습니다. 한국 웹 접근성 그룹도 즐거운 마음으로 행사에 참여하였습니다. 한국 웹 접근성 그룹.콱도 이 행사에 참여하였습니다. 사실 참여를 결정하면서 많은 고민이 있었습니다. 특별히 올한해 활동이 없었기 때문입니다. 활동이 없었는데, 참여해서 뭔가 발표를 한다는게 계속 신경이 쓰였습니다. 하지만, 참여를 결정하였습니다. 이유는 내년 활동을 위한 자극, 그리고 활동이 없다고 해도 콱이 가지고 있는 상징적인 의미때문입니다. 2012년 열심히 하겠습니다. 이번 행사에는 한국 웹 접근성 그룹에서 저와 [...]
+image: devon2011-with-kwag.png
+views:
+  - "33126"
 ---
-지난주 금요일 <a href="http://devon.daum.net/2011/" target="_blank">DevOn 2011</a>이라는 행사가 있었습니다. 오랜만(정말 오랜만 ㅜㅜ)에 하는 행사라 많은 국내 개발자들의 관심을 받았습니다.
+
+지난주 금요일 [DevOn 2011](http://devon.daum.net/2011/){: target="_blank" }이라는 행사가 있었습니다. 오랜만(정말 오랜만 ㅜㅜ)에 하는 행사라 많은 국내 개발자들의 관심을 받았습니다.
 
 한국 웹 접근성 그룹도 즐거운 마음으로 행사에 참여하였습니다.
-  
-<img class=" aligncenter" src="http://www.jangkunblog.com/wp/wp-content/uploads/2011/11/jangkunblog_20111129_1.jpg" alt="DevOn" width="700" height="451" />
+
+![DevOn](/assets/img/2011/jangkunblog_20111129_1.jpg){: .aligncenter}
 
 ## DevOn 2011
 
-행사에 대해 자세히 설명하면 좋겠지만, <a href="http://devon.daum.net/2011/" target="_blank">DevOn 2011 홍보 웹 사이트</a>에 가면 자세한 설명이 있으므로 생략!!!
-  
+행사에 대해 자세히 설명하면 좋겠지만, [DevOn 2011 홍보 웹 사이트](http://devon.daum.net/2011/){: target="_blank" }에 가면 자세한 설명이 있으므로 생략!!!  
 한가지 재밌는 점을 들자면, 단순히 전문가들의 발표나 토론자 중심의 행사는 아니었다는 것입니다. 그것과 더불어 대표적인 기술 커뮤니티들이 대거 참여해서 이들 커뮤니티의 소개나 기술측면을 직접 발표할 수 있는 시간도 있었다는 점이 주목할 점입니다.
 
 사실 대부분의 세션들을 듣지 못했습니다. 부스대기와 발표 수정 등의 변명을 해보지만 분명 좋지 못한 참석자세입니다. 지금 올라온 발표자료들을 내려받아 보고 있습니다.
 
 ## KWAG (Korea Web Accessibility Group)
 
-<div style="width: 510px" class="wp-caption aligncenter">
-  <img src="http://www.jangkunblog.com/wp/wp-content/uploads/2011/11/jangkunblog_20111129_4.jpg" alt="한국 웹 접근성 그룹의 부스" width="500" height="667" />
-  
-  <p class="wp-caption-text">
-    [새롭게 만든 로고를 처음 선보인 한국 웹 접근성 그룹. 콱의 부스]
-  </p>
-</div>
+![새롭게 만든 로고를 처음 선보인 한국 웹 접근성 그룹. 콱의 부스](/assets/img/2011/jangkunblog_20111129_4.jpg){: .aligncenter}
+*[새롭게 만든 로고를 처음 선보인 한국 웹 접근성 그룹. 콱의 부스]*{: .aligncenter }
 
-<a href="http://kwag.net" target="_blank">한국 웹 접근성 그룹.콱</a>도 이 행사에 참여하였습니다.
+[한국 웹 접근성 그룹.콱](http://kwag.net){: target="_blank" }도 이 행사에 참여하였습니다.
 
 사실 참여를 결정하면서 많은 고민이 있었습니다. 특별히 올한해 활동이 없었기 때문입니다. 활동이 없었는데, 참여해서 뭔가 발표를 한다는게 계속 신경이 쓰였습니다.
   
@@ -52,31 +44,24 @@ tags:
   
 2012년 열심히 하겠습니다.
   
-이번 행사에는 한국 웹 접근성 그룹에서 저와 [조현진님](http://resistan.com/)이 참여하였습니다. 많은 분들과 함께 의견교류하지 못해 죄송합니다.
+이번 행사에는 한국 웹 접근성 그룹에서 저와 [조현진님](http://resistan.com/){: target="_blank" }이 참여하였습니다. 많은 분들과 함께 의견교류하지 못해 죄송합니다.
 
-<div style="width: 710px" class="wp-caption aligncenter">
-  <img src="http://www.jangkunblog.com/wp/wp-content/uploads/2011/11/jangkunblog_20111129_2.jpg" alt="윤석찬님과 함께한 콱과 CDK 기념사진" width="700" height="525" />
-  
-  <p class="wp-caption-text">
-    [콱과 CDK 합동부스 기념사진&#8230; 왼쪽부터 윤석찬님, 홍윤표님, 방미희님, 전승엽님(전 사진찍는 사람이라 빠졌네요 ㅜㅜ)]
-  </p>
-</div>더불어 이번 행사에서는 
+![콱과 CDK 합동부스 기념사진 - 왼쪽부터 윤석찬님, 홍윤표님, 방미희님, 전승엽님](/assets/img/2011/jangkunblog_20111129_2.jpg){: .aligncenter}
+*[콱과 CDK 합동부스 기념사진 - 왼쪽부터 윤석찬님, 홍윤표님, 방미희님, 전승엽님(전 사진찍는 사람이라 빠졌네요 ㅜㅜ)]*{: .aligncenter }
 
-[CSS Design Korea](http://cssdesign.kr/)와 함께 준비를 했었고, 부스도 함께 사용을 했습니다. 국내 대표 웹 표준 커뮤니티와 웹 접근성 커뮤니티의 만남을 &#8216;모두를 위한 하나의 웹&#8217;으로 표현하기 위해 제작한 리플렛과 플랜카드도 부스를 꾸몄습니다.
+더불어 이번 행사에서는 [CSS Design Korea](http://cssdesign.kr/){: target="_blank" }와 함께 준비를 했었고, 부스도 함께 사용을 했습니다. 국내 대표 웹 표준 커뮤니티와 웹 접근성 커뮤니티의 만남을 '모두를 위한 하나의 웹'으로 표현하기 위해 제작한 리플렛과 플랜카드도 부스를 꾸몄습니다.
 
 ## 발표 주제 선정
 
 발표 내용은 처음에 콱 소개와 활동, 그리고 2012년의 방향 등을 고려했었지만, 다른 웹 접근성 세션의 내용을 보니 좀더 웹 접근성을 개발자들에게 쉽게 알리는 내용이 좋겠다는 생각을 했습니다.
 
-특히 내년(2012년)은 아주 중요한 한해입니다. 2013년 4월 11일부터 모든 법인에 적용될 <a href="http://www.jangkunblog.com/wp/korea-disability-discrimination-act-review-1/" target="_blank">장애인 차별금지 및 권리구제 등에 관한 법률</a>에 대비하는 준비를 할 수 있는 마지막 해이기 때문입니다.
+특히 내년(2012년)은 아주 중요한 한해입니다. 2013년 4월 11일부터 모든 법인에 적용될 [장애인 차별금지 및 권리구제 등에 관한 법률](http://www.jangkunblog.com/wp/korea-disability-discrimination-act-review-1/){: target="_blank" }에 대비하는 준비를 할 수 있는 마지막 해이기 때문입니다.
 
-장애인 차별금지법을 대비해서 다양한 준비를 할 수 있지만, 그 중에서도 가장 중요한 것은 지침을 이해하는 것입니다. 즉, <a href="http://wah.or.kr/Example2.0/index.asp" target="_blank">한국형 웹 콘텐츠 접근성 지침 2.0</a>에 대한 이해가 선행되고 이를 바탕으로 웹 사이트를 제작해야만 합니다. 하지만, 많은 개발자들이 지침과 제작기법을 어려워하는게 현실입니다.
+장애인 차별금지법을 대비해서 다양한 준비를 할 수 있지만, 그 중에서도 가장 중요한 것은 지침을 이해하는 것입니다. 즉, [한국형 웹 콘텐츠 접근성 지침 2.0](http://wah.or.kr/Example2.0/index.asp){: target="_blank" }에 대한 이해가 선행되고 이를 바탕으로 웹 사이트를 제작해야만 합니다. 하지만, 많은 개발자들이 지침과 제작기법을 어려워하는게 현실입니다.
 
 그래서 콱 소개와 더불어 한국형 웹 콘텐츠 접근성 지침 2.0을 주제로 발표하는게 좋겠다고 결정했습니다.
 
-<h2 style="letter-spacing: -1px;">
-  한국형 웹 콘텐츠 접근성 지침 2.0의 장애유형에 따른 사례적 접근
-</h2>
+## 한국형 웹 콘텐츠 접근성 지침 2.0의 장애유형에 따른 사례적 접근
 
 사실 웹 접근성 지침과 관련된 세미나와 컨퍼런스는 정말 많았습니다. 지침을 소개하고, 이를 지켜야한다고 늘 역설합니다. 그런 내용을 저도 늘 들었습니다.
 
@@ -84,19 +69,19 @@ tags:
 
 왜냐하면, 지침과 실무를 잘 연관짓지 못하기 때문입니다. 또 실무에서 본인이 만드는 영역이 어떤 지침과 연관되어 있는지 의도적으로 고려하지 않는다면 이를 지나쳐버리기도 합니다.
 
-**제가 생각하는 근본적인 이유는 바로 &#8216;장애환경&#8217;을 이해하지 못한 상태에서 지침과 제작기법만을 배웠기 때문**이 아닌가 합니다. 지침과 제작기법 모두 장애환경의 접근방식을 토대로 만들었음에도 불구하고, 이를 받아들이는 입장에서는 단순히 텍스트로 받아들이고 실무에 적용하고 있지 않은가 생각해볼 일입니다.
+**제가 생각하는 근본적인 이유는 바로 '장애환경'을 이해하지 못한 상태에서 지침과 제작기법만을 배웠기 때문**이 아닌가 합니다. 지침과 제작기법 모두 장애환경의 접근방식을 토대로 만들었음에도 불구하고, 이를 받아들이는 입장에서는 단순히 텍스트로 받아들이고 실무에 적용하고 있지 않은가 생각해볼 일입니다.
 
 어떤 콘텐츠를 만들더라도 이 콘텐츠에 접근하는 다양한 장애환경을 고려하게 되면, 지침과 무관하게 여러 장애유형에 따른 접근의 문제를 해결해나갈 수 있습니다. 이는 결국 지침을 지키게 되는 것입니다.
 
 **웹 접근성을 고려한 제작을 위해서는 시각의 전환이 필요합니다. 22개의 검사항목을 지키는 것이 아니라, 다양한 장애환경의 접근을 고려하면서 제작하는 것입니다.** 이를 통해 거꾸로 지침을 준수하는 것이 좀더 폭넓은 웹 접근성 확보의 방법이 아닌가 합니다.
 
-이것을 발표자료에 담아봤습니다. 시간이 20분밖에 주어지지 않아 모든 환경, 모든 지침을 담지 못해서 많이 아쉽습니다. 기회가 되면 1시간 정도로 다시 해보면 좋을 것 같습니다. 그리고 발표자료에는 나름 심혈(?)을 기울인 모션들이 삽입되었는데, 슬라이드를 정리해서 올려야하니 그런걸 못보여드리네요&#8230; ㅋㅋㅋㅋ
+이것을 발표자료에 담아봤습니다. 시간이 20분밖에 주어지지 않아 모든 환경, 모든 지침을 담지 못해서 많이 아쉽습니다. 기회가 되면 1시간 정도로 다시 해보면 좋을 것 같습니다. 그리고 발표자료에는 나름 심혈(?)을 기울인 모션들이 삽입되었는데, 슬라이드를 정리해서 올려야하니 그런걸 못보여드리네요 - ㅋㅋㅋㅋ
 
-그리고, Slideshare에 업로드하면 폰트가 없어서인지 글자간격이 깨져서 안보이는 글자들이 있습니다. &#8216;장애유형&#8217; 아니라 &#8216;장애유형에 따른&#8217; 이 맞습니다.
+그리고, Slideshare에 업로드하면 폰트가 없어서인지 글자간격이 깨져서 안보이는 글자들이 있습니다. '장애유형' 아니라 '장애유형에 따른' 이 맞습니다.
 
-<div style="text-align: center; margin-bottom: 5px;">
-  <br /> <strong> <a title="DevOn PT (Korea Web Accessibility Group)" href="//www.slideshare.net/jangkunblog/devon-pt-korea-web-accessibility-group" target="_blank">DevOn PT (Korea Web Accessibility Group)</a> </strong> from <strong><a href="//www.slideshare.net/jangkunblog" target="_blank">Sungmin Jang</a></strong>
-</div>
+![DevOn PT (Korea Web Accessibility Group)](/assets/img/2011/devon-pt-korea-web-accessibility-group-1-638.jpg){: .aligncenter}
+*[DevOn PT (Korea Web Accessibility Group)  
+http://www.slideshare.net/jangkunblog/devon-pt-korea-web-accessibility-group](//www.slideshare.net/jangkunblog/devon-pt-korea-web-accessibility-group){: target="_blank" }*{: .aligncenter }
 
 ## 마무리
 
@@ -106,16 +91,11 @@ tags:
   
 내년에도 꼭 이런 행사가 있었으면 한다는 생각을 합니다.
 
-DevOn 을 성공적으로 치를 수 있도록 수고해주신 <a href="http://www.daum.net" target="_blank">다음(Daum)</a>과 네오다임에 감사드리며, 특히 <a href="http://channy.creation.net/" target="_blank">윤석찬 팀장님</a>과 장진선 대리님에게 감사인사 드립니다.
+DevOn 을 성공적으로 치를 수 있도록 수고해주신 [다음(Daum)](http://www.daum.net){: target="_blank" }과 네오다임에 감사드리며, 특히 [윤석찬 팀장님](http://channy.creation.net/){: target="_blank" }과 장진선 대리님에게 감사인사 드립니다.
 
 그리고, 그날 모인 모든 커뮤니티 여러분 반가웠습니다. 수고하셨습니다~
 
-<div style="width: 460px" class="wp-caption aligncenter">
-  <img src="http://www.jangkunblog.com/wp/wp-content/uploads/2011/11/jangkunblog_20111129_3.jpg" alt="DevOn 참석중인 성민장군" width="450" height="599" />
-  
-  <p class="wp-caption-text">
-    [DevOn 벽면의 콱 이미지 앞에서 성민장군]
-  </p>
-</div>
+![DevOn 벽면의 콱 이미지 앞에서 성민장군](/assets/img/2011/jangkunblog_20111129_3.jpg){: .aligncenter}
+*DevOn 벽면의 콱 이미지 앞에서 성민장군*{: .aligncenter }
 
 **마지막으로 제 발표에 엄청난 도움을 주신 가카께 감사인사드립니다.**

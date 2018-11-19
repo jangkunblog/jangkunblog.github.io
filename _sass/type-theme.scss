@@ -1,6 +1,8 @@
+@import 'base/style';
+ 
 // External
 //@import 'external/reset';
-//@import 'external/syntax';
+@import 'external/syntax';
 
 // Base
 //@import 'base/variables';
@@ -19,4 +21,3 @@
 //@import 'includes/tag_list';
 //@import 'includes/post_nav';
 
-@import 'base/style';
