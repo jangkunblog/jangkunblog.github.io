@@ -47,6 +47,14 @@ blockquote,q {
     quotes: "" ""
 }
 
+.red {
+    color: #f00;
+}
+
+.blue {
+    color: #00f;
+}
+
 a {
     color: inherit;
     text-decoration: none
@@ -68,13 +76,13 @@ body,button,input,select,textarea {
     color: #29333c;
     font-family: "Apple SD Gothic Neo",Bitter,'Jeju Myeongjo',"Malgun Gothic","맑은 고딕",gulim,"굴림",dotum,"돋움",sans-serif;
     font-size: 16px;
-    line-height: 24px
+    line-height: 1.8;
 }
 
 @media screen and (min-width: 780px) {
     body,button,input,select,textarea {
         font-family:Bitter,'Jeju Myeongjo',"Apple SD Gothic Neo","Malgun Gothic","맑은 고딕",gulim,"굴림",dotum,"돋움",sans-serif;
-        font-size: 14px
+        font-size: 15px
     }
 }
 
@@ -403,6 +411,20 @@ embed,iframe,object {
     top: 0
 }
 
+.post-content blockquote p {
+    margin-bottom: 10px;
+}
+
+.post-content blockquote blockquote {
+    padding: 5px 0 1px 20px;
+    position: relative
+}
+
+.post-content blockquote blockquote:before {
+    content: none;
+}
+
+
 .post-content table {
     border-top: solid 1px #ddd;
     font-size: 14px;
@@ -412,6 +434,23 @@ embed,iframe,object {
 .post-content th, .post-content td {
     border-bottom: solid 1px #ddd;
     padding: 11px 11px 11px 0
+}
+
+.layout-table + table {
+    width:80%;
+    margin: 0 auto;
+    text-align: center;
+    border: 0 none !important;
+
+    td {
+        text-align: center;
+        border: 0 none !important;
+    }
+
+    td img {
+        margin-top: 0;
+        margin-bottom: 15px;
+    }
 }
 
 .post-content img {
@@ -528,6 +567,7 @@ embed,iframe,object {
     display: block;
     margin-right: auto;
     margin-left: auto;    
+    text-align: center;
 }
 
 em.aligncenter {
