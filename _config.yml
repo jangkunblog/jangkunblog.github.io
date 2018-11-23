@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: 
 url: "www.jangkunblog.com"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -12,7 +12,7 @@ theme_settings:
 
  # Scripts
   google_analytics: UA-7379986-1 # Tracking ID, e.g. "UA-000000-01"
-  # disqus_shortname: jangkunblog
+  disqus_shortname: jangkunblog
   search: true # Enable the search feature
 
   # Localization strings
