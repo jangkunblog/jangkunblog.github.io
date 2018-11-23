@@ -28,7 +28,7 @@ dsq_thread_id:
 '다와'는 **Talk About Web Accessibility**의 앞글자만 따서 만든 TAWA를 의미합니다.  
 '타와'라고 발음하지 말고, '다와'라고 발음하여 반말로 오라고 하는거죠. ㅎㅎㅎㅎ
 
-<img class=" aligncenter" src="//www.jangkunblog.com/wp/wp-content/uploads/2013/04/20130416_1.png" alt="한국 웹 접근성 그룹의 토크 세미나 다와(Talk About Web Accessibility)" width="350" height="429" />
+![한국 웹 접근성 그룹의 토크 세미나 다와(Talk About Web Accessibility)](/assets/img/2013/20130416_1.png){: .aligncenter}
 
 [신현석님 얘기](//hyeonseok.com/soojung/event/2013/04/16/735.html)처럼 DAWA로 만들기 위해 이것저것 고민했고 discuss도 나왔었지만, (변명을 하자면) 참가자와 패널들이 부담없이 가볍게 얘기를 나눠보자는 의미로 좀더 가벼워보이는 단어인 **Talk**를 선택하였습니다.
 
