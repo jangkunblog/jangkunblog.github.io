@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: 
-url: "https://www.jangkunblog.com"
+url: jangkunblog.com
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -54,3 +54,14 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+image:
+  src: '/image.jpg'
+  height: 
+  width: 1366
+  type: /png
+
+# https://gist.github.com/codetheorist/98eaa139379f252de8ad29499aeae057
+facebook:
+  app_id: '260037468013892'
+  pixel_id: '363394284468950'
