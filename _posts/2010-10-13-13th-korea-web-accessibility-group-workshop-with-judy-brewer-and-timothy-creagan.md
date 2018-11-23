@@ -285,8 +285,8 @@ Timothy Creagan의 발표내용은 주로 각 장마다 초안에 대한 설명�
 
   * Judy Brewer님의 [Web Accessibility: Progress, Resources, and Future Challenges 발표자료](http://www.wah.or.kr/Board/brd_view.asp?page=1&brd_sn=5&brd_idx=602){: target="_blank" }
   * Timothy Creagan님의 [Section 508 and the ICT Refresh of the 508 Standard 발표자료](http://www.wah.or.kr/Board/brd_view.asp?page=1&brd_sn=5&brd_idx=603){: target="_blank" }
-  * 윤좌진님의 [HTML and XHTML Techniques 발표자료](http://www.jangkunblog.com/blog/file/kwag/KWAG_13th_Workshop_HTML_and_XHTML_Techniques_by_boochim.pdf){: target="_blank" }
-  * 연홍석님의 [CSS Techniques 발표자료](http://www.jangkunblog.com/blog/file/kwag/KWAG_13th_Workshop_CSS_Techniques_by_wystan.pdf){: target="_blank" }
+  * 윤좌진님의 [HTML and XHTML Techniques 발표자료](/assets/file/KWAG_13th_Workshop_HTML_and_XHTML_Techniques_by_boochim.pdf){: target="_blank" }
+  * 연홍석님의 [CSS Techniques 발표자료](/assets/file/KWAG_13th_Workshop_CSS_Techniques_by_wystan.pdf){: target="_blank" }
   * 김태곤님의 [Client-side Scripting Techniques](http://mygony.com/archives/2841){: target="_blank" }
 
 **당일 제가 찍은 사진들이 보고 싶으시면 아래 주소로 이동하셔서 확인하시면 됩니다~** : [성민장군의 Picasa 웹 앨범](http://picasaweb.google.co.kr/jangkunblog/KWAG13){: target="_blank" }
