@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: 
-url: "jangkunblog.com"
+url: "https://jangkunblog.com"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
