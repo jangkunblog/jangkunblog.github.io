@@ -118,8 +118,8 @@ ul li a:hover, ul li a:focus {
 항상 10개가 기본으로 나온다는 보장이 없기때문에 가운데 정렬을 기본으로 해야하는데, 이를 위해서 `display`속성의 값들 중에서 `inline-block`값을 사용해서 만들어보도록 하겠습니다.
 
 > **inline-block :**  
->> This value causes an element to generate a block box, which itself is flowed as a single inline box, similar to a replaced element. The inside of an inline-block is formatted as a block box, and the element itself is formatted as an inline replaced element.  <br><br>
->> <W3C CSS 2.1 Specification (<http://www.w3.org/TR/CSS21/visuren.html#propdef-display>)>
+> :  This value causes an element to generate a block box, which itself is flowed as a single inline box, similar to a replaced element. The inside of an inline-block is formatted as a block box, and the element itself is formatted as an inline replaced element.
+> :  <W3C CSS 2.1 Specification (<http://www.w3.org/TR/CSS21/visuren.html#propdef-display>)>
 
 `display:inline-block`은 W3C의 CSS 2 명세에서는 없었고, [CSS 2.1 권고후보에서 추가된 값](http://www.w3.org/TR/CSS21/visuren.html#propdef-display){: target="_blank" }으로 해당 요소를 block 박스로 만들지만, inline 요소와 같은 흐름을 가지게 하는 값입니다. 즉, inline 요소가 가질 수 없는 top(bottom) margin 과 top(bottom) padding, width를 가질 수 있게 됩니다.
 

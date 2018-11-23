@@ -36,29 +36,30 @@ views:
 ### WCAG 1.0 (Web Content Accessibility Guidelines 1.0, 1999년 05월 05일)
 
 > **지침 13. 명확한 탐색 구조를 가져야 한다.**  
-> &nbsp;&nbsp;&nbsp;13.6 관련된 링크들은 한데 묶어 두고, 웹 표시 장치가 그 모둠을 식별할 수 있도록 표시한다. 그리고, 웹 표시 장치가 사용자들에게 그런 기능을 제공하기 전까지는 모둠을 건너 뛸 수 있는 방법도 제시해 주어야 한다. [중요도 3]  
-> * [http://gregshin.pe.kr/wcag/#gl-facilitate-navigation](http://gregshin.pe.kr/wcag/#gl-facilitate-navigation)
+> :  13.6 관련된 링크들은 한데 묶어 두고, 웹 표시 장치가 그 모둠을 식별할 수 있도록 표시한다. 그리고, 웹 표시 장치가 사용자들에게 그런 기능을 제공하기 전까지는 모둠을 건너 뛸 수 있는 방법도 제시해 주어야 한다. [중요도 3]  
+> :  * [http://gregshin.pe.kr/wcag/#gl-facilitate-navigation](http://gregshin.pe.kr/wcag/#gl-facilitate-navigation)
 
 ### IWCAG 1.0 (Internet Web Content Accessibility Guidelines 1.0, 2005년 12월 21일)
 
 > **지침8. 웹콘텐츠는 반복적인 네비게이션(repetitive navigation link)를 뛰어넘어 페이지의 핵심부분으로 직접 이동할 수 있게 구성하여야 한다.**  
-> &nbsp;&nbsp;&nbsp;① 웹 콘텐츠상에 반복적 네비게이션 링크 객체가 포함되어 있으며 이 링크 객체가 콘텐츠의 핵심부분보다 먼저 읽어주도록 구성된 경우에 이들링크들의 읽기를 생략하고 직접 콘텐츠의 메인 부분으로 직접 이동할 수 있는 링크를 제공하여야 한다.  
-> * [http://www.wah.or.kr/kwcag/wcag_guide_8.asp](http://www.wah.or.kr/kwcag/wcag_guide_8.asp)
+> :  ① 웹 콘텐츠상에 반복적 네비게이션 링크 객체가 포함되어 있으며 이 링크 객체가 콘텐츠의 핵심부분보다 먼저 읽어주도록 구성된 경우에 이들링크들의 읽기를 생략하고 직접 콘텐츠의 메인 부분으로 직접 이동할 수 있는 링크를 제공하여야 한다.  
+> :  * [http://www.wah.or.kr/kwcag/wcag_guide_8.asp](http://www.wah.or.kr/kwcag/wcag_guide_8.asp)
 
 ### 웹 접근성 향상을 위한 국가표준 기술 가이드라인 (2009년 03월 17일)
 
 > **9. 반복되는 링크를 건너뛸 수 있도록 건너뛰기 링크(Skip Navigation)를 제공해야 한다.**  
-> &nbsp;&nbsp;&nbsp;반복적인 네비게이션 링크를 뛰어넘어 페이지의 핵심부분으로 직접 이동할 수 있도록 건너뛰기 링크를 제공해야 한다.   
-> * [http://www.wah.or.kr/Guide/valuation.asp](http://www.wah.or.kr/Guide/valuation.asp)
+> :  반복적인 네비게이션 링크를 뛰어넘어 페이지의 핵심부분으로 직접 이동할 수 있도록 건너뛰기 링크를 제공해야 한다.   
+> :  * [http://www.wah.or.kr/Guide/valuation.asp](http://www.wah.or.kr/Guide/valuation.asp)
 
 ### 미 재활법 508조 (Section 508. 1998년 08월 07일)
 
 > **Section 1194.22 Web-based intranet and internet information and applications.**  
-> &nbsp;&nbsp;&nbsp;(o) A method shall be provided that permits users to skip repetitive navigation links.  <br><br>
+> :  (o) A method shall be provided that permits users to skip repetitive navigation links.
+> 
 > **1194.22조 웹 기반 인트라넷과 인터넷 정보 및 응용 프로그램**  
-> &nbsp;&nbsp;&nbsp;(o) 반복적인 내비게이션 링크를 사용자가 건너뛸 수 있는 방법을 제공해야한다.  
-> * [http://www.section508.gov/index.cfm?FuseAction=Content&ID=12#Web](http://www.section508.gov/index.cfm?FuseAction=Content&ID=12#Web)  
-> * [http://www.access-board.gov/sec508/guide/1194.22.htm#(o)](http://www.access-board.gov/sec508/guide/1194.22.htm#(o))
+> :  (o) 반복적인 내비게이션 링크를 사용자가 건너뛸 수 있는 방법을 제공해야한다.  
+> :  * [http://www.section508.gov/index.cfm?FuseAction=Content&ID=12#Web](http://www.section508.gov/index.cfm?FuseAction=Content&ID=12#Web)  
+> :  * [http://www.access-board.gov/sec508/guide/1194.22.htm#(o)](http://www.access-board.gov/sec508/guide/1194.22.htm#(o))
 
 ## 적절한 사용방법
 

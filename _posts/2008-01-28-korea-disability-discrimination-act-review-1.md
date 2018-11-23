@@ -47,10 +47,11 @@ W3C WAI 에서는 다음과 같이 정의하고 있습니다.
 '장애를 가진 사람' 이라고 해석하는 경우와 '불리한 조건을 가진 사람(인터넷환경, 기기환경 등)' 이라고 해석해야한다는 입장이 있으나, 둘다 어떤 경우라도 웹에서 제공하는 정보는 누구나 접근할 수 있어야 한다는 점에서는 원칙적으로 동일할 것이라 생각합니다.  
 이것에 대한 많은 토론이 있었고, 현재도 있고, 미래에도 있을 부분이므로 우선 패스~
 
-> Web accessibility refers to the practice of making websites usable by people of all abilities and disabilities.  
-> [Wikipedia]<br><br>
-> 웹 접근성이란, 어떠한 사용자(장애인, 노인 등), 어떤 기술환경에서도 전문적인 능력 없이도 웹 사이트에서 제공하는 모든 정보에 접근하고 이용할 수 있도록 보장하는 것을 말한다.  
-> [한국정보문화진흥원]
+> **Wikipedia**
+> :  Web accessibility refers to the practice of making websites usable by people of all abilities and disabilities.  
+> 
+> **한국정보문화진흥원**
+> :  웹 접근성이란, 어떠한 사용자(장애인, 노인 등), 어떤 기술환경에서도 전문적인 능력 없이도 웹 사이트에서 제공하는 모든 정보에 접근하고 이용할 수 있도록 보장하는 것을 말한다.  
 
 
 우리 회사 사이트가 장애인이나 노인들이 이용할 수 없어? 맥(Mac)에서는 이용할 수 없어? 라고 물으시면 이렇게 답해드리겠습니다.  
