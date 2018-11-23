@@ -18,8 +18,8 @@ dsq_thread_id:
   - "3584961344"
 ---
 
-[처음 워드프레스 블로그를 만들고](http://www.jangkunblog.com/wp/wordpress-easy-install/){: target="_blank" } 너무 기뻐했던 기억이 납니다.  
-우연히 알게된 [워드프레스](http://www.wordpress.org){: target="_blank" }라는 툴에 감탄하며 아주 초보적인 실력이지만, HTML부터 CSS까지 나만의 방법으로 만들어 보았었죠.
+[처음 워드프레스 블로그를 만들고](//www.jangkunblog.com/wp/wordpress-easy-install/){: target="_blank" } 너무 기뻐했던 기억이 납니다.  
+우연히 알게된 [워드프레스](//www.wordpress.org){: target="_blank" }라는 툴에 감탄하며 아주 초보적인 실력이지만, HTML부터 CSS까지 나만의 방법으로 만들어 보았었죠.
 
 ![장군블로그 버전 1](/assets/img/2009/jangkunblog_v01.jpg){: .aligncenter}
 

@@ -27,7 +27,7 @@ dsq_thread_id:
 ![내가 좋아하는 마눌님 사진~ 재작년에 일본 공연 갔을 때~](/assets/img/2007/japan_showcase_03.jpg){: .aligncenter}
 *[내가 좋아하는 마눌님 사진~ 재작년에 일본 공연 갔을 때~]*{: .aligncenter }
 
-집사람이 [일본 공연](http://www.voiceofpeople.org/new/news_view.html?serial=69582){: target="_blank" }간지 벌써 6일째..
+집사람이 [일본 공연](//www.voiceofpeople.org/new/news_view.html?serial=69582){: target="_blank" }간지 벌써 6일째..
   
 공연 잘하고 있다는 통화만 계속 하고 있다..
   

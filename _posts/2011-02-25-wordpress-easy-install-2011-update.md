@@ -16,7 +16,7 @@ dsq_thread_id:
   - "3584961508"
 ---
 
-4년 전에 포스팅한 [워드프레스(WordPress) 설치하기](http://www.jangkunblog.com/wp/wordpress-easy-install/)라는 글이 있습니다.
+4년 전에 포스팅한 [워드프레스(WordPress) 설치하기](//www.jangkunblog.com/wp/wordpress-easy-install/)라는 글이 있습니다.
   
 크게 신경을 쓰지 않고 있었는데, 얼마전 우연히 트래픽을 좀 보다가 이 포스팅에 의외로 많은 분들이 접근하고 있다는 사실을 알게 되었습니다.
 
@@ -26,15 +26,15 @@ dsq_thread_id:
 
 ## WordPress Download
 
-오랜만에 [WordPress 사이트](http://wordpress.org/){: target="_blank" }에 가보니 예전에 비해 훨씬 콘텐츠도 정리됐고, 디자인도 깔끔해졌네요.
+오랜만에 [WordPress 사이트](//wordpress.org/){: target="_blank" }에 가보니 예전에 비해 훨씬 콘텐츠도 정리됐고, 디자인도 깔끔해졌네요.
 
 ![WordPress.org Homepage](/assets/img/2011/WordPress-Home-1024x780.png){: .aligncenter}
 
-상단 글로벌 메뉴의 우측 [Download](http://wordpress.org/download/){: target="_blank" } 를 클릭해서 들어가면 최신 버젼(2011.02.25. 현재 3.1)의 WordPress 설치파일을 내려받으실 수 있습니다.
+상단 글로벌 메뉴의 우측 [Download](//wordpress.org/download/){: target="_blank" } 를 클릭해서 들어가면 최신 버젼(2011.02.25. 현재 3.1)의 WordPress 설치파일을 내려받으실 수 있습니다.
 
 ![WordPress Download](/assets/img/2011/Safari.png){: .aligncenter}
 
-또는 <http://wordpress.org/latest.zip> 를 클릭하시면 언제나 최신 버젼을 내려받으실 수 있습니다.
+또는 <//wordpress.org/latest.zip> 를 클릭하시면 언제나 최신 버젼을 내려받으실 수 있습니다.
 
 ## wp-config-sample.php 파일명 변경 및 수정
 
@@ -65,14 +65,14 @@ WordPress 최신 버젼을 내려받고, 로컬에서 압축을 풀어보면, �
 
 대부분 두번째 방법을 사용해서 블로그를 관리하는 편입니다. 이유는 블로그와 상관없는 파일과 폴더 관리가 편하기 때문입니다. 또한 타 오픈소스(wiki 등)를 설치/관리하는 것 역시 편하기 때문입니다.
   
-대신 이렇게 관리를 할 경우, 반드시 [웹 서버에 리다이렉션을 위한 파일을 만들어야만](http://www.jangkunblog.com/wp/wordpress-easy-install/comment-page-1/#comment-17){: target="_blank" } 블로그로 연결된다는 단점이 있습니다.
+대신 이렇게 관리를 할 경우, 반드시 [웹 서버에 리다이렉션을 위한 파일을 만들어야만](//www.jangkunblog.com/wp/wordpress-easy-install/comment-page-1/#comment-17){: target="_blank" } 블로그로 연결된다는 단점이 있습니다.
 
 만약 WordPress만 사용할 거라면 첫번째 방법도 상관없습니다.
 
 ![FTP Upload Sample](/assets/img/2011/html5css3.org_.png){: .aligncenter}
 
 이제 웹 서버에 wp라는 폴더를 만들고, 그곳에 파일을 모두 업로드하였습니다.  
-(예제는 현재 제가 보유중인 [www.html5css3.org](http://www.html5css3.org/wp/){: target="_blank" }을 이용해서 설치해보고 있습니다.)
+(예제는 현재 제가 보유중인 [www.html5css3.org](//www.html5css3.org/wp/){: target="_blank" }을 이용해서 설치해보고 있습니다.)
 
 거의 끝나갑니다. ^^
 

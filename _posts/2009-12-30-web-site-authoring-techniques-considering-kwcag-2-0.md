@@ -20,7 +20,7 @@ dsq_thread_id:
   - "3584961436"
 ---
 
-얼마전(2009년 12월 22일) 한국형 웹 콘텐츠 접근성 지침 2.0(이하 KWCAG 2.0)이 TTA 단체 표준으로 [제정](http://www.wah.or.kr/Board/brd_view.asp?page=1&brd_sn=4&brd_idx=544){: target="_blank" }되었습니다. 2008년 12월에 제정된 W3C의 WCAG 2.0을 국내 실정에 맞게 만들기 위해 오랜기간 고생하신 많은 분([백남중 부장님](http://njpaiks.egloos.com/){: target="_blank" }, [현준호 부팀장님](http://jhyun.wordpress.com/){: target="_blank" }, [신현석님](http://hyeonseok.com/){: target="_blank" }, [정찬명님](http://www.naradesign.net/){: target="_blank" }, 그외 많은 전문가분들과 교수님들)들께 감사의 뜻을 전해야할 것 같습니다. 아무나 할 수 없는 일을 아무런 대가없이 오랜기간 해오신 노고가 아마도 국내 웹 접근성을 향상시키는 초석이 될거라 믿어의심치 않습니다.
+얼마전(2009년 12월 22일) 한국형 웹 콘텐츠 접근성 지침 2.0(이하 KWCAG 2.0)이 TTA 단체 표준으로 [제정](//www.wah.or.kr/Board/brd_view.asp?page=1&brd_sn=4&brd_idx=544){: target="_blank" }되었습니다. 2008년 12월에 제정된 W3C의 WCAG 2.0을 국내 실정에 맞게 만들기 위해 오랜기간 고생하신 많은 분([백남중 부장님](//njpaiks.egloos.com/){: target="_blank" }, [현준호 부팀장님](//jhyun.wordpress.com/){: target="_blank" }, [신현석님](//hyeonseok.com/){: target="_blank" }, [정찬명님](//www.naradesign.net/){: target="_blank" }, 그외 많은 전문가분들과 교수님들)들께 감사의 뜻을 전해야할 것 같습니다. 아무나 할 수 없는 일을 아무런 대가없이 오랜기간 해오신 노고가 아마도 국내 웹 접근성을 향상시키는 초석이 될거라 믿어의심치 않습니다.
 
 ![한국형 웹 콘텐츠 접근성 지침 2.0 (KWCAG 2.0)](/assets/img/2009/kwcag20.gif){: .aligncenter}  
   
@@ -28,9 +28,9 @@ dsq_thread_id:
 
 ## 핵심은 같습니다!
 
-얼마전에 미투데이를 통해 KWCAG 2.0이 나와서 기존에 작업한 내용을 또 모두 수정해야하는게 아닌가하는 [우려섞인 글](http://me2day.net/deuxksy/2009/12/28#11:10:27){: target="_blank" }을 보게 되었습니다. 이런 오해는 비단 이번 상황만의 문제는 아닌 듯 합니다.
+얼마전에 미투데이를 통해 KWCAG 2.0이 나와서 기존에 작업한 내용을 또 모두 수정해야하는게 아닌가하는 [우려섞인 글](//me2day.net/deuxksy/2009/12/28#11:10:27){: target="_blank" }을 보게 되었습니다. 이런 오해는 비단 이번 상황만의 문제는 아닌 듯 합니다.
 
-최근 여러가지의 [제작기법](http://www.wah.or.kr/Example/index.asp){: target="_blank" }과 [가이드라인](http://www.wah.or.kr/Guide/valuation.asp){: target="_blank" }, [지침](http://www.wah.or.kr/kwcag/index.asp){: target="_blank" } 등이 만들어지고, KADO-WAH, WAMS, AMP 등의 각종 웹 접근성 툴들이 봇물처럼 나오면서 웹 개발자들은 체크해봐야할 것들이 많아졌다고 합니다. 또 클라이언트(특히 공공기관 담당자)들은 이런 툴들을 통해 나온 평가결과를 가지고 제작자를 압박할 근거를 가지게 되었습니다.
+최근 여러가지의 [제작기법](//www.wah.or.kr/Example/index.asp){: target="_blank" }과 [가이드라인](//www.wah.or.kr/Guide/valuation.asp){: target="_blank" }, [지침](//www.wah.or.kr/kwcag/index.asp){: target="_blank" } 등이 만들어지고, KADO-WAH, WAMS, AMP 등의 각종 웹 접근성 툴들이 봇물처럼 나오면서 웹 개발자들은 체크해봐야할 것들이 많아졌다고 합니다. 또 클라이언트(특히 공공기관 담당자)들은 이런 툴들을 통해 나온 평가결과를 가지고 제작자를 압박할 근거를 가지게 되었습니다.
 
 여기서 웹 개발자들이 가장 힘든 것은 바로 그 **평가결과가 상이하다**는 것입니다. 분명히 지침대로 잘 만들었다고 생각을 했는데, 특정 평가툴에서 잘못 제작되었다는 결과가 나오고 클라이언트는 수정을 요청하게 되는 상황이 벌어지는 것입니다.
 

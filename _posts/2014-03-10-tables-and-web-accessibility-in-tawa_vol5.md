@@ -27,19 +27,19 @@ dsq_thread_id:
 
 ## 다와(Talk About Web Accessibility) 보고
 
-다와는 작년 [4월 13일에 처음으로 열리고](http://www.jangkunblog.com/wp/talk-about-web-accessibility-vol-1/){: target="_blank"} 난 후, 공식적인 행사는 5번 진행하였습니다.
+다와는 작년 [4월 13일에 처음으로 열리고](//www.jangkunblog.com/wp/talk-about-web-accessibility-vol-1/){: target="_blank"} 난 후, 공식적인 행사는 5번 진행하였습니다.
 
-  1. 다와 Vol.1 : [장차법과 웹 접근성](http://onoffmix.com/event/14172){: target="_blank"}
-  2. 다와 Vol.2 : [포털 Front-End개발자와 웹 접근성](http://onoffmix.com/event/14939){: target="_blank"}
-  3. 다와 Vol.3 : [대체 텍스트와 웹 접근성](http://onoffmix.com/event/16314){: target="_blank"}
-  4. 다와 Vol.4 : [보조기술과 웹 접근성](http://onoffmix.com/event/18765){: target="_blank"}
-  5. 다와 Vol.5 : [표(테이블)와 웹 접근성](http://onoffmix.com/event/24215){: target="_blank"}
+  1. 다와 Vol.1 : [장차법과 웹 접근성](//onoffmix.com/event/14172){: target="_blank"}
+  2. 다와 Vol.2 : [포털 Front-End개발자와 웹 접근성](//onoffmix.com/event/14939){: target="_blank"}
+  3. 다와 Vol.3 : [대체 텍스트와 웹 접근성](//onoffmix.com/event/16314){: target="_blank"}
+  4. 다와 Vol.4 : [보조기술과 웹 접근성](//onoffmix.com/event/18765){: target="_blank"}
+  5. 다와 Vol.5 : [표(테이블)와 웹 접근성](//onoffmix.com/event/24215){: target="_blank"}
 
-그 외 비공식적으로 [출장다와 1번](http://blog.hivelab.co.kr/textyle/6130){: target="_blank"}, [DevOn 2013에서 1번](http://devon.daum.net/2013/#!/program/meetup/tawa-in-devon-2013){: target="_blank"} 진행했습니다.  
+그 외 비공식적으로 [출장다와 1번](//blog.hivelab.co.kr/textyle/6130){: target="_blank"}, [DevOn 2013에서 1번](//devon.daum.net/2013/#!/program/meetup/tawa-in-devon-2013){: target="_blank"} 진행했습니다.  
 총 7번을 했네요.
 
 ![다와 행사 사진 모음](/assets/img/2014/tawa_vol5_1.png){: .aligncenter}
-*[행사 사진 보러 가기](http://www.flickr.com/photos/kwag2006/sets/){: target="_blank"}{: .aligncenter}*
+*[행사 사진 보러 가기](//www.flickr.com/photos/kwag2006/sets/){: target="_blank"}{: .aligncenter}*
 
 그동안 여러가지 우여곡절이 있었지만 나름 의미있는 행사를 했다고 스스로는 생각합니다.  
 지금도 정확한 운영방식은 없고, 조금씩 조금씩 포맷을 만들어간다고 생각하기 때문에 늘 긍정적으로 생각하고 있습니다.
@@ -51,12 +51,12 @@ dsq_thread_id:
 
 ![다와 Vol.5. 패널](/assets/img/2014/tawa_vol5_3.jpg){: .aligncenter}
 
-이번 행사의 패널로는 [정찬명](http://www.naradesign.net){: target="_blank"}님(SK 플래닛), [김혜일](http://haeppa.kr/){: target="_blank"}님(다음 서비스), [김해든](https://www.facebook.com/profile.php?id=100002348441857){: target="_blank"}님(시도우) 이렇게 세 분이 참가해주셨습니다.  
+이번 행사의 패널로는 [정찬명](//www.naradesign.net){: target="_blank"}님(SK 플래닛), [김혜일](//haeppa.kr/){: target="_blank"}님(다음 서비스), [김해든](//www.facebook.com/profile.php?id=100002348441857){: target="_blank"}님(시도우) 이렇게 세 분이 참가해주셨습니다.  
 세 분 모두 준비단계부터 행사끝까지 너무 재밌어하시고 적극적으로 참여해주셔서 행사가 한결 매끄러웠던 것 같습니다.
 
 전날 사회자들은 멘붕이었지만... ㅜㅜ ㅋㅋㅋ  
 다와 사회자를 운영진 중심으로 여러 조합으로 만들어보고 있는데, 이번 조합은 예상대로 '유쾌'한 조합이었습니다.  
-아... 누구냐구요? 저랑 [김정윤 팀장](http://semantic.pe.kr/){: target="_blank"}(SK Communications)이었어요~ ㅋㅋㅋ
+아... 누구냐구요? 저랑 [김정윤 팀장](//semantic.pe.kr/){: target="_blank"}(SK Communications)이었어요~ ㅋㅋㅋ
 
 이번 다와는 크게 3개의 세션으로 구성되었습니다.
 

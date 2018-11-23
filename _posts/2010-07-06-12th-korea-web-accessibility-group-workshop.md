@@ -23,13 +23,13 @@ dsq_thread_id:
 
 통상 KWAG라고 하며, '콱'이라는 이름으로 불리는 한국 웹 접근성 그룹은 국내 웹 접근성을 향상시키기 위해 만들어진 자발적인 모임입니다. 지난 2006년에서 2008년까지 주기적으로 웹 접근성과 웹 표준에 대한 주제를 기본 바탕으로한 세미나와 특정 주제에 대해 연구활동을 하는 TF 등을 구성하여 국내에 웹 접근성을 홍보하는 중요한 역할을 해온 민간단체입니다. 이러한 활동들은 결과적으로 민간분야의 웹 접근성 제고에 상당히 큰 영향을 끼쳤습니다.
 
-[콱 웹사이트](http://kwag.net/){: target="_blank" }에 보면 아래와 같이 정의하고 있습니다.
+[콱 웹사이트](//kwag.net/){: target="_blank" }에 보면 아래와 같이 정의하고 있습니다.
 
 > KWAG 은 한국 웹 접근성 그룹(Korea Web Accessbility group)의 약칭으로써, '콱'이라고 합니다. KWAG은 국내 웹 접근성의 증진을 도모하기 위해 회원들이 자발적으로 스터디와 세미나 등을 준비하고 진행합니다. 2006년 9월 국내 웹 접근성 전문가들의 주도로 첫 오프라인 세미나를 진행한 이후, 격주에 한번씩 스터디와 세미나를 진행하고 있습니다. 2006년까지는 추천제 회원방식과 이메일링 정보공유 방식으로 모임을 운영해왔지만, 기존의 폐쇄적 정보 공유를 해소하고자 2007년부터 공개형 회원방식으로 전환합니다.
 > 
 > <http://kwag.net/Main/AboutKWAG>
 
-[장애인 차별금지 및 권리구제 등에 관한 법률](http://www.jangkunblog.com/wp/korea-disability-discrimination-act-review-1/){: target="_blank" }을 배경으로 웹 접근성이 국내 웹 개발의 중요한 개발 기준이 된 것은 사실입니다.
+[장애인 차별금지 및 권리구제 등에 관한 법률](//www.jangkunblog.com/wp/korea-disability-discrimination-act-review-1/){: target="_blank" }을 배경으로 웹 접근성이 국내 웹 개발의 중요한 개발 기준이 된 것은 사실입니다.
 
 하지만 콱의 활동이 없었다면 현재의 웹 접근성에 대한 민간 개발자들의 인식은 기술에만 국한되었을 것입니다. 실제 장애인의 웹 사용 실태와 웹 접근성과 웹의 태생적인 연관 관계를 민간에 전파하는 것에 콱의 역할은 상당히 컸습니다.
 
@@ -54,7 +54,7 @@ dsq_thread_id:
 
 ### 워크샵 기본 정보
 
-  * 공식 안내 페이지 : [12번째 한국 웹 접근성 그룹(KWAG) 워크샵](http://kwag.net/Workshop/100717){: target="_blank" }
+  * 공식 안내 페이지 : [12번째 한국 웹 접근성 그룹(KWAG) 워크샵](//kwag.net/Workshop/100717){: target="_blank" }
   * 행사일 : 2010년 7월 17일 토요일 오후 1시~오후 6시
   * 참가인원 : 100명
   * 장소 : 미정 (곧 공지예정)
@@ -63,15 +63,15 @@ dsq_thread_id:
 ### 참가신청
 
   * 사전 참가 신청 : 2010년 7월 12일 월요일 오전 10시부터
-  * 자원봉사자 신청 : 2010년 7월 12일 월요일 오전 10시이후 메일 발송 : [jangkunblog@gmail.com](http://www.jangkunblog.com/wp/contact/){: target="_blank" }
-  * 발표 신청 : 2010년 7월 8일 목요일 오후 1시까지 메일 발송 : [jangkunblog@gmail.com](http://www.jangkunblog.com/wp/contact/){: target="_blank" }
-  * TFT (Task Force Team) 공모전 신청 : [참가신청 페이지](http://kwag.net/Workshop/100717Tft){: target="_blank" }
+  * 자원봉사자 신청 : 2010년 7월 12일 월요일 오전 10시이후 메일 발송 : [jangkunblog@gmail.com](//www.jangkunblog.com/wp/contact/){: target="_blank" }
+  * 발표 신청 : 2010년 7월 8일 목요일 오후 1시까지 메일 발송 : [jangkunblog@gmail.com](//www.jangkunblog.com/wp/contact/){: target="_blank" }
+  * TFT (Task Force Team) 공모전 신청 : [참가신청 페이지](//kwag.net/Workshop/100717Tft){: target="_blank" }
 
 ## 한국 웹 접근성 그룹의 활동가 모임 : TFT (Task Force Team) 공모전
 
 이번 워크샵에 재미있는 행사가 하나 있습니다. 바로 TFT 공모전이라는 행사입니다.
   
-잘 아시겠지만, 콱에서는 [특정 주제에 대한 연구를 진행하는 TF](http://kwag.net/TaskForce/TaskForce){: target="_blank" }가 여럿 있습니다. 이들 TF는 현재 활동중인 것도 있고, 그렇지 않은 것들도 있습니다. 이들 TF들과 더불어 개인적으로 또는 본인이 속한 소모임 등에서 평소 하고 싶었던 주제가 있다면 주제를 제출하고 해당 주제를 일정 기간동안 연구하여 결과물을 도출하는 것입니다. 물론 공모전이므로 도출된 결과와 활동내역을 통해 시상이 이루어집니다.
+잘 아시겠지만, 콱에서는 [특정 주제에 대한 연구를 진행하는 TF](//kwag.net/TaskForce/TaskForce){: target="_blank" }가 여럿 있습니다. 이들 TF는 현재 활동중인 것도 있고, 그렇지 않은 것들도 있습니다. 이들 TF들과 더불어 개인적으로 또는 본인이 속한 소모임 등에서 평소 하고 싶었던 주제가 있다면 주제를 제출하고 해당 주제를 일정 기간동안 연구하여 결과물을 도출하는 것입니다. 물론 공모전이므로 도출된 결과와 활동내역을 통해 시상이 이루어집니다.
 
 너무 어렵게 생각하지 않아도 될 것 같습니다.
   
@@ -79,8 +79,8 @@ dsq_thread_id:
   
 아니면 현재 어떤 모임(스터디 모임, 학습 모임)이 한번 도전해봐도 좋을 것 같습니다. 주제는 정말정말 많을 것 같습니다.
 
-  * [TFT 소개](http://kwag.net/TaskForce/TaskForce){: target="_blank" }
-  * TFT (Task Force Team) 공모전 신청 : [참가신청 페이지](http://kwag.net/Workshop/100717Tft){: target="_blank" }
+  * [TFT 소개](//kwag.net/TaskForce/TaskForce){: target="_blank" }
+  * TFT (Task Force Team) 공모전 신청 : [참가신청 페이지](//kwag.net/Workshop/100717Tft){: target="_blank" }
 
 ## 모입시다!
 
@@ -90,6 +90,6 @@ dsq_thread_id:
 
 ## 한국 웹 접근성 그룹 관련 링크 정보
 
-  * [KWAG 구글 그룹스](http://groups.google.com/group/kwag){: target="_blank" } : 그룹스에 가입하시면 가장 먼저 KWAG의 정보를 메일로 받으실 수 있습니다.
-  * [KWAG 미투데이](http://me2day.net/kwag){: target="_blank" } : 친구신청 고고!!!
-  * [KWAG 트위터](http://twitter.com/kwag2006){: target="_blank" } : follow~
+  * [KWAG 구글 그룹스](//groups.google.com/group/kwag){: target="_blank" } : 그룹스에 가입하시면 가장 먼저 KWAG의 정보를 메일로 받으실 수 있습니다.
+  * [KWAG 미투데이](//me2day.net/kwag){: target="_blank" } : 친구신청 고고!!!
+  * [KWAG 트위터](//twitter.com/kwag2006){: target="_blank" } : follow~

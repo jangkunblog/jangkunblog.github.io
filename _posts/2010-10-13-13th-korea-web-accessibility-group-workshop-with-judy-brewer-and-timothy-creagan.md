@@ -18,14 +18,14 @@ dsq_thread_id:
   - "3584961743"
 ---
 
-지난주 목요일(10월 7일) 오후 1시부터 6시 30분까지 등촌동 한국정보화진흥원에서 [한국 웹 접근성 그룹(KWAG)의 13번째 워크샵](http://kwag.net/Workshop/101007){: target="_blank" }이 열렸습니다. 항상 토요일에 진행하던 콱의 워크샵이 평일에 열리게 되어 다들 의아해하셨을거라 생각합니다. 그 이유는 발표자분들을 확인해보시면 쉽게 이해가 되실 겁니다.
+지난주 목요일(10월 7일) 오후 1시부터 6시 30분까지 등촌동 한국정보화진흥원에서 [한국 웹 접근성 그룹(KWAG)의 13번째 워크샵](//kwag.net/Workshop/101007){: target="_blank" }이 열렸습니다. 항상 토요일에 진행하던 콱의 워크샵이 평일에 열리게 되어 다들 의아해하셨을거라 생각합니다. 그 이유는 발표자분들을 확인해보시면 쉽게 이해가 되실 겁니다.
 
 > W3C <acronym title="Web Accessibility Initiative">WAI</acronym>(웹 접근성 위원회) 의장이며, 웹 접근성에서 가장 중요한 인물인 Judy Brewer와 미국 접근성 위원회 재활법 508조 담당자인 Timothy Creagan이 이번에 방한을 합니다. 쉽게 만나기 어려운 웹 접근성 분야 전문가들을 만나 다양한 주제에 대해 들어볼 수 있는 자리를 한국 웹 접근성 그룹(KWAG)에서 마련하게 되었습니다.
 > 
-> <[콱 13번째 워크샵 공지에서 발췌](http://kwag.net/Workshop/101007)>
+> <[콱 13번째 워크샵 공지에서 발췌](//kwag.net/Workshop/101007)>
 
 
-이번 콱 워크샵은 10월 6일 소공동 롯데호텔에서 열린 [웹 접근성 국제 세미나](http://www.dt.co.kr/contents.HTML?article_no=2010100702011060600007){: target="_blank" } 참석차 방한한 [Judy Brewer](http://www.w3.org/People/Brewer/){: target="_blank" }와 Timothy Creagan과 국내 웹 접근성 관련 개발자들과의 만남을 통해 다양한 의견을 교류하고자 마련된 자리였습니다. 어렵게 자리를 마련하고자하는 두 분의 일정을 고려하여 평일에 워크샵이 이루어지게 된 것입니다.
+이번 콱 워크샵은 10월 6일 소공동 롯데호텔에서 열린 [웹 접근성 국제 세미나](//www.dt.co.kr/contents.HTML?article_no=2010100702011060600007){: target="_blank" } 참석차 방한한 [Judy Brewer](//www.w3.org/People/Brewer/){: target="_blank" }와 Timothy Creagan과 국내 웹 접근성 관련 개발자들과의 만남을 통해 다양한 의견을 교류하고자 마련된 자리였습니다. 어렵게 자리를 마련하고자하는 두 분의 일정을 고려하여 평일에 워크샵이 이루어지게 된 것입니다.
 
 평일이라 얼마나 많은 인원이 참석할 수 있을지 걱정이 많았습니다. 하지만, 80명의 참석자 신청이 모두 완료되면서 그런 걱정은 기우에 불과했습니다. 더욱 놀라운 것은 당일 신청자 중 **3명만이 불참**하고, 모두 참석을 한 것입니다. 신청하고 참석하지 않는게 다반사인 워크샵/세미나를 생각하면 엄청난 참석률이 아닐 수 없었습니다.
 
@@ -33,7 +33,7 @@ dsq_thread_id:
 
 10월 7일 당일 오전에 영광스럽게도 Judy Brewer와 Timothy Creagan을 사전에 만나뵐 수 있는 기회가 있었습니다.
 
-NIA의 [현준호](http://jhyun.wordpress.com/){: target="_blank" } 부팀장님과 엑스비젼테크놀로지(Sense Reader 제조사)의 김정호 이사님, 디지털 타임스 [강동식](http://www.journalist.or.kr/news/articleView.HTML?idxno=20015){: target="_blank" } 기자님과 함께 대화를 나누는 자리라고 미리 전해들었습니다.
+NIA의 [현준호](//jhyun.wordpress.com/){: target="_blank" } 부팀장님과 엑스비젼테크놀로지(Sense Reader 제조사)의 김정호 이사님, 디지털 타임스 [강동식](//www.journalist.or.kr/news/articleView.HTML?idxno=20015){: target="_blank" } 기자님과 함께 대화를 나누는 자리라고 미리 전해들었습니다.
 
 도착해서 우선 워크샵 장소인 5층 강당으로 가서 기자재, 자리배치, 마이크, 랜선 등을 확인하니 10시 정도가 되었습니다. 곧 1층에 두 분이 도착하셨다는 연락이 왔습니다.
 
@@ -57,7 +57,7 @@ Judy Brewer가 먼저 눈에 띄었습니다. 휠체어에 있는 짐들을 내�
 
 두 분 모두 국내 보조기기들에 대해 상당히 관심을 보이면서 계속 질문을 하셨습니다. 보조기기에 대해 누구보다 잘 아실 것 같은데도 직접 시연도 해보시고, 현 부팀장님께 계속 질문하면서 정보를 얻고, 또 정보를 주는 모습이 인상적이었습니다. 더 인상적이었던 것은 혹시나 주위에 있는 사람이 못알아들을까봐 천천히 그리고 또박또박 말씀하시는 배려였습니다. 아마 발표할 때 들었던 분들은 느끼셨을 겁니다.
 
-보조기기 시연이 끝나고, 1층에 위치한 '[장애인 IT 생활체험관](http://www.dt.co.kr/contents.HTML?article_no=2010061402010560600005){: target="_blank" }'을 둘러본 후 본격적으로 간담회 같은게 시작되었습니다.
+보조기기 시연이 끝나고, 1층에 위치한 '[장애인 IT 생활체험관](//www.dt.co.kr/contents.HTML?article_no=2010061402010560600005){: target="_blank" }'을 둘러본 후 본격적으로 간담회 같은게 시작되었습니다.
 
 ![Judy Brewer, 성민장군 - 소개받는 중](/assets/img/2010/20101012_kwag_06.jpg){: .aligncenter}
 *[Judy Brewer, 성민장군 - 소개받는 중]*{: .aligncenter }
@@ -70,7 +70,7 @@ Judy Brewer는 국내 웹 접근성 분야에서 활동하는 활동가들과 �
 
 사전미팅은 몇일전까지 영어로 말해야한다는 심리적 압박감에 잠도 제대로 못자고 긴장했었지만, 큰 문제없이 진행되었고, 영어질문이 귀에 들어오는 것에 스스로 놀라기도 했습니다. ^^
 
-이어서 디지털 타임스의 강동식 기자님이 오시고, 본격적인 인터뷰가 진행되었습니다. 이때부터는 그냥 듣는 입장이 되었고, Judy Brewer와 Timothy Creagan에게 각각 다양한 질문들이 오고 갔습니다. 자세한 내용은 [디지털 타임스에 해당 기사](http://www.dt.co.kr/contents.HTML?article_no=2010101102012069600001){: target="_blank" }가 있으니 참고하시기 바랍니다.
+이어서 디지털 타임스의 강동식 기자님이 오시고, 본격적인 인터뷰가 진행되었습니다. 이때부터는 그냥 듣는 입장이 되었고, Judy Brewer와 Timothy Creagan에게 각각 다양한 질문들이 오고 갔습니다. 자세한 내용은 [디지털 타임스에 해당 기사](//www.dt.co.kr/contents.HTML?article_no=2010101102012069600001){: target="_blank" }가 있으니 참고하시기 바랍니다.
 
 기사에는 빠져있지만 Timothy Creagan이 미국 재활법 508조에 대한 얘기들을 많이 하셨고, 미국 공무원들도 참 절차가 많고 복잡하구나라는 생각이 들었습니다. 대표적인 사례로 인터뷰 중 나온 **미국 재활법 508조 개정안이 발효되는 시점**에 대한 답변은 아래와 같습니다.  
 (답변 중간에 Timothy Creagan이 통역을 신경안쓰고, 너무 많이 말해서 Judy Brewer가 멈추게 하는 해프닝도 있었습니다. ^^)
@@ -91,7 +91,7 @@ Judy Brewer는 국내 웹 접근성 분야에서 활동하는 활동가들과 �
 ![나인환님이 준비해오신 콱 로고가 새겨진 뺏지](/assets/img/2010/20101012_kwag_22.jpg){: .aligncenter}
 *[나인환님이 준비해오신 콱 로고가 새겨진 뺏지]*{: .aligncenter }
 
-웹 접근성 분야에서 희귀하게(?) 기획자로서 강의도 하시고, 글도 쓰시는 오픈컴의 [나인환](http://na93008.openhaja.com/blog/){: target="_blank" }님께서 콱 로고가 새겨진 뺏지를 제작해오신 겁니다. 자세히 상황을 들어보니 지난번 콱 워크샵때 받은 발표료로 제작을 하셨다고 합니다. 안그래도 참가자분들께 드릴 것이 없어서 죄송하고 그랬는데, 덕분에 도움이 많이 됐습니다.
+웹 접근성 분야에서 희귀하게(?) 기획자로서 강의도 하시고, 글도 쓰시는 오픈컴의 [나인환](//na93008.openhaja.com/blog/){: target="_blank" }님께서 콱 로고가 새겨진 뺏지를 제작해오신 겁니다. 자세히 상황을 들어보니 지난번 콱 워크샵때 받은 발표료로 제작을 하셨다고 합니다. 안그래도 참가자분들께 드릴 것이 없어서 죄송하고 그랬는데, 덕분에 도움이 많이 됐습니다.
 
 ![콱 워크샵 참석자들](/assets/img/2010/20101012_kwag_09.jpg){: .aligncenter}
 *[콱 워크샵 참석자들]*{: .aligncenter }
@@ -100,16 +100,16 @@ Judy Brewer는 국내 웹 접근성 분야에서 활동하는 활동가들과 �
 
 ## Global Web Accessibility와 함께하는 콱
 
-[콱 사이트의 행사 페이지](http://http://kwag.net/Workshop/101007){: target="_blank" }에도 나와있듯 이번 워크샵은 '**Global Web Accessibility와 함께하는 콱**'이라는 이름으로 해외의 웹 접근성 전문가분들을 연사로 모시는 자리였습니다.
+[콱 사이트의 행사 페이지](//kwag.net/Workshop/101007){: target="_blank" }에도 나와있듯 이번 워크샵은 '**Global Web Accessibility와 함께하는 콱**'이라는 이름으로 해외의 웹 접근성 전문가분들을 연사로 모시는 자리였습니다.
 
 W3C WAI의 의장인 Judy Brewer와 미국 접근성 위원회 재활법 508조 담당자인 Timothy Creagan가 바로 그 분들입니다.
 
-또한, WCAG 2.0의 기법관련 문서인 [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/){: target="_blank" }을 몇달동안 [번역작업](http://www.wah.or.kr/W3C_doc/index.asp){: target="_blank" } 하신 [윤좌진](http://boochim.net/){: target="_blank" }님, [연홍석](http://blog.wystan.net/){: target="_blank" }님, [김태곤](http://mygony.com/){: target="_blank" }님을 통해 웹 접근성 최신 지침을 구현하는 다양한 기법들에 대해 들어보는 자리이기도 했습니다.
+또한, WCAG 2.0의 기법관련 문서인 [Techniques for WCAG 2.0](//www.w3.org/TR/WCAG20-TECHS/){: target="_blank" }을 몇달동안 [번역작업](//www.wah.or.kr/W3C_doc/index.asp){: target="_blank" } 하신 [윤좌진](//boochim.net/){: target="_blank" }님, [연홍석](//blog.wystan.net/){: target="_blank" }님, [김태곤](//mygony.com/){: target="_blank" }님을 통해 웹 접근성 최신 지침을 구현하는 다양한 기법들에 대해 들어보는 자리이기도 했습니다.
 
 ![사회자 홍윤표님과 통역을 담당해주신 김은영님](/assets/img/2010/20101012_kwag_12.jpg){: .aligncenter}
 *[사회자 홍윤표님과 통역을 담당해주신 김은영님]*{: .aligncenter }
 
-이번 워크샵의 사회는 오페라 소프트웨어의 [홍윤표](http://mydeute.com/){: target="_blank" }님이 맡아주셨습니다. [CDK](http://forum.standardmag.org/){: target="_blank" }의 운영자이며, 다양한 행사에서 사회를 멋드러지게 보시는 분으로 정말 어렵게 섭외가 되었습니다.
+이번 워크샵의 사회는 오페라 소프트웨어의 [홍윤표](//mydeute.com/){: target="_blank" }님이 맡아주셨습니다. [CDK](//forum.standardmag.org/){: target="_blank" }의 운영자이며, 다양한 행사에서 사회를 멋드러지게 보시는 분으로 정말 어렵게 섭외가 되었습니다.
 
 워크샵 시작은 우선 아주 의미있는 순서부터 시작됐습니다.
 
@@ -118,13 +118,13 @@ W3C WAI의 의장인 Judy Brewer와 미국 접근성 위원회 재활법 508조 
 ![콱에서 준비한 감사패](/assets/img/2010/20101012_kwag_08.jpg){: .aligncenter}
 *[콱에서 준비한 감사패]*{: .aligncenter }
 
-감사패는 가능하면 한국의 느낌을 살리면서도 감사의 뜻을 전할 수 있게 하기 위해 특별히 신경(태극기)을 썼습니다. 시안은 시간도 없고, 또 제가 명색이 웹 디자이너이고 해서 오랜만에 직접 만들어봤습니다. 작성한 영문 감사글에 도움을 주신 분은 [현준호](http://jhyun.wordpress.com/){: target="_blank" } 부팀장님과 [신승식](http://gregshin.pe.kr/blog/){: target="_blank" } 차장님이십니다.
+감사패는 가능하면 한국의 느낌을 살리면서도 감사의 뜻을 전할 수 있게 하기 위해 특별히 신경(태극기)을 썼습니다. 시안은 시간도 없고, 또 제가 명색이 웹 디자이너이고 해서 오랜만에 직접 만들어봤습니다. 작성한 영문 감사글에 도움을 주신 분은 [현준호](//jhyun.wordpress.com/){: target="_blank" } 부팀장님과 [신승식](//gregshin.pe.kr/blog/){: target="_blank" } 차장님이십니다.
 
 워크샵이 끝나고 돌아가시면서 두 분 모두 감사패와 선물에 너무너무 즐거워 하셨다고 합니다. 우리들의 마음이 전달된 듯 하죠? 
 
 ### Judy Brewer (W3C WAI 의장)
 
-먼저 [Judy Brewer](http://www.w3.org/People/Brewer/){: target="_blank" }의 발표가 1시간 동안 진행되었습니다.
+먼저 [Judy Brewer](//www.w3.org/People/Brewer/){: target="_blank" }의 발표가 1시간 동안 진행되었습니다.
 
 전날인 6일 웹 접근성 국제 세미나와 동일한 'Web Accessibility: Progress, Resources, and Future Challenges'라는 주제로 발표가 진행되었습니다.
 
@@ -140,7 +140,7 @@ W3C WAI의 의장인 Judy Brewer와 미국 접근성 위원회 재활법 508조 
 > ![ W3C WAI 웹 사이트](/assets/img/2010/20101012_kwag_11.jpg){: .aligncenter}
 > *[ W3C WAI 웹 사이트]*{: .aligncenter }
 > 
-> **[W3C WAI](http://www.w3.org/WAI/){: target="_blank" }는 다양한 활동을 하고 있습니다.** 
+> **[W3C WAI](//www.w3.org/WAI/){: target="_blank" }는 다양한 활동을 하고 있습니다.** 
 > 
 > :  * 웹 접근성 지원을 위한 기술적 기반 마련을 위한 활동을 하고 있습니다. 웹 사이트를 개발하면서 CSS를 사용하면 웹 사이트 접근성을 향상시킬 수 있습니다. HTML5의 경우 웹 접근성 관련해서 아직은 수정할 것이 많습니다. 그렇다보니 W3C에서 표준을 아직 완성못하고 있습니다. 기술 기반 작업할 때 많이 사람들과 함게 일을 하고 있습니다. 늘 의견을 환영하고 있으니 협조부탁드립니다.
 > * 웹 사이트의 접근성을 평가하는 일도 하고 있습니다. 현재 100여 가지가 넘는 평가툴이 있습니다. 관심이 있다면 WAI 웹 사이트에서 찾아보시기 바랍니다.
@@ -148,9 +148,9 @@ W3C WAI의 의장인 Judy Brewer와 미국 접근성 위원회 재활법 508조 
 > 
 > **웹 사이트가 접근성이 보장되길 원한다면, 다음의 3가지 지침이 모두 지켜져야만 합니다.**
 > 
-> :  * [Authoring Tool Accessibility Guidelines (ATAG)](http://www.w3.org/WAI/intro/atag.php){: target="_blank" } : 개발자가 사용하는 저작툴에 대한 접근성 지침
-> * [Web Content Accessibility Guidelines (WCAG)](http://www.w3.org/WAI/intro/wcag.php){: target="_blank" } : 실제 개발하는 콘텐츠에 접근성을 보장하는 지침
-> * [User Agent Accessibility Guidelines (UAAG)](http://www.w3.org/WAI/intro/uaag.HTML){: target="_blank" } : 방문자들이 사용하는 유저에이전트에 대한 접근성 지침
+> :  * [Authoring Tool Accessibility Guidelines (ATAG)](//www.w3.org/WAI/intro/atag.php){: target="_blank" } : 개발자가 사용하는 저작툴에 대한 접근성 지침
+> * [Web Content Accessibility Guidelines (WCAG)](//www.w3.org/WAI/intro/wcag.php){: target="_blank" } : 실제 개발하는 콘텐츠에 접근성을 보장하는 지침
+> * [User Agent Accessibility Guidelines (UAAG)](//www.w3.org/WAI/intro/uaag.HTML){: target="_blank" } : 방문자들이 사용하는 유저에이전트에 대한 접근성 지침
 > 
 > **웹 콘텐츠 접근성 지침 2.0 (WCAG 2.0)**
 > 
@@ -160,13 +160,13 @@ W3C WAI의 의장인 Judy Brewer와 미국 접근성 위원회 재활법 508조 
 > 
 > :  저작 툴을 선택할 때는 ATAG을 지원하는지 꼭 확인해봐야합니다. 앞으로 저작 툴 제품을 살 때 소프트웨어 업체 직원한테 물어보거가 직접 판매회사에 물어보십시오. 그래야 점점더 해당 업체가 ATAG을 준수하도록 만들 수 있습니다.
 > 
-> **접근성 있는 [ARIA](http://www.w3.org/WAI/intro/aria.php){: target="_blank" }**
+> **접근성 있는 [ARIA](//www.w3.org/WAI/intro/aria.php){: target="_blank" }**
 > 
 > :  WAI ARIA를 사용하면 접근성 있는 웹 사이트를 사용할 때 도움을 받게 됩니다. 보조기술을 사용하는 사용자는 마음대로 웹 사이트의 콘텐츠가 변하게 되면 사용하기 어렵습니다. WAI ARIA는 동적인 웹 사이트를 좀더 접근성이 향상되게 만들 수 있습니다.
 > 
 > **W3C WAI 웹 사이트에서 활용할 수 있는 교육자료**
 > 
-> :  W3C WAI의 웹 사이트 주소는 <http://www.w3.org/WAI/> 입니다. 이곳에는 자료가 많이 올라와있습니다. 웹사이트에 들어가면 웹 접근성 소개, 관리방법, 지침, 평가방법 등이 소개돼 있습니다. 현재 웹 접근성과 관련해서 9개의 그룹이 활동하고 있습니다. 만약 보시고 관심이 있으면 함께 참여해주십시오. <br>현재 한국어 번역자료가 적습니다. 번역이 되면 많은 사람들이 정보에 접근할 수 있게 됩니다. 이로서 접근성이 향상된 웹사이트를 구축하게 되는 것이니 좋은 현상입니다.<br>웹 사이트에는 일단 웹 접근성을 소개하는 자료가 있습니다. 웹 접근성에 대해 잘 모르는 사람들이 있다면 그때 활용하기 좋습니다.<br>장애인들이 어떻게 웹사이트를 사용하는지에 대한 내용은 현재 개정 작업중이니 한달 후에 방문해주십시오.<br>접근성이 없는 웹사이트에 연락하기라는게 있습니다. 만약 접근성이 없는 웹 사이트를 발견하게 되면 운영자에게 직접 연락할 수 있습니다. 아니면 여러분이 만든 웹 사이트가 있다면 다른 사람이 여러분한테 말할수도 있습니다. 이 자료를 활용해서 문제를 파악하고 해결해나가는 유용한 자료입니다.<br>WCAG 2.0을 어떻게 준수할 수 있을까 하는 자료도 있습니다. 예를 들어, 개발을 하면서 HTML, CSS, SVG 등을 사용하면서 AA 수준으로 맞추고 싶다면 정확히 어떤 지침을 지켜야하는지도 알려주고 있습니다. 지속적으로 추가적인 테크닉을 보완하고 있고, 몇 주후에 Flash에 대해 업데이트가 될 것이고, Siverlight는 6개월 후에 업데이트가 되니 지켜봐주십시오.<br>모바일 접근성 향상시킬 자료들도 있습니다.
+> :  W3C WAI의 웹 사이트 주소는 <//www.w3.org/WAI/> 입니다. 이곳에는 자료가 많이 올라와있습니다. 웹사이트에 들어가면 웹 접근성 소개, 관리방법, 지침, 평가방법 등이 소개돼 있습니다. 현재 웹 접근성과 관련해서 9개의 그룹이 활동하고 있습니다. 만약 보시고 관심이 있으면 함께 참여해주십시오. <br>현재 한국어 번역자료가 적습니다. 번역이 되면 많은 사람들이 정보에 접근할 수 있게 됩니다. 이로서 접근성이 향상된 웹사이트를 구축하게 되는 것이니 좋은 현상입니다.<br>웹 사이트에는 일단 웹 접근성을 소개하는 자료가 있습니다. 웹 접근성에 대해 잘 모르는 사람들이 있다면 그때 활용하기 좋습니다.<br>장애인들이 어떻게 웹사이트를 사용하는지에 대한 내용은 현재 개정 작업중이니 한달 후에 방문해주십시오.<br>접근성이 없는 웹사이트에 연락하기라는게 있습니다. 만약 접근성이 없는 웹 사이트를 발견하게 되면 운영자에게 직접 연락할 수 있습니다. 아니면 여러분이 만든 웹 사이트가 있다면 다른 사람이 여러분한테 말할수도 있습니다. 이 자료를 활용해서 문제를 파악하고 해결해나가는 유용한 자료입니다.<br>WCAG 2.0을 어떻게 준수할 수 있을까 하는 자료도 있습니다. 예를 들어, 개발을 하면서 HTML, CSS, SVG 등을 사용하면서 AA 수준으로 맞추고 싶다면 정확히 어떤 지침을 지켜야하는지도 알려주고 있습니다. 지속적으로 추가적인 테크닉을 보완하고 있고, 몇 주후에 Flash에 대해 업데이트가 될 것이고, Siverlight는 6개월 후에 업데이트가 되니 지켜봐주십시오.<br>모바일 접근성 향상시킬 자료들도 있습니다.
 
 워크샵에 못 오신 분들도 계셔서 실제 말씀하신 내용을 가능하면 그대로 나열하려고 노력했습니다. 웹 접근성에 대해서 좀 더 자세히 설명을 했고, 특히 WAI 웹 사이트의 활용방법과 가지고 있는 콘텐츠에 대해 알려주어 지금보다 더 자주 들어가게 될 것 같습니다.
   
@@ -181,7 +181,7 @@ Judy Brewer와 마찬가지로 웹 접근성 국제 세미나와 동일한 'Sect
 ![발표중인 Timothy Creagan](/assets/img/2010/20101012_kwag_13.jpg){: .aligncenter}
 *[발표중인 Timothy Creagan]*{: .aligncenter }
 
-발표내용은 재활법 508조 개정에 관한 내용과 [재활법 508조 기술 초안에 있는 내용들](http://www.access-board.gov/sec508/refresh/draft-rule.htm){: target="_blank" }, 미칠 영향에 대해 설명하고나서 마지막에 질문 답변하는 것으로 발표내용이 구성되었습니다. 발표내용을 한번 요약해봤습니다.
+발표내용은 재활법 508조 개정에 관한 내용과 [재활법 508조 기술 초안에 있는 내용들](//www.access-board.gov/sec508/refresh/draft-rule.htm){: target="_blank" }, 미칠 영향에 대해 설명하고나서 마지막에 질문 답변하는 것으로 발표내용이 구성되었습니다. 발표내용을 한번 요약해봤습니다.
 
 > 미국의 접근성 위원회라는 미정부기관에서 일하는 티모시 크리건이라고 합니다. 미정부에서 웹 접근성이 향상된 콘텐츠를 제공하는 기술에 대해 말하도록 하겠습니다.
 > 
@@ -218,20 +218,20 @@ Timothy Creagan의 발표내용은 주로 각 장마다 초안에 대한 설명�
 
 ## Techniques for WCAG 2.0
 
-쉬는 시간을 갖고 이제부터 본격적으로 Techniques for WCAG 2.0의 [번역작업](http://www.wah.or.kr/W3C_doc/index.asp){: target="_blank" }을 맡으신 3분의 발표를 듣게 되었습니다. 참석자분들께 미리 번역자료를 읽어보고 오시라고 했는데, 많이 읽어오시지는 않았더군요. 워크샵이나 세미나때마다 느끼는건, **많은 내용을 얻어가기 위해서는 단순히 듣기만 하는 것이 아니라 발표주제를 미리 공부하고 와야한다**는 것입니다.
+쉬는 시간을 갖고 이제부터 본격적으로 Techniques for WCAG 2.0의 [번역작업](//www.wah.or.kr/W3C_doc/index.asp){: target="_blank" }을 맡으신 3분의 발표를 듣게 되었습니다. 참석자분들께 미리 번역자료를 읽어보고 오시라고 했는데, 많이 읽어오시지는 않았더군요. 워크샵이나 세미나때마다 느끼는건, **많은 내용을 얻어가기 위해서는 단순히 듣기만 하는 것이 아니라 발표주제를 미리 공부하고 와야한다**는 것입니다.
 
-### 윤좌진 (NHN, <http://boochim.net/>)
+### 윤좌진 (NHN, <boochim.net>)
 
-첫번째로 Techniques for WCAG 2.0 중에서 [HTML and XHTML Techniques의 번역작업](http://www.wah.or.kr/TR/WCAG20-TECHS/HTML.HTML){: target="_blank" }을 하신 윤좌진님.
+첫번째로 Techniques for WCAG 2.0 중에서 [HTML and XHTML Techniques의 번역작업](//www.wah.or.kr/TR/WCAG20-TECHS/HTML.HTML){: target="_blank" }을 하신 윤좌진님.
 
 ![발표중인 윤좌진님](/assets/img/2010/20101012_kwag_15.jpg){: .aligncenter}
 *[발표중인 윤좌진님]*{: .aligncenter }
 
 먼저 WCAG에 대한 설명 후 WCAG 2.0의 기법에 대한 설명으로 이어졌습니다. 지난 12회 워크샵때는 개괄적인 설명이 위주였다면 이번에는 자세한 설명을 추가하셨습니다. 대체 텍스트, 올바른 마크업, 테이블, 서식, 링크의 순서로 제작기법을 예제와 더불어 설명하여 기법을 이해하는데 도움이 많이 되었습니다. 세부 내용은 [아래 발표자료](#presentation)로 대체하겠습니다. 참고하시길 바랍니다.
 
-### 연홍석 (<span class="china">前</span> NHN, <http://blog.wystan.net/>)
+### 연홍석 (<span class="china">前</span> NHN, <blog.wystan.net>)
 
-두번째로 Techniques for WCAG 2.0 중에서 [CSS Techniques의 번역작업](http://www.wah.or.kr/TR/WCAG20-TECHS/css.HTML){: target="_blank" }을 하신 연홍석님.
+두번째로 Techniques for WCAG 2.0 중에서 [CSS Techniques의 번역작업](//www.wah.or.kr/TR/WCAG20-TECHS/css.HTML){: target="_blank" }을 하신 연홍석님.
 
 연홍석님 블로그를 방문해 보신 분들이 많으시겠지만, 혹시나 아직 방문전이시면 반드시 방문하실 것을 권합니다. CSS에 관한 다양한 글들이 있으며 정말 '주옥'같은 글들이라고 개인적으로 생각합니다.
 
@@ -240,9 +240,9 @@ Timothy Creagan의 발표내용은 주로 각 장마다 초안에 대한 설명�
 
 먼저 CSS란 무엇인지, CSS를 사용하면 어떤 이득이 있는지 설명하고, 본격적으로 CSS 기법 부분으로 넘어갔습니다. CSS는 WCAG 2.0의 네 가지 원칙 중 '인식할 수 있도록 (Perceivable)'과 '사용할 수 있도록 (Operable)'에 주로 해당되는 부분이며, 이 두 가지와 연관지어서 각 항목들을 설명하는 방식으로 진행되었습니다. 세부 내용은 항목이 많다보니 [아래 발표자료](#presentation)로 대체하겠습니다. 참고하시길 바랍니다.
 
-### 김태곤 (NHN, <http://mygony.com/>)
+### 김태곤 (NHN, <mygony.com>)
 
-마지막으로 Techniques for WCAG 2.0 중에서 [Client-side Scripting Techniques의 번역작업](http://www.wah.or.kr/TR/WCAG20-TECHS/client-side-script.HTML){: target="_blank" }을 하신 김태곤님.
+마지막으로 Techniques for WCAG 2.0 중에서 [Client-side Scripting Techniques의 번역작업](//www.wah.or.kr/TR/WCAG20-TECHS/client-side-script.HTML){: target="_blank" }을 하신 김태곤님.
 
 외부발표가 처음이시라고 하셨는데, 아주 능수능란하게 때론 강의같기도 한 위트있는 발표가 진행되었습니다.
 
@@ -283,15 +283,15 @@ Timothy Creagan의 발표내용은 주로 각 장마다 초안에 대한 설명�
 
 ## 발표자료 및 사진모음 {#presentation}
 
-  * Judy Brewer님의 [Web Accessibility: Progress, Resources, and Future Challenges 발표자료](http://www.wah.or.kr/Board/brd_view.asp?page=1&brd_sn=5&brd_idx=602){: target="_blank" }
-  * Timothy Creagan님의 [Section 508 and the ICT Refresh of the 508 Standard 발표자료](http://www.wah.or.kr/Board/brd_view.asp?page=1&brd_sn=5&brd_idx=603){: target="_blank" }
+  * Judy Brewer님의 [Web Accessibility: Progress, Resources, and Future Challenges 발표자료](//www.wah.or.kr/Board/brd_view.asp?page=1&brd_sn=5&brd_idx=602){: target="_blank" }
+  * Timothy Creagan님의 [Section 508 and the ICT Refresh of the 508 Standard 발표자료](//www.wah.or.kr/Board/brd_view.asp?page=1&brd_sn=5&brd_idx=603){: target="_blank" }
   * 윤좌진님의 [HTML and XHTML Techniques 발표자료](/assets/file/KWAG_13th_Workshop_HTML_and_XHTML_Techniques_by_boochim.pdf){: target="_blank" }
   * 연홍석님의 [CSS Techniques 발표자료](/assets/file/KWAG_13th_Workshop_CSS_Techniques_by_wystan.pdf){: target="_blank" }
-  * 김태곤님의 [Client-side Scripting Techniques](http://mygony.com/archives/2841){: target="_blank" }
+  * 김태곤님의 [Client-side Scripting Techniques](//mygony.com/archives/2841){: target="_blank" }
 
-**당일 제가 찍은 사진들이 보고 싶으시면 아래 주소로 이동하셔서 확인하시면 됩니다~** : [성민장군의 Picasa 웹 앨범](http://picasaweb.google.co.kr/jangkunblog/KWAG13){: target="_blank" }
+**당일 제가 찍은 사진들이 보고 싶으시면 아래 주소로 이동하셔서 확인하시면 됩니다~** : [성민장군의 Picasa 웹 앨범](//picasaweb.google.co.kr/jangkunblog/KWAG13){: target="_blank" }
 
 ## 다른 후기 모음
 
-  * Outsider님의 후기 : [첫번째](http://blog.outsider.ne.kr/533){: target="_blank" } [두번째](http://blog.outsider.ne.kr/534){: target="_blank" }
-  * Na!님의 후기 : [13th KWAG](http://na93008.openhaja.com/blog/?p=1547){: target="_blank" }
+  * Outsider님의 후기 : [첫번째](//blog.outsider.ne.kr/533){: target="_blank" } [두번째](//blog.outsider.ne.kr/534){: target="_blank" }
+  * Na!님의 후기 : [13th KWAG](//na93008.openhaja.com/blog/?p=1547){: target="_blank" }
