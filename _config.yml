@@ -6,7 +6,7 @@ url: "www.jangkunblog.com"
 theme_settings:
   # Meta
   title: 장군블로그
-  favicon: assets/favicon.ico
+  favicon: favicon.ico
   description: 진심을 담은 마크업! 그 마음이 웹 접근성을 향상시킵니다.
   og-image: jangkunblog.png
 
@@ -54,4 +54,3 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
-  

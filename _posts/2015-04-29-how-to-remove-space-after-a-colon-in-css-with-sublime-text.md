@@ -13,6 +13,8 @@ excerpt: Sublime Text의 CSS 속성 뒤의 공간에 대한 Sublime Text의 기�
 image: how-to-remove-space-after-a-colon-in-css-with-sublime-text.png
 views:
   - "12791"
+dsq_thread_id:
+  - "3722192709"
 ---
 
 저는 컴퓨터 포맷 전에 프로그램 세팅을 백업하는 것을 자주 까먹는 편입니다.  

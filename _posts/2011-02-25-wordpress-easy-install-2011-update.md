@@ -11,7 +11,9 @@ tags:
 excerpt: 4년 전에 포스팅한 워드프레스(WordPress) 설치하기라는 글이 있습니다. 크게 신경을 쓰지 않고 있었는데, 얼마전 우연히 트래픽을 좀 보다가 이 포스팅에 의외로 많은 분들이 접근하고 있다는 사실을 알게 되었습니다. 상당히 의외였고, 워낙 옛날 설치 방법이라 그대로 둬서는 안될 것 같아서 최신 버젼의 설치방법을 소개하는 글을 쓰려고 합니다. 순서는 기존 글과 동일하게 가도록 하겠습니다. 그럼 시작해볼까요~ WordPress Download 오랜만에 WordPress 사이트에 가보니 예전에 비해 훨씬 콘텐츠도 정리됐고, 디자인도 깔끔해졌네요. 상단 글로벌 메뉴의 우측 Download 를 클릭해서 들어가면 최신 버젼(2011.02.25. 현재 3.1) [...]
 image: wordpress-easy-install-2011-update.png
 views:
-  - "21746"
+  - "21755"
+dsq_thread_id:
+  - "3584961508"
 ---
 
 4년 전에 포스팅한 [워드프레스(WordPress) 설치하기](http://www.jangkunblog.com/wp/wordpress-easy-install/)라는 글이 있습니다.

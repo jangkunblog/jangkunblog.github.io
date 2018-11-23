@@ -6,6 +6,10 @@ permalink: /favorite-link/
 date: 2007-10-02
 excerpt: 안녕하세요! 성민장군의 블로그에 오신 것을 환영합니다. 이 공간은 개인적인 생각과 일상들을 정리하는 지극히 개인적인 공간입니다. 웹 접근성과 웹 표준에 관심이 많습니다. 특히 웹 접근성 관련하여 이런저런 활동을 하고 있습니다.
 image: jangkunblog-favorite-link.png
+views:
+  - "238907"
+dsq_thread_id:
+  - "3584953921"
 ---
 
 ## 개인적으로 자주가는 곳

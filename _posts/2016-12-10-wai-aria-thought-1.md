@@ -13,6 +13,8 @@ excerpt: 2016 정보접근성 기술 컨퍼런스를 다녀왔다. 역시 예상
 image: wai-aria-thought-1.png
 views:
   - "9569"
+dsq_thread_id:
+  - "5367896294"
 ---
 
 [2016 정보접근성 기술 컨퍼런스](http://www.wah.or.kr/board/boardView.asp?page=1&brd_sn=2&brd_idx=1017){: target="_blank" }를 다녀왔다.
