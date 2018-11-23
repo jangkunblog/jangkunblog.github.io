@@ -13,6 +13,8 @@ excerpt: 웹 접근성을 키워드로 사업을 하는 것은 절대 나쁘지 
 image: web-accessibility-copyright.png
 views:
   - "14279"
+dsq_thread_id:
+  - "3588327554"
 ---
 
 웹 접근성에 대해 오랜기간 많은 얘기를 해왔습니다.

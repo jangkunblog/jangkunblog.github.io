@@ -14,6 +14,8 @@ excerpt: 얼마전 한국 워드프레스 사용자 모임에서 진행하는 �
 image: how-to-improve-wordpress-s-web-accessibility.png
 views:
   - "12076"
+dsq_thread_id:
+  - "3584941078"
 youtubeId: lvb8SANYsUs
 ---
 

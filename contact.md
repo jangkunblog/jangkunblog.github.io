@@ -3,9 +3,11 @@ layout: page
 lang: ko
 title: 연락하기
 permalink: /contact/
-date: 2007-10-02
+date: 2009-06-03
 excerpt: 안녕하세요! 성민장군에게 할 말 있으세요? 메일 보내주세요.
 image: jangkunblog-mail.png
+views:
+  - "17490"
 ---
 
 <form method="POST" action="https://formspree.io/jangkunblog@gmail.com" class="contact-form">
