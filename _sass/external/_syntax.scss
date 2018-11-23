@@ -26,14 +26,22 @@
 
 }
 code.highlighter-rouge {
-    background-color: #f8f8f8;
-    color: #e96900;
-    padding: 3px 5px;
-    margin: 0 2px;
-    border-radius: 4px;
-    white-space: nowrap;
+    // background-color: #f8f8f8;
+    // color: #e96900;
+    // padding: 3px 5px;
+    // margin: 0 2px;
+    // border-radius: 4px;
+    // white-space: nowrap;
+    // font-weight: bold;
+    // font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+    font-family: Consolas,'Courier New',monospace;
+    font-size: 15px;
+    background-color: #e0f5ff;
+    border: 1px solid #8ec6e4;
+    padding: 2px 5px 0 5px;
     font-weight: bold;
-    font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+    margin:0 2px;
+    vertical-align: middle;
 }
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }

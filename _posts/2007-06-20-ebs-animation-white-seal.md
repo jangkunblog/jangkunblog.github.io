@@ -15,10 +15,10 @@ views:
   - "8615"
 dsq_thread_id:
   - "3584960722"
-youtubeId: 
+youtubeId: c33LrxP4LVY
 ---
 
-EBS 에서 '[하얀물개](http://www.whiteseal.co.kr){: target="_blank" }'라는 애니가 방영중이다.
+EBS 에서 '[하얀물개](http://www.whiteseal.co.kr){: target="_blank" }'라는 애니가 방영중이다. 
 
 ![EBS 애니메이션 하얀물개](/assets/img/2007/ebs-animation-white-seal.png){: .aligncenter}
 
@@ -36,7 +36,7 @@ EBS 에서 '[하얀물개](http://www.whiteseal.co.kr){: target="_blank" }'라�
 마눌님.. 미안해.. 사랑해~
 
 {% include youtubePlayer.html id=page.youtubeId %}
-*하얀물개 중 내 마음 속의 무지개]*{: .aligncenter }
+*하얀물개 중 내 마음 속의 무지개*{: .aligncenter }
 
 
 ## 줄거리

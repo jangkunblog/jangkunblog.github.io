@@ -173,8 +173,10 @@ address {
 }
 
 abbr,acronym {
-    border-bottom: 1px dotted #666;
-    cursor: help
+    border: 1px dotted #666;
+    padding:2px 6px 0 6px;
+    cursor: help;
+    text-decoration: none;
 }
 
 mark,ins {
@@ -528,10 +530,6 @@ embed,iframe,object {
         margin-left: 1.5em
     }
 
-    .post-content dd {
-        margin-left: 2em
-    }
-
     .post-content blockquote {
         padding: 28px 0 1px 45px
     }
@@ -556,6 +554,27 @@ embed,iframe,object {
     .post-content th, .post-content td {
         padding: 12px
     }
+}
+
+.post-content dt {
+    margin-top: 1em;
+    margin-bottom: 8px;
+}
+
+.post-content dt:first-child {
+    margin-top: 0em;
+}
+
+.post-content dd {
+    margin-left: 1em;
+    margin-bottom: 8px;
+}
+
+.posted-on {
+    background: url("/assets/img/common/icn_bg_1.png") no-repeat 0 2px;
+    padding-left: 20px;
+    margin-left: 5px;
+    margin-right: 5px
 }
 
 .aligncenter,.alignleft,.alignright {
@@ -881,6 +900,35 @@ em.aligncenter {
     padding-top: 8px
 }
 
+.site-jangkunblog {
+    position: absolute;
+    top: -15px;
+    left: 280px;
+    z-index: 1000;
+    margin: 0px
+}
+
+.site-jangkunblog a {
+    display: block;
+    width: 170px;
+    height: 170px;
+    background: url("/assets/img/common/logo_jangkunblog.png") no-repeat 0 0
+}
+
+@media screen and (max-width: 780px) {
+    .site-jangkunblog {
+        top:-5px;
+        left: auto;
+        right: 0
+    }
+
+    .site-jangkunblog a {
+        background-size: 100%;
+        width: 100px;
+        height: 100px
+    }
+}
+
 @media screen and (max-width: 779px) {
     .menu-toggle {
         border-top:solid 1px #ddd;
@@ -1147,6 +1195,14 @@ em.aligncenter {
         line-height: 42px;
         margin-bottom: 12px;
         padding-bottom: 60px
+    }
+
+    .site-main .post-header .post-title {
+        padding-bottom: 0;
+    }
+
+    .site-main .post-header .post-meta {
+        margin-top: 24px;
     }
 }
 
@@ -1501,4 +1557,19 @@ em.aligncenter {
       display: block;
       margin-top:-20px;
       margin-bottom: 20px;
+  }
+
+  .post-content .tag-title {
+      background: none;
+      padding-left:0;
+      border-bottom:1px solid #999;
+  }
+
+  .post-content .tagged-post {
+      padding:0;
+
+      .meta {
+          color: #333;
+          font-size: 12px;
+      }
   }
