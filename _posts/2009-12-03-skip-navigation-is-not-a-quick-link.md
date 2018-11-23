@@ -23,7 +23,7 @@ dsq_thread_id:
 건너뛰기 링크는 말 그대로 '링크'를 건너뛰기 위해 제공되는 메뉴를 의미합니다. 여기서 '링크'라는 것은 매 페이지마다 반복적으로 제공되는 링크를 말하며, 건너뛰기 링크는 이를 건너뛰어 바로 본문으로 포커스를 이동할 수 있게 해주는 역할을 하게 됩니다.
 
 ![웹 접근성 연구소에 제공된 건너뛰기 링크 (skip navigation)](/assets/img/2009/skip_navigation_wah1.gif){: .aligncenter}
-*[웹 접근성 연구소의 건너뛰기 링크 사례](http://www.wah.or.kr){: target="_blank" }*{: .aligncenter }
+*[웹 접근성 연구소의 건너뛰기 링크 사례](//www.wah.or.kr){: target="_blank" }*{: .aligncenter }
 
 **비장애인**의 경우 화면에 출력된 내용을 시각적으로 정확히 인지할 수 있고, 화면에서 원하는 영역으로 바로 시선을 옮길 수 있습니다. 하지만, **장애인**의 경우에는 화면에 출력된 내용을 시각적으로 볼 수 없기 때문에 특정 행동, 즉 Tab키나 방향키로 콘텐츠들을 지나가거나 보조 기기의 단축키 등을 이용해야 합니다.
 
@@ -39,19 +39,19 @@ dsq_thread_id:
 
 > **지침 13. 명확한 탐색 구조를 가져야 한다.**  
 > :  13.6 관련된 링크들은 한데 묶어 두고, 웹 표시 장치가 그 모둠을 식별할 수 있도록 표시한다. 그리고, 웹 표시 장치가 사용자들에게 그런 기능을 제공하기 전까지는 모둠을 건너 뛸 수 있는 방법도 제시해 주어야 한다. [중요도 3]  
-> :  * [http://gregshin.pe.kr/wcag/#gl-facilitate-navigation](http://gregshin.pe.kr/wcag/#gl-facilitate-navigation)
+> :  * [gregshin.pe.kr/wcag/#gl-facilitate-navigation](//gregshin.pe.kr/wcag/#gl-facilitate-navigation)
 
 ### IWCAG 1.0 (Internet Web Content Accessibility Guidelines 1.0, 2005년 12월 21일)
 
 > **지침8. 웹콘텐츠는 반복적인 네비게이션(repetitive navigation link)를 뛰어넘어 페이지의 핵심부분으로 직접 이동할 수 있게 구성하여야 한다.**  
 > :  ① 웹 콘텐츠상에 반복적 네비게이션 링크 객체가 포함되어 있으며 이 링크 객체가 콘텐츠의 핵심부분보다 먼저 읽어주도록 구성된 경우에 이들링크들의 읽기를 생략하고 직접 콘텐츠의 메인 부분으로 직접 이동할 수 있는 링크를 제공하여야 한다.  
-> :  * [http://www.wah.or.kr/kwcag/wcag_guide_8.asp](http://www.wah.or.kr/kwcag/wcag_guide_8.asp)
+> :  * [www.wah.or.kr/kwcag/wcag_guide_8.asp](//www.wah.or.kr/kwcag/wcag_guide_8.asp)
 
 ### 웹 접근성 향상을 위한 국가표준 기술 가이드라인 (2009년 03월 17일)
 
 > **9. 반복되는 링크를 건너뛸 수 있도록 건너뛰기 링크(Skip Navigation)를 제공해야 한다.**  
 > :  반복적인 네비게이션 링크를 뛰어넘어 페이지의 핵심부분으로 직접 이동할 수 있도록 건너뛰기 링크를 제공해야 한다.   
-> :  * [http://www.wah.or.kr/Guide/valuation.asp](http://www.wah.or.kr/Guide/valuation.asp)
+> :  * [www.wah.or.kr/Guide/valuation.asp](//www.wah.or.kr/Guide/valuation.asp)
 
 ### 미 재활법 508조 (Section 508. 1998년 08월 07일)
 
@@ -60,8 +60,8 @@ dsq_thread_id:
 > 
 > **1194.22조 웹 기반 인트라넷과 인터넷 정보 및 응용 프로그램**  
 > :  (o) 반복적인 내비게이션 링크를 사용자가 건너뛸 수 있는 방법을 제공해야한다.  
-> :  * [http://www.section508.gov/index.cfm?FuseAction=Content&ID=12#Web](http://www.section508.gov/index.cfm?FuseAction=Content&ID=12#Web)  
-> :  * [http://www.access-board.gov/sec508/guide/1194.22.htm#(o)](http://www.access-board.gov/sec508/guide/1194.22.htm#(o))
+> :  * [www.section508.gov/index.cfm?FuseAction=Content&ID=12#Web](//www.section508.gov/index.cfm?FuseAction=Content&ID=12#Web)  
+> :  * [www.access-board.gov/sec508/guide/1194.22.htm#(o)](//www.access-board.gov/sec508/guide/1194.22.htm#(o))
 
 ## 적절한 사용방법
 
@@ -108,7 +108,7 @@ dsq_thread_id:
 
 이때, 추가적으로 '대메뉴 바로가기'나 '퀵 메뉴 바로가기' 등을 제공하는 정도는 일정 부분 허용할 수 있다고 하더라도 아래 사례처럼 많은 링크를 제공하는 것은 피해야합니다.
 
-'메뉴 건너뛰기'라는 명칭은 '콘텐츠 바로가기', '본문 바로가기' 등의 이름으로도 사용될 수 있습니다. 하지만, [링크가 이동되는 위치보다는 링크로 인해 건너뛰는 부분을 알려줄 수 있도록 링크명을 정하는 것이 더 적절하다](http://www.wah.or.kr/Example/wcag_valu.asp?cate=47){: target="_blank" }고 볼 수 있습니다.
+'메뉴 건너뛰기'라는 명칭은 '콘텐츠 바로가기', '본문 바로가기' 등의 이름으로도 사용될 수 있습니다. 하지만, [링크가 이동되는 위치보다는 링크로 인해 건너뛰는 부분을 알려줄 수 있도록 링크명을 정하는 것이 더 적절하다](//www.wah.or.kr/Example/wcag_valu.asp?cate=47){: target="_blank" }고 볼 수 있습니다.
 
 ## 잘못된 사례
 
@@ -222,7 +222,7 @@ dsq_thread_id:
 
 하지만, 보조 기기를 통해 접근하는 사용자뿐 아니라, 모든 사용자들이 건너뛰기 링크를 이용할 수 있도록 화면상에 건너뛰기 링크를 노출시키는 것이 더 좋다고 개인적으로 생각합니다.
 
-물론 마우스를 사용함에 있어서 큰 불편함이 없는 사용자들에게 해당 링크가 [공해가 될 수 있다는 의견](http://naradesign.net/open_content/lecture/wp/#section33){: target="_blank" }도 있고, 이를 [해결하기 위한 방법](http://naradesign.net/open_content/reference/navigation.html){: target="_blank" }도 제시되었지만, 비장애인이고 마우스 이용이 훨씬 편한 저도 스크롤을 내리는 것보다 건너뛰기 링크를 클릭하여 바로 콘텐츠로 이동하는 방법이 편할때가 있습니다. 이는 개인차가 있을 수 있을 것 같아서 논외로 하겠습니다.(의견은 댓글로 부탁드립니다.)
+물론 마우스를 사용함에 있어서 큰 불편함이 없는 사용자들에게 해당 링크가 [공해가 될 수 있다는 의견](//naradesign.net/open_content/lecture/wp/#section33){: target="_blank" }도 있고, 이를 [해결하기 위한 방법](//naradesign.net/open_content/reference/navigation.html){: target="_blank" }도 제시되었지만, 비장애인이고 마우스 이용이 훨씬 편한 저도 스크롤을 내리는 것보다 건너뛰기 링크를 클릭하여 바로 콘텐츠로 이동하는 방법이 편할때가 있습니다. 이는 개인차가 있을 수 있을 것 같아서 논외로 하겠습니다.(의견은 댓글로 부탁드립니다.)
 
 ## 개발시 검수 방법
 
@@ -232,11 +232,11 @@ dsq_thread_id:
 
 ### 스타일 제거
 
-[Firefox](http://www.mozilla.or.kr){: target="_blank" } 사용자는 Firefox의 보기 메뉴에서 쉽게 CSS 즉, 스타일을 제거할 수 있습니다. 그리고, Internet Explorer 8 사용자는 '보기 > 스타일 > 스타일 없음'을 선택하거나, 개발자 도구(F12)를 클릭하고 '사용 안 함 > CSS'를 선택하면 됩니다.
+[Firefox](//www.mozilla.or.kr){: target="_blank" } 사용자는 Firefox의 보기 메뉴에서 쉽게 CSS 즉, 스타일을 제거할 수 있습니다. 그리고, Internet Explorer 8 사용자는 '보기 > 스타일 > 스타일 없음'을 선택하거나, 개발자 도구(F12)를 클릭하고 '사용 안 함 > CSS'를 선택하면 됩니다.
 
 ![Firefox CSS disable](/assets/img/2009/jangkunblog_firefox_css_disable.gif){: .aligncenter}
 
-또한 마크업 개발자라면 아마도 다들 설치했을 Firefox 부가기능인 [Web Developer Tool Bar](http://chrispederick.com/work/web-developer/){: target="_blank" }를 통해서도 쉽게 CSS를 제거할 수 있다. 사실 이것이 마크업 개발자들이 스타일을 제거하는데 가장 많이 사용하는 방법일 것이다. (단축키 : Ctrl + Shift + S)
+또한 마크업 개발자라면 아마도 다들 설치했을 Firefox 부가기능인 [Web Developer Tool Bar](//chrispederick.com/work/web-developer/){: target="_blank" }를 통해서도 쉽게 CSS를 제거할 수 있다. 사실 이것이 마크업 개발자들이 스타일을 제거하는데 가장 많이 사용하는 방법일 것이다. (단축키 : Ctrl + Shift + S)
 
 ![Web Developer Toolbar - Firefox CSS disable](/assets/img/2009/firefox_css_disable_wd.gif){: .aligncenter}
 
@@ -260,7 +260,7 @@ dsq_thread_id:
 
 제 글과 더불어 참고할만한 외부 자료 및 블로그 글들을 찾는대로 링크하도록 하겠습니다. 함께 보시면 더 좋을 것 같아서 추가하기로 했습니다. ^^
 
-  * [HHS.gov - Skip Navigation (Accessibility/508)](http://www.hhs.gov/web/policies/skipnavigation.html){: target="_blank" }
-  * [WebAIM - 'Skip Navigation' Links](http://www.webaim.org/techniques/skipnav/){: target="_blank" }
-  * [JimThatcher.com - Skip Navigation Links](http://jimthatcher.com/skipnav.htm){: target="_blank" }
-  * [Dive Into Accessibility - Day 11: Skipping over navigation links](http://diveintoaccessibility.org/day_11_skipping_over_navigation_links.html){: target="_blank" }
+  * [HHS.gov - Skip Navigation (Accessibility/508)](//www.hhs.gov/web/policies/skipnavigation.html){: target="_blank" }
+  * [WebAIM - 'Skip Navigation' Links](//www.webaim.org/techniques/skipnav/){: target="_blank" }
+  * [JimThatcher.com - Skip Navigation Links](//jimthatcher.com/skipnav.htm){: target="_blank" }
+  * [Dive Into Accessibility - Day 11: Skipping over navigation links](//diveintoaccessibility.org/day_11_skipping_over_navigation_links.html){: target="_blank" }

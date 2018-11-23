@@ -19,7 +19,7 @@ dsq_thread_id:
 
 아침에 출근하면 몇개 언론사를 둘러본다.
 
-네이버(언제부터인가 언론사의 역할을 하고 있으면서 안한다고 우기는 웃기는 회사), [오마이뉴스](http://www.ohmynews.com){: target="_blank" }, [민중의 소리](http://www.voiceofpeople.org/){: target="_blank" }, [자주민보](http://www.jajuminbo.net/){: target="_blank" }, [독립신문](http://www.independent.co.kr/){: target="_blank" }(똘아이들 노는 모습이 웃긴 곳. 사실 언론도 아니다)
+네이버(언제부터인가 언론사의 역할을 하고 있으면서 안한다고 우기는 웃기는 회사), [오마이뉴스](//www.ohmynews.com){: target="_blank" }, [민중의 소리](//www.voiceofpeople.org/){: target="_blank" }, [자주민보](//www.jajuminbo.net/){: target="_blank" }, [독립신문](//www.independent.co.kr/){: target="_blank" }(똘아이들 노는 모습이 웃긴 곳. 사실 언론도 아니다)
 
 요몇일 정치판을 뒤흔들고 있는 ‘이회창’ 효과. 나역시 이회창 변수에 대한 나름의 분석도 해보고, 대선판에 대한 생각도 정리해보고 했었다.
   
@@ -32,7 +32,7 @@ dsq_thread_id:
 개인적으로 이창기 기자님을 만나서 대화해보지는 못했지만, 늘 대단한 글로 날 초라하게 만드는 분이다.
 
 ![자주민보](/assets/img/2007/20071105_01.gif){: .aligncenter}
-*[자주민보](http://www.jajuminbo.net/){: target="_blank" }*{: .aligncenter }
+*[자주민보](//www.jajuminbo.net/){: target="_blank" }*{: .aligncenter }
 
 
 > **[이회창이 부상하는 배경]**

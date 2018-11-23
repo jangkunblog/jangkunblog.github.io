@@ -20,9 +20,9 @@ dsq_thread_id:
 
 ![html 5](/assets/img/2007/20071101_01.gif){: .aligncenter}
 
-얼마전에 [윤석찬](http://channy.creation.net/){: target="_blank" }님이 번역해주신 '[HTML 4와 HTML 5의 차이점](http://www.creation.net/work/html5/html4-differences/){: target="_blank" }' 이라는 글을 보고 HTML 5 가 상당히 재미있어질 것 같다는 생각을 했었다.
+얼마전에 [윤석찬](//channy.creation.net/){: target="_blank" }님이 번역해주신 '[HTML 4와 HTML 5의 차이점](//www.creation.net/work/html5/html4-differences/){: target="_blank" }' 이라는 글을 보고 HTML 5 가 상당히 재미있어질 것 같다는 생각을 했었다.
 
-오늘 네이버 [하코사](http://cafe.naver.com/hacosa){: target="_blank" } 카페에 오랜만에 갔는데 HTML 5 에 관한 소식이 있어서 한번 가봤더니 '[W3C Editor's Draft](http://www.w3.org/html/wg/html5/){: target="_blank" }' 라고 나와있었다.  
+오늘 네이버 [하코사](//cafe.naver.com/hacosa){: target="_blank" } 카페에 오랜만에 갔는데 HTML 5 에 관한 소식이 있어서 한번 가봤더니 '[W3C Editor's Draft](//www.w3.org/html/wg/html5/){: target="_blank" }' 라고 나와있었다.  
 오호라~
 
 ### W3C에서 국제표준을 만드는 프로세스는 이렇다.

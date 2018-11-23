@@ -38,7 +38,7 @@ dsq_thread_id:
 
 그런데, 45도 위치에 있는 어떤 여자분의 손에 눈길이 갔습니다.
   
-거기 보이는건, '[CSS 마스터 전략](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960770058&orderClick=LAG){: target="_blank" }'과 '[실용예제로 배우는 웹표준](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788989975779&orderClick=LAG){: target="_blank" }'!!!
+거기 보이는건, '[CSS 마스터 전략](//www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960770058&orderClick=LAG){: target="_blank" }'과 '[실용예제로 배우는 웹표준](//www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788989975779&orderClick=LAG){: target="_blank" }'!!!
   
 깨끗한걸 보니 이제 공부 좀 해보려고 구매하신 것 같았습니다.
 
@@ -47,7 +47,7 @@ dsq_thread_id:
 갑자기 웃음이 나더군요.
   
 그 책을 찢어질때까지 열심히 보던 제 모습이 떠올랐습니다.  
-보고보고 또 보고, 밑줄이 많아서 형광펜으로 칠하고, 집에 와서 [스프링노트](http://astar2.springnote.com){: target="_blank" }에 다시 정리하고...
+보고보고 또 보고, 밑줄이 많아서 형광펜으로 칠하고, 집에 와서 [스프링노트](//astar2.springnote.com){: target="_blank" }에 다시 정리하고...
 
 그 순간, 깨달았습니다.  
 왜 내가 웹표준으로 내 길을 정한건지 생각이 났습니다.

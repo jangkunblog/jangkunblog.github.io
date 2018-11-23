@@ -25,9 +25,9 @@ youtubeId: RFloUT9KdUA
 
 ## Co-Working Space
 
-그러던 중 우연히 [제1회 Ignite Seoul](http://igniteseoul.org/blog/?p=171){: target="_blank" }이라는 행사의 영상을 하나 보게 되었습니다.
+그러던 중 우연히 [제1회 Ignite Seoul](//igniteseoul.org/blog/?p=171){: target="_blank" }이라는 행사의 영상을 하나 보게 되었습니다.
   
-'[이장](http://twitter.com/ejang){: target="_blank" }'이라는 닉네임을 사용하시는 [양석원](http://ejang.net/){: target="_blank" }님의 발표입니다.
+'[이장](//twitter.com/ejang){: target="_blank" }'이라는 닉네임을 사용하시는 [양석원](//ejang.net/){: target="_blank" }님의 발표입니다.
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
@@ -36,27 +36,27 @@ youtubeId: RFloUT9KdUA
 > 각자 하고 싶은 일을 하고, 커피를 마시며, 가끔은 서로의 아이디어를 토론하고, 가끔은 서로의 삶을 이야기하고...  
 > 그곳이 바로 Co Working Space
 
-참고로 이장님은 학동역 근처에서 이미 [Co-Up](http://co-up.com/)이라는 Co-Working Space를 운영하고 계십니다.
+참고로 이장님은 학동역 근처에서 이미 [Co-Up](//co-up.com/)이라는 Co-Working Space를 운영하고 계십니다.
 
 ## 사무실 임대
 
-처음부터 이 공간을 만드는 것에 구체적인 안을 마련하는 것을 함께 해주신 분은 [연홍석](http://blog.wystan.net/){: target="_blank" }님이십니다.
+처음부터 이 공간을 만드는 것에 구체적인 안을 마련하는 것을 함께 해주신 분은 [연홍석](//blog.wystan.net/){: target="_blank" }님이십니다.
 
 당시 다니시던 회사를(그 좋은 회사를 그만두시다니!!!!) 그만두실 예정이었고, 저처럼 일정 공간이 있었으면 좋겠다는 마음이 맞아서 술자리에서 시작한 논의였습니다. 우선 사무실 위치는 **합정 근처**가 서로 이동하기가 편했기에 큰 이견없이 합의가 되었습니다.
 
-여기에 [전승엽](http://me2day.net/yubs){: target="_blank" }님이 합류를 하여 논의가 급물살을 타게 되었지요.
+여기에 [전승엽](//me2day.net/yubs){: target="_blank" }님이 합류를 하여 논의가 급물살을 타게 되었지요.
 
 즉시 마음맞는 이 분들과 일을 도모하기로 하고, 공간을 섭외하기 시작했습니다. 하지만, 사무실을 임대하려면 상당히 고액의 임대료를 지불해야 한다는 사실을 알게 되었습니다.
 
 게다가 합정이라는 곳은 2호선 역세권인데다가 홍대 근처라서 그런지 구하기가 쉽지 않았습니다. 그러던 중 우연히 합정역 근처에 보증금 없이 임대료만으로도 빌릴 수 있는 곳을 발견하게 되었습니다. 월세도 그나마 싼 편이고, 보증금도 없고, 합정역에서 50m 거리도 안되고... 딱 우리가 원하던 조건이었습니다.
   
-(사실 저희가 마련한 5층 바로 아래 4층은 [마눌님의 노래패](http://www.uni-nara.com){: target="_blank" }가 임대하여 쓰고 있습니다. ^^)
+(사실 저희가 마련한 5층 바로 아래 4층은 [마눌님의 노래패](//www.uni-nara.com){: target="_blank" }가 임대하여 쓰고 있습니다. ^^)
 
 ![C3Space 찾아오기](/assets/img/2010/jangkunblog_100811_2.jpg){: .aligncenter}
-*[다음 지도로 합정역에서 찾아오는 방법 보기](http://local.daum.net/map/index.jsp?SP=RIS&sX=481363&sY=1125424&eX=481046&eY=1125774&map_type=TYPE_MAP&map_hybrid=true&sName=%BC%AD%BF%EF%C6%AF%BA%B0%BD%C3+%B8%B6%C6%F7%B1%B8+%BC%AD%B1%B3%B5%BF&eName=%BC%AD%BF%EF%C6%AF%BA%B0%BD%C3+%B8%B6%C6%F7%B1%B8+%BC%AD%B1%B3%B5%BF)*{: .aligncenter }
+*[다음 지도로 합정역에서 찾아오는 방법 보기](//local.daum.net/map/index.jsp?SP=RIS&sX=481363&sY=1125424&eX=481046&eY=1125774&map_type=TYPE_MAP&map_hybrid=true&sName=%BC%AD%BF%EF%C6%AF%BA%B0%BD%C3+%B8%B6%C6%F7%B1%B8+%BC%AD%B1%B3%B5%BF&eName=%BC%AD%BF%EF%C6%AF%BA%B0%BD%C3+%B8%B6%C6%F7%B1%B8+%BC%AD%B1%B3%B5%BF)*{: .aligncenter }
 
 ![남성빌딩 5층](/assets/img/2010/jangkunblog_100811_1.jpg){: .aligncenter}
-*[다음 로드뷰로 사무실 건물 보기](http://local.daum.net/map/index.jsp?wx=481056&wy=1125750&level=3&panoid=4258222&zoom=0&pan=6.016056848873632&tilt=-8.355634512324507&poi=false&map_type=TYPE_MAP&map_hybrid=true&map_attribute=ROADVIEW&screenMode=normal)*{: .aligncenter }
+*[다음 로드뷰로 사무실 건물 보기](//local.daum.net/map/index.jsp?wx=481056&wy=1125750&level=3&panoid=4258222&zoom=0&pan=6.016056848873632&tilt=-8.355634512324507&poi=false&map_type=TYPE_MAP&map_hybrid=true&map_attribute=ROADVIEW&screenMode=normal)*{: .aligncenter }
 
 무엇보다 이곳이 마음에 든 가장 큰 이유는 바로 '**세미나룸**'입니다.
 
@@ -77,7 +77,7 @@ youtubeId: RFloUT9KdUA
 세미나룸은 스터디나 모임 장소로 적합하다고 생각합니다.  
 랜선이 있고, 저희가 구매해놓은 공유기가 있고, 화이트보드도 있어서 큰 어려움 없이 모임을 진행할 수 있습니다.
 
-이 공간에 대해 궁금하신 분들은 C3Space 공식사이트인 [www.c3space.net](http://www.c3space.net){: target="_blank" } 에서 확인하시면 됩니다. (현재 콘텐츠를 준비중이라 이용하고자하신다면 저에게 메일을 보내주세요~)
+이 공간에 대해 궁금하신 분들은 C3Space 공식사이트인 [www.c3space.net](//www.c3space.net){: target="_blank" } 에서 확인하시면 됩니다. (현재 콘텐츠를 준비중이라 이용하고자하신다면 저에게 메일을 보내주세요~)
 
 한가지 불편한 점이 있다면, 오후 6시 이후와 주말에는 에어컨이 가동되지 않는다는 것입니다. 하지만, 지하에 있어서 시원합니다. 선풍기가 없어도 더위를 느끼지 못할 정도입니다.
 
@@ -93,7 +93,7 @@ youtubeId: RFloUT9KdUA
 
 이 3가지의 첫 글자인 C를 가져오고, 3개니까, 'C3'... 그 C3가 이루어지는 공간이라 'space'... 결국 **C3Space**라는 이름이 나오게 된 것입니다.
   
-(눈치 빠른 분들은 [W3C](http://www.w3c.org){: target="_blank" }를 떠올리며 패러디한걸 눈치채셨을 겁니다. ^^ 맞습니다. 맞구요~)
+(눈치 빠른 분들은 [W3C](//www.w3c.org){: target="_blank" }를 떠올리며 패러디한걸 눈치채셨을 겁니다. ^^ 맞습니다. 맞구요~)
 
 ## 공간 그리고 실험정신, 도전
 
@@ -112,5 +112,5 @@ C3Space에 모인 분들과 재밌게 공간을 꾸려나가는 모습을 계속
 ## 덧붙이는 글
 
 방금 글 올리고, 이장님이 홍보를 해주시는 바람에 후다닥 글을 덧붙입니다. ㅎㅎㅎ  
-위에서도 밝혔지만, 이장님의 [Co-Up](http://co-up.com/)과는 달리 현재 주주들만 6개월 실험적으로 사용을 할 것입니다.   
+위에서도 밝혔지만, 이장님의 [Co-Up](//co-up.com/)과는 달리 현재 주주들만 6개월 실험적으로 사용을 할 것입니다.   
 참여하고 싶다거나 공간에 들어가서 일하고 싶다거나 하는 바람이 있으신 분들에게는 죄송합니다.

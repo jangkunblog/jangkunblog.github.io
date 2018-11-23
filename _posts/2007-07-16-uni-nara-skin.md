@@ -32,5 +32,5 @@ dsq_thread_id:
 사진은 좌측부터..
 상구형, 백자형, 광석이형, 정환이형, 마눌님~~~~, 일규누나, 선희누나
 
-*[우리나라 블로그 놀러가기](http://www.uni-nara.com){: target="_blank" }*{: .aligncenter }
+*[우리나라 블로그 놀러가기](//www.uni-nara.com){: target="_blank" }*{: .aligncenter }
 ![노래패 우리나라 블로그 캡쳐](/assets/img/2007/03.jpg){: .aligncenter}

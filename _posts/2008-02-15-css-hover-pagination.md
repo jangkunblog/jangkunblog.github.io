@@ -34,7 +34,7 @@ dsq_thread_id:
 
 위와 같은 pagination 어떠세요?
   
-[네이버](http://cafeblog.search.naver.com/search.naver?where=post&sm=tab_nmr&query=hover){: target="_blank" }에서 쓰고 있는거랑 비슷하죠? [플리커](http://www.flickr.com/photos/jangkunblog/){: target="_blank" }도 이런 스타일을 쓰고 있죠..
+[네이버](//cafeblog.search.naver.com/search.naver?where=post&sm=tab_nmr&query=hover){: target="_blank" }에서 쓰고 있는거랑 비슷하죠? [플리커](//www.flickr.com/photos/jangkunblog/){: target="_blank" }도 이런 스타일을 쓰고 있죠..
   
 크게 디자인 요소를 넣지 않았지만, 깔끔하고, 발랄한 느낌을 가진 pagination이라는 느낌이 듭니다.
 
@@ -119,9 +119,9 @@ ul li a:hover, ul li a:focus {
 
 > **inline-block :**  
 > :  This value causes an element to generate a block box, which itself is flowed as a single inline box, similar to a replaced element. The inside of an inline-block is formatted as a block box, and the element itself is formatted as an inline replaced element.
-> :  <W3C CSS 2.1 Specification (<http://www.w3.org/TR/CSS21/visuren.html#propdef-display>)>
+> :  <W3C CSS 2.1 Specification (<//www.w3.org/TR/CSS21/visuren.html#propdef-display>)>
 
-`display:inline-block`은 W3C의 CSS 2 명세에서는 없었고, [CSS 2.1 권고후보에서 추가된 값](http://www.w3.org/TR/CSS21/visuren.html#propdef-display){: target="_blank" }으로 해당 요소를 block 박스로 만들지만, inline 요소와 같은 흐름을 가지게 하는 값입니다. 즉, inline 요소가 가질 수 없는 top(bottom) margin 과 top(bottom) padding, width를 가질 수 있게 됩니다.
+`display:inline-block`은 W3C의 CSS 2 명세에서는 없었고, [CSS 2.1 권고후보에서 추가된 값](//www.w3.org/TR/CSS21/visuren.html#propdef-display){: target="_blank" }으로 해당 요소를 block 박스로 만들지만, inline 요소와 같은 흐름을 가지게 하는 값입니다. 즉, inline 요소가 가질 수 없는 top(bottom) margin 과 top(bottom) padding, width를 가질 수 있게 됩니다.
 
 HTML은 동일하고 CSS만 추가해보겠습니다.
 

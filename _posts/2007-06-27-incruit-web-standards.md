@@ -16,7 +16,7 @@ dsq_thread_id:
   - "3610951125"
 ---
 
-[인크루트](http://www.incruit.com){: target="_blank" } 메인이 개편된지 몇일이 지났다.  
+[인크루트](//www.incruit.com){: target="_blank" } 메인이 개편된지 몇일이 지났다.  
 혹시나 하는 마음에 소스보기를 눌러봤다.
 
 생각지도 않았는데, `div`, `ul`, `li` 등이 보였다.  

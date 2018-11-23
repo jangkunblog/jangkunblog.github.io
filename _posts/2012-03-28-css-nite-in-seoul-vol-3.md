@@ -26,7 +26,7 @@ dsq_thread_id:
 서울에서 열리는 3번째 CSS Nite 행사가 있었습니다.
 
 ![CSS Nite in Seoul vol.3 행사](/assets/img/2012/cssnite_1-470x1024.png){: .aligncenter}
-*[http://www.cssniteseoul.com/](http://www.cssniteseoul.com/){: target="_blank" }*{: .aligncenter }
+*[www.cssniteseoul.com](//www.cssniteseoul.com/){: target="_blank" }*{: .aligncenter }
 
 ## CSS Nite in Seoul의 기억
 
@@ -55,16 +55,16 @@ dsq_thread_id:
 ## CSS Nite in Seoul. vol.3
 
 이번에는 사진이나 메모를 하지 못해서 다른 분들의 발표를 리뷰하기는 힘들듯 하고... (죄송합니다. 불량 청중 성민장군)  
-개인적으로 가장 의미있고, 새로웠던 시간은 [SK Communications의 홍윤표(이하 듓님)님](http://mydeute.com/){: target="_blank" }의 발표였습니다.
+개인적으로 가장 의미있고, 새로웠던 시간은 [SK Communications의 홍윤표(이하 듓님)님](//mydeute.com/){: target="_blank" }의 발표였습니다.
 
 ![웹 접근성 점검 How To 발표자료](/assets/img/2012/cssnite_2.png){: .aligncenter}
-*[웹 접근성 점검 How To](http://mydeute.com/txp/article/911)*{: .aligncenter }
+*[웹 접근성 점검 How To](//mydeute.com/txp/article/911)*{: .aligncenter }
 
 그날 뒤풀이하고 같이 차를 타고 오면서도 듓님에게 말을 했었지만, 국내 세미나에서 웹 접근성 자가 진단 및 평가에 대한 내용을 지침·실무중심으로 다룬건 처음이지 않을까 합니다. 그동안 스스로 공부하거나 여러 툴들을 이용해 자가진단하면서도 '내가 정말 잘하고 있는건가?'라고 생각했던 많은 분들에게 너무나도 의미있는 발표였습니다.
   
 또한, 웹 접근성 세미나가 늘 가지는 다소 평이한 주제와 딱딱한 내용, 실무보다는 '감성중심' 발표의 틀을 깨고 웹 접근성 결과물을 평가하고 이를 점검케하는 내용은 너무 좋았습니다.
 
-개발자들의 실수를 최소하는 것이 중요하다는 것, 이를 [PAJET](http://mydeute.com/was/pajet.html){: target="_blank" }과 같은 툴을 이용해 실수를 줄여나가야 한다는 것, 지침이 요구하는 코드는 무엇인가에 대한 정리.
+개발자들의 실수를 최소하는 것이 중요하다는 것, 이를 [PAJET](//mydeute.com/was/pajet.html){: target="_blank" }과 같은 툴을 이용해 실수를 줄여나가야 한다는 것, 지침이 요구하는 코드는 무엇인가에 대한 정리.
 
 웹 접근성 세미나의 새로운 접근이고, 도움이 많이 된 발표였습니다.  
 **더불어 자사(?) 웹 사이트를 샘플로 활용하는 대담함!**  
@@ -82,7 +82,7 @@ dsq_thread_id:
 
 ![웹 접근성 생활백서_CSS Nite in Seoul vol.3 from Slideshare](/assets/img/2012/css-nite-in-seoul-vol3-1-638.jpg){: .aligncenter}
 *[웹 접근성 생활백서_CSS Nite in Seoul vol.3 from Slideshare  
-http://www.slideshare.net/jangkunblog/css-nite-in-seoul-vol3](//www.slideshare.net/jangkunblog/css-nite-in-seoul-vol3){: target="_blank" }*{: .aligncenter }
+www.slideshare.net/jangkunblog/css-nite-in-seoul-vol3](//www.slideshare.net/jangkunblog/css-nite-in-seoul-vol3){: target="_blank" }*{: .aligncenter }
 
 
 

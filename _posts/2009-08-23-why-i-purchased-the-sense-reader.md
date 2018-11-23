@@ -20,7 +20,7 @@ dsq_thread_id:
   - "3584961365"
 ---
 
-얼마전 벼르고 벼르던 [센스리더](http://www.xvtech.com/){: target="_blank" }를 구매하기 위해 회사에 구매요청을 했습니다.
+얼마전 벼르고 벼르던 [센스리더](//www.xvtech.com/){: target="_blank" }를 구매하기 위해 회사에 구매요청을 했습니다.
   
 기존에 테스트버전으로 가지고 있던 센스리더는 회원등록이 되어있지 않아서 잠깐 쓰다보면 프로그램이 종료돼버리고, 또 업데이트도 되지 않아 여러가지 불편한 부분들이 있었습니다. 그래서 이번에 혹시나하는 마음에 정품구매를 요청한 것입니다.
 
@@ -42,10 +42,10 @@ dsq_thread_id:
   
 우선 컴퓨터를 켜고 브라우저를 실행시키는 과정을 생각치않고, 단순히 웹사이트를 이용하는 것만을 가지고 판단하는건 옳지 못한 논리적 비약이 아닌가 합니다. 해당 내용에 대해서는 아래 링크들과 글에 달린 댓글들을 참고하시면 충분히 고수분들의 의견을 들으실 수 있을 것 같습니다.
 
-  * [웹 기반 TTS(Text To Speech) 솔루션 백해무익.](http://naradesign.net/wp/2009/01/01/454/){: target="_blank" }
-  * 웹 접근성에 대한 오해 [[1]](http://resistan.com/misunderstand-web-accessibility/){: target="_blank" } [[2]](http://resistan.com/misunderstand-web-accessibility-2/){: target="_blank" }
-  * [음성 및 텍스트형 별도 홈페이지에 대한 잘못된 정보 (덧글 맨 아래 RNG님께서 작성하신 부분 필독!)](http://hyeonseok.com/soojung/accessibility/2009/04/19/524.html){: target="_blank" }
-  * [음성 출력 솔루션과 텍스트 전용 페이지는 필수 아님.](http://naradesign.net/wp/2009/04/21/776/){: target="_blank" }
+  * [웹 기반 TTS(Text To Speech) 솔루션 백해무익.](//naradesign.net/wp/2009/01/01/454/){: target="_blank" }
+  * 웹 접근성에 대한 오해 [[1]](//resistan.com/misunderstand-web-accessibility/){: target="_blank" } [[2]](//resistan.com/misunderstand-web-accessibility-2/){: target="_blank" }
+  * [음성 및 텍스트형 별도 홈페이지에 대한 잘못된 정보 (덧글 맨 아래 RNG님께서 작성하신 부분 필독!)](//hyeonseok.com/soojung/accessibility/2009/04/19/524.html){: target="_blank" }
+  * [음성 출력 솔루션과 텍스트 전용 페이지는 필수 아님.](//naradesign.net/wp/2009/04/21/776/){: target="_blank" }
 
 ## 사용자와 센스리더
 
@@ -65,7 +65,7 @@ dsq_thread_id:
 
 사용자를 고려하고 있기에 웹 개발자들은 귀찮고도 귀찮은 브라우저 호환성 테스트를 끊임없이 진행합니다. 만약 사용자를 고려하지 않는다면 가장 최신의 브라우저에 맞게 작업하고 브라우저 업그레이드를 강제하면 끝날 일입니다. 하지만, 사용자들의 다양한 환경을 고려해야하기에 이를 할 수 밖에 없습니다.
 
-다양한 브라우저들의 호환성을 확보하는 작업은 그리 쉽지 않습니다. 특히나 Internet Explorer 6 이하의 브라우저는 마크업하는 개발자들의 흰머리를 갈수록 늘리는 주범이기도 합니다. 오죽하면 '[개발자 좀 살려주세요](http://resistan.com/savethedeveloper/){: target="_blank" }'라고 하는 부탁의 업그레이드 캠페인을 열겠습니까? (제발 해주세요 T.T). 하지만, 사용자들을 고려하면(또는 회사방침상) 이런 테스트하는 상황이 당연하게 여겨집니다.
+다양한 브라우저들의 호환성을 확보하는 작업은 그리 쉽지 않습니다. 특히나 Internet Explorer 6 이하의 브라우저는 마크업하는 개발자들의 흰머리를 갈수록 늘리는 주범이기도 합니다. 오죽하면 '[개발자 좀 살려주세요](//resistan.com/savethedeveloper/){: target="_blank" }'라고 하는 부탁의 업그레이드 캠페인을 열겠습니까? (제발 해주세요 T.T). 하지만, 사용자들을 고려하면(또는 회사방침상) 이런 테스트하는 상황이 당연하게 여겨집니다.
 
 우리가 브라우저 호환성을 위해 최소 6가지의 브라우저(Internet Explorer 6, 7, 8, FireFox, Opera, Safari 등)를 체크하듯 장애인이 사용하는 보조기기에 대한 호환성도 확보되어야만 합니다.
   
@@ -124,7 +124,7 @@ dsq_thread_id:
 어제 시청광장에 다녀왔습니다.  
 얼마전 노무현 대통령을 잃고, 이젠 김대중 대통령마저 세상을 떠나셨습니다.
 
-![시청광장 김대중 대통령 분향소](http://farm3.static.flickr.com/2565/3844404107_6f95d03850.jpg){: .aligncenter}
+![시청광장 김대중 대통령 분향소](//farm3.static.flickr.com/2565/3844404107_6f95d03850.jpg){: .aligncenter}
 
 비통하고 또 비통한 감정을 누를수가 없습니다.  
 부디 2MB, 매국노들, 간신배들, 기회주의자들 없는 하늘나라에서는 평온한 삶을 사시길 바랍니다.  

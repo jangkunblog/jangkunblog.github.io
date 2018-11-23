@@ -22,7 +22,7 @@ dsq_thread_id:
   - "3584961248"
 ---
 
-오늘 잡코리아 14층에서 '[웹 개발자를 위한 스크린 리더 세미나](http://www.jangkunblog.com/wp/screen-reader-seminar-for-web-developer/){: target="_blank" }'가 성공적으로 진행되었습니다.
+오늘 잡코리아 14층에서 '[웹 개발자를 위한 스크린 리더 세미나](//www.jangkunblog.com/wp/screen-reader-seminar-for-web-developer/){: target="_blank" }'가 성공적으로 진행되었습니다.
   
 총 60여명의 국내 웹 개발자분들이 찾아오셔서 3시간에 걸쳐 진행되었습니다.
   
@@ -36,7 +36,7 @@ dsq_thread_id:
 
 이 포스팅에는 댓글을 통해 이번 세미나에서 느낀 점이나 개선점 등 **후기를 작성**해주시거나, 본인의 블로그 등에 작성한 후기를 **트랙백** 걸어주시면 감사하겠습니다.
 
-  * 마시마로님 : [웹 개발자를 위한 스크린 리더 이해](http://blog.naver.com/bje0820/120091421568){: target="_blank" }
-  * 마지니님 : [웹 개발자를 위한 스크린 리더 이해를 다녀와서](http://cafe.naver.com/hacosa/12198){: target="_blank" }
-  * 나인환님 : [웹 개발자를 위한 스크린 리더 세미나](http://na93008.openhaja.com/blog/?p=885){: target="_blank" }
-  * 호이님 : [웹 개발자를 위한 스크린 리더 세미나 후기](http://www.hoiheart.com/wp/archives/129){: target="_blank" }
+  * 마시마로님 : [웹 개발자를 위한 스크린 리더 이해](//blog.naver.com/bje0820/120091421568){: target="_blank" }
+  * 마지니님 : [웹 개발자를 위한 스크린 리더 이해를 다녀와서](//cafe.naver.com/hacosa/12198){: target="_blank" }
+  * 나인환님 : [웹 개발자를 위한 스크린 리더 세미나](//na93008.openhaja.com/blog/?p=885){: target="_blank" }
+  * 호이님 : [웹 개발자를 위한 스크린 리더 세미나 후기](//www.hoiheart.com/wp/archives/129){: target="_blank" }

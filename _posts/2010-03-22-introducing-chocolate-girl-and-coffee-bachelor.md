@@ -20,11 +20,11 @@ dsq_thread_id:
   - "3584961620"
 ---
 
-결혼을 하면서 합정 부근에 신혼집을 선택한 이유는 마눌님의 사무실이 위치한 곳이기 때문이었습니다. 저야 어디든 상관없이 지하철만 옆에 있으면 되지만, 마눌님은 좀 더 펀하게 [사무실](http://www.uni-nara.com/){: target="_blank" }을 오가게 하려는 의도였습니다. 그런데, 처음의 의도보다 이곳이 훨씬 좋은 곳임을 느끼게 된건 금방이었습니다.
+결혼을 하면서 합정 부근에 신혼집을 선택한 이유는 마눌님의 사무실이 위치한 곳이기 때문이었습니다. 저야 어디든 상관없이 지하철만 옆에 있으면 되지만, 마눌님은 좀 더 펀하게 [사무실](//www.uni-nara.com/){: target="_blank" }을 오가게 하려는 의도였습니다. 그런데, 처음의 의도보다 이곳이 훨씬 좋은 곳임을 느끼게 된건 금방이었습니다.
 
 ![성민장군의 집 주변](/assets/img/2010/20100321_coffee_14.jpg){: .aligncenter}
 
-집 바로 뒤에 위치한 성미산이라는 휴식터가 있고, 마을축제(마을 주변 도로를 막고, 영화상영과 아나바다 등의 행사를 한다.)도 있고, '[성미산 마을극장](http://cafe.naver.com/sungmisantheater){: target="_blank" }'이라는 공연장도 있고, 공동육아와 대안학교 등이 위치해있어 마을주민들의 생각도 상당히 진보적입니다. 그런 분위기를 반영하듯 유기농 아이스크림과 커피 등을 판매하는 '[작은 나무](http://local.daum.net/map/index.jsp?wx=480270&wy=1127515&level=2&panoid=4135552&zoom=0&pan=341.4799289389079&tilt=7.827535026795633&poi=false&map_type=TYPE_SKYVIEW&map_hybrid=true&map_attribute=ROADVIEW&screenMode=normal){: target="_blank" }'와 유기능 반찬가게, [두레생활협동조합](http://local.daum.net/map/index.jsp?wx=480376&wy=1127541&level=2&panoid=4135565&zoom=0&pan=341.4799289389079&tilt=7.827535026795633&poi=false&map_type=TYPE_SKYVIEW&map_hybrid=true&map_attribute=ROADVIEW&screenMode=normal){: target="_blank" } 등 일반적인 동네에서 보기 힘든 가게들도 많이 있습니다.
+집 바로 뒤에 위치한 성미산이라는 휴식터가 있고, 마을축제(마을 주변 도로를 막고, 영화상영과 아나바다 등의 행사를 한다.)도 있고, '[성미산 마을극장](//cafe.naver.com/sungmisantheater){: target="_blank" }'이라는 공연장도 있고, 공동육아와 대안학교 등이 위치해있어 마을주민들의 생각도 상당히 진보적입니다. 그런 분위기를 반영하듯 유기농 아이스크림과 커피 등을 판매하는 '[작은 나무](//local.daum.net/map/index.jsp?wx=480270&wy=1127515&level=2&panoid=4135552&zoom=0&pan=341.4799289389079&tilt=7.827535026795633&poi=false&map_type=TYPE_SKYVIEW&map_hybrid=true&map_attribute=ROADVIEW&screenMode=normal){: target="_blank" }'와 유기능 반찬가게, [두레생활협동조합](//local.daum.net/map/index.jsp?wx=480376&wy=1127541&level=2&panoid=4135565&zoom=0&pan=341.4799289389079&tilt=7.827535026795633&poi=false&map_type=TYPE_SKYVIEW&map_hybrid=true&map_attribute=ROADVIEW&screenMode=normal){: target="_blank" } 등 일반적인 동네에서 보기 힘든 가게들도 많이 있습니다.
 
 또한, 홍대와 가까운 거리는 아니지만 마을버스를 타면 금방 홍대로 갈 수 있습니다. 그리고, 강변북로나 서부간선도로 등 외곽으로 이동하기에도 수월한 지역적 특성도 가지고 있습니다.
 
@@ -44,7 +44,7 @@ dsq_thread_id:
   
 바로 위에 있는 분들이 운영자이신 소녀·총각입니다. 미남미녀시더군요. 소녀분의 목소리는 아기지만... ㅋㅋㅋ (직접 가서 대화해보세요~)
 
-커피를 주문하고 기다리면서 아이폰으로 사진을 찍기 시작했습니다. 요즘 [미투데이](http://me2day.net/jangkunblog/){: target="_blank" }를 하지 않아 올릴 곳이 없어서 포스팅이나 오랜만에 해볼까 하는 심정으로 사진을 찍었지요. 그래서 사진이 좀 별로에요. 다음에는 카메라를 들고 가서 예술사진을 좀 찍어야겠습니다. ^^
+커피를 주문하고 기다리면서 아이폰으로 사진을 찍기 시작했습니다. 요즘 [미투데이](//me2day.net/jangkunblog/){: target="_blank" }를 하지 않아 올릴 곳이 없어서 포스팅이나 오랜만에 해볼까 하는 심정으로 사진을 찍었지요. 그래서 사진이 좀 별로에요. 다음에는 카메라를 들고 가서 예술사진을 좀 찍어야겠습니다. ^^
 
 ![초코소녀 커피총각 - 내부 벽 사진](/assets/img/2010/20100321_coffee_11.jpg){: .aligncenter}  
 
@@ -90,8 +90,8 @@ dsq_thread_id:
 
 그럼 좋은 커피 맛있게 드세요~
 
-  * [다음 로드뷰로 본 가게 모습](http://local.daum.net/map/index.jsp?wx=480922&wy=1126568&level=1&panoid=4137985&zoom=0&pan=349.471900514471&tilt=10.026761414789405&poi=false&map_type=TYPE_SKYVIEW&map_hybrid=true&map_attribute=ROADVIEW&screenMode=normal){: target="_blank" }
-  * [초코소녀 커피총각 네이버 블로그](http://blog.naver.com/cafe_cgcm/){: target="_blank" }
+  * [다음 로드뷰로 본 가게 모습](//local.daum.net/map/index.jsp?wx=480922&wy=1126568&level=1&panoid=4137985&zoom=0&pan=349.471900514471&tilt=10.026761414789405&poi=false&map_type=TYPE_SKYVIEW&map_hybrid=true&map_attribute=ROADVIEW&screenMode=normal){: target="_blank" }
+  * [초코소녀 커피총각 네이버 블로그](//blog.naver.com/cafe_cgcm/){: target="_blank" }
 
 ## 덧붙이는 글
 

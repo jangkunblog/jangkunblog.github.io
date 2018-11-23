@@ -21,16 +21,16 @@ dsq_thread_id:
 
 지난 4월 13일 토요일.
   
-[한국 웹 접근성 그룹](http://www.facebook.com/groups/kwag.net/)(KWAG, Korea Web Accessibility Group)에서 오랜만에 준비한 [오프라인 모임](http://onoffmix.com/event/14172)이 마포구 성미산 마을에 위치한 '성미산 마을극장'에서 있었습니다.
+[한국 웹 접근성 그룹](//www.facebook.com/groups/kwag.net/)(KWAG, Korea Web Accessibility Group)에서 오랜만에 준비한 [오프라인 모임](//onoffmix.com/event/14172)이 마포구 성미산 마을에 위치한 '성미산 마을극장'에서 있었습니다.
 
 ## '다와'의 의미
 
 '다와'는 **Talk About Web Accessibility**의 앞글자만 따서 만든 TAWA를 의미합니다.  
 '타와'라고 발음하지 말고, '다와'라고 발음하여 반말로 오라고 하는거죠. ㅎㅎㅎㅎ
 
-<img class=" aligncenter" src="http://www.jangkunblog.com/wp/wp-content/uploads/2013/04/20130416_1.png" alt="한국 웹 접근성 그룹의 토크 세미나 다와(Talk About Web Accessibility)" width="350" height="429" />
+<img class=" aligncenter" src="//www.jangkunblog.com/wp/wp-content/uploads/2013/04/20130416_1.png" alt="한국 웹 접근성 그룹의 토크 세미나 다와(Talk About Web Accessibility)" width="350" height="429" />
 
-[신현석님 얘기](http://hyeonseok.com/soojung/event/2013/04/16/735.html)처럼 DAWA로 만들기 위해 이것저것 고민했고 discuss도 나왔었지만, (변명을 하자면) 참가자와 패널들이 부담없이 가볍게 얘기를 나눠보자는 의미로 좀더 가벼워보이는 단어인 **Talk**를 선택하였습니다.
+[신현석님 얘기](//hyeonseok.com/soojung/event/2013/04/16/735.html)처럼 DAWA로 만들기 위해 이것저것 고민했고 discuss도 나왔었지만, (변명을 하자면) 참가자와 패널들이 부담없이 가볍게 얘기를 나눠보자는 의미로 좀더 가벼워보이는 단어인 **Talk**를 선택하였습니다.
 
 물론 운영진들과 상의해보고 변경할 수도 있습니다. 전 귀가 얇으니까요 ^^
 
@@ -44,9 +44,9 @@ dsq_thread_id:
 
 ## '다와' 행사장소
 
-행사장소는 작년부터 꼭 행사를 해보고 싶었던 '[성미산 마을 극장](http://cafe.naver.com/sungmisantheater)'이었습니다.
+행사장소는 작년부터 꼭 행사를 해보고 싶었던 '[성미산 마을 극장](//cafe.naver.com/sungmisantheater)'이었습니다.
 
-제가 살고 있는 [성미산 마을](http://navercast.naver.com/contents.nhn?rid=11&contents_id=2533)에 위치한 소극장으로 연극과 콘서트, 토론회 등 다양한 행사를 꾸준히 하고 있는 곳입니다. 이곳은 무대와 객석이 가까워서 다와의 토크를 위한 최적의 장소라고 늘 생각했습니다.
+제가 살고 있는 [성미산 마을](//navercast.naver.com/contents.nhn?rid=11&contents_id=2533)에 위치한 소극장으로 연극과 콘서트, 토론회 등 다양한 행사를 꾸준히 하고 있는 곳입니다. 이곳은 무대와 객석이 가까워서 다와의 토크를 위한 최적의 장소라고 늘 생각했습니다.
 
 ![성미산 마을극장](/assets/img/2013/20130416_4.png){: .aligncenter}
   
@@ -62,7 +62,7 @@ dsq_thread_id:
 
 ![다와 행사 무대](/assets/img/2013/20130416_3.png){: .aligncenter}
   
-주제와 패널에 대한 여러분들의 의견은 언제나 열려있으며 '[한국 웹 접근성 그룹의 facebook 그룹](http://www.facebook.com/groups/kwag.net/)'에 적어주시거나 '[성민장군'에게 메세지](http://www.facebook.com/jangkunblog)를 직접 보내주시면 의견수렴하여 반영하도록 하겠습니다.
+주제와 패널에 대한 여러분들의 의견은 언제나 열려있으며 '[한국 웹 접근성 그룹의 facebook 그룹](//www.facebook.com/groups/kwag.net/)'에 적어주시거나 '[성민장군'에게 메세지](//www.facebook.com/jangkunblog)를 직접 보내주시면 의견수렴하여 반영하도록 하겠습니다.
 
 또한, 이번 첫번째 프로토타입(?)에서는 만들지 못했지만 당일 토크에서 나오는 내용을 종합하여 '실천사항'도 만들어볼 예정입니다.
 
@@ -106,7 +106,7 @@ dsq_thread_id:
 두번째 다와가 곧 접수를 시작합니다.  
 이번 주제는 '**포털 Front-End 개발자와 웹 접근성**'입니다.
 
-<http://onoffmix.com/event/14939>
+<//onoffmix.com/event/14939>
 
 Daum, NHN, SK 컴즈의 웹 접근성 리더분들을 패널로 모시고, 각 포털의 웹 접근성 노하우와 프로세스, UT 전략 등의 경험담을 들어볼 예정입니다. 이를 통해 여러분의 회사에서 고도화된 웹 접근성 프로세스를 만들어볼 수 있을 것입니다.
   

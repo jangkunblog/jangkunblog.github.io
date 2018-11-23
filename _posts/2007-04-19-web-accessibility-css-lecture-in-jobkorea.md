@@ -19,7 +19,7 @@ dsq_thread_id:
   - "3584960544"
 ---
 
-내일 [회사](http://www.jobkorea.co.kr){: target="_blank" }에서 워크샵을 간다.  
+내일 [회사](//www.jobkorea.co.kr){: target="_blank" }에서 워크샵을 간다.  
 지난달에 1주일동안 들었던 css 관련 교육(실제로는 15시간)에 대한 전파교육을 하는 셈이다.
 
 하지만, 욕심과 관심때문인가.  

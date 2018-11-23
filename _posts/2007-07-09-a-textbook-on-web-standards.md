@@ -18,10 +18,10 @@ dsq_thread_id:
   - "3584960682"
 ---
 
-얼마전에 '[웹 표준 교과서](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&clickOrder=1AF&barcode=9788995527634){: target="_blank" }'라는 책이 나왔다.
+얼마전에 '[웹 표준 교과서](//www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&clickOrder=1AF&barcode=9788995527634){: target="_blank" }'라는 책이 나왔다.
   
 일본인이 쓴걸 번역한 책인데,  
-서점에 뿌려지기전에 [후니](http://hooney.net){: target="_blank" }님으로부터 한권을 미리 받아봤다.
+서점에 뿌려지기전에 [후니](//hooney.net){: target="_blank" }님으로부터 한권을 미리 받아봤다.
   
 회사에 기증하신거라 먼저 후딱 봤는데, 몰랐던 내용, 알고 싶었던 내용, 크게 고민하지 않았던 내용 등 좋은 내용이 많다.  
 국내 번역된 웹 표준 3종세트(? 아시는분들은 다 아시는)는 같은 내용이라도 여러 장에서 따로따로 설명이 되어 필요한 내용을 종합해야하는 불편함이 있었는데, '웹 표준 교과서'는 그 책들보다는 잘 정리해놓아 내용찾기가 상당히 편해졌다.
@@ -56,7 +56,7 @@ dsq_thread_id:
 > 
 > 그런 생각으로 3쇄를 만들었다. 그래도 역시 자신 없기는 마찬가지다. 그래도 1쇄나 2쇄 보단 좀 더 낫다는 생각이 위안이 된다.
 > 
-> [[출판사 대표님의 글 일부]](http://blog.naver.com/aphro21/100060526174){: target="_blank" }
+> [[출판사 대표님의 글 일부]](//blog.naver.com/aphro21/100060526174){: target="_blank" }
 
 난 이 책이 오랜동안 웹 표준을 하는 사람들에게 도움을 줄거라 믿어의심치 않는다.
 
@@ -99,6 +99,6 @@ dsq_thread_id:
 
 ## 작성된 곳 및 관련 링크
 
-  * [Naver 책 서평](http://book.naver.com/bookdb/book_detail.php?bid=2953700&menu=nview&mode=unfold&sort=best&point=&page=1&find=off&display_seq=1864763){: target="_blank" }
-  * [교보문고 책 서평](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788995527634&orderClick=LAG#review){: target="_blank" }
-  * [춮판사 블로그의 관련 글](http://blog.naver.com/aphro21/100060526174){: target="_blank" }
+  * [Naver 책 서평](//book.naver.com/bookdb/book_detail.php?bid=2953700&menu=nview&mode=unfold&sort=best&point=&page=1&find=off&display_seq=1864763){: target="_blank" }
+  * [교보문고 책 서평](//www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788995527634&orderClick=LAG#review){: target="_blank" }
+  * [춮판사 블로그의 관련 글](//blog.naver.com/aphro21/100060526174){: target="_blank" }

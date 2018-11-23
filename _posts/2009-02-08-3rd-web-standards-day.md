@@ -19,10 +19,10 @@ dsq_thread_id:
   - "3584961226"
 ---
 
-어제(2월 7일)는 [세번째 웹 표준의 날](http://forum.standardmag.org/viewtopic.php?id=2567){: target="_blank" }이었습니다.
+어제(2월 7일)는 [세번째 웹 표준의 날](//forum.standardmag.org/viewtopic.php?id=2567){: target="_blank" }이었습니다.
 
 전 처음으로 웹표준의 날에 참여를 하게 되었습니다.  
-[첫번째](http://wiki.standardmag.org/kws1day){: target="_blank" }와 [두번째](http://wiki.standardmag.org/kws2day){: target="_blank" } 웹표준의 날도 성대하게(?) 잘 진행되었다고 하니 이번에도 큰 기대를 가지고 갔습니다.
+[첫번째](//wiki.standardmag.org/kws1day){: target="_blank" }와 [두번째](//wiki.standardmag.org/kws2day){: target="_blank" } 웹표준의 날도 성대하게(?) 잘 진행되었다고 하니 이번에도 큰 기대를 가지고 갔습니다.
 
 게다가 한 세션을 발표하게 되어 가문의 영광(^^)이 아닐 수 없는 행사였습니다.
 
@@ -54,9 +54,9 @@ dsq_thread_id:
   </p>
 </div><br><br>
 
-혹시나 행사준비를 도울게 있나 해서 일찍 출발했습니다. 집(합정)과 멀지않아 15분 정도 걸려서 한국정보문화진흥원(KADO)에 도착할 수 있었습니다. 몇번 왔던 곳인데도 이상하게 오늘은 많이 떨리더군요. 주차를 하는데, [정찬명](http://naradesign.net/){: target="_blank" }님과 [윤좌진](http://www.boochim.net/){: target="_blank" }님도 주차중이시라 먼저 인사를 나눴습니다.
+혹시나 행사준비를 도울게 있나 해서 일찍 출발했습니다. 집(합정)과 멀지않아 15분 정도 걸려서 한국정보문화진흥원(KADO)에 도착할 수 있었습니다. 몇번 왔던 곳인데도 이상하게 오늘은 많이 떨리더군요. 주차를 하는데, [정찬명](//naradesign.net/){: target="_blank" }님과 [윤좌진](//www.boochim.net/){: target="_blank" }님도 주차중이시라 먼저 인사를 나눴습니다.
 
-건물로 걸어오다보니 1층에서 KADO [현준호](http://jhyun.wordpress.com/){: target="_blank" } 부팀장님께서 참가자들에게 보조기기 시연 등을 하고 계셔서 바로 인사부터 드렸습니다.
+건물로 걸어오다보니 1층에서 KADO [현준호](//jhyun.wordpress.com/){: target="_blank" } 부팀장님께서 참가자들에게 보조기기 시연 등을 하고 계셔서 바로 인사부터 드렸습니다.
 
 오늘 발표할 주제가 조금 민감한 '장애인 차별 금지 및 권리구제 등에 관한 법률'(이하 '장차법')을 포함한 내용이라 걱정을 좀 하셨던터라 발표할 내용을 먼저 보여드렸습니다. 최대한 민감한 부분은 다루지 않고, 웹표준과 웹접근성을 법률이 아니라 '함께 사는 세상'이라는 주제로 설명할 예정이라 현준호 부팀장님도 안심하시는 눈치였습니다. ^^;
 
@@ -67,9 +67,9 @@ dsq_thread_id:
 
 그러나! 저의 장점!  
 바로 낙관론! (또는 배째 정신? ㅎㅎ)  
-뭐 잘 되겠지... 라는 생각으로 다른 발표자분들과 오랜만에 뵙는 분들, 그리고 [작년 강의](http://www.jangkunblog.com/wp/2009-kado-web-accessibility-professional-education/){: target="_blank" }때 수강생분들과 인사나누며 놀았습니다.
+뭐 잘 되겠지... 라는 생각으로 다른 발표자분들과 오랜만에 뵙는 분들, 그리고 [작년 강의](//www.jangkunblog.com/wp/2009-kado-web-accessibility-professional-education/){: target="_blank" }때 수강생분들과 인사나누며 놀았습니다.
   
-그 와중에도 [미투질하는 모습이 찍히기도](http://me2day.net/naxer/2009/02/07#13:22:15){: target="_blank" } 했습니다. ^^;
+그 와중에도 [미투질하는 모습이 찍히기도](//me2day.net/naxer/2009/02/07#13:22:15){: target="_blank" } 했습니다. ^^;
 
 ![행사장에서 미투질](/assets/img/2009/20090207_005.jpg){: .aligncenter}
 
@@ -111,7 +111,7 @@ CDK적 접근 즉, <strong style="color: #ff9900;">C</strong>ontents/<strong sty
 저는 개인적인 일이 있어 몇개 세션만 더 듣고 자리를 떠났습니다.  
 오신 분들과의 대화의 자리가 있었는데, 무척 아쉬웠습니다. 선배는 아니지만, 선배로서 질문도 받고, 저역시 고민이 많기에 도리어 질문드릴게 많았는데....
 
-세번째 웹표준의 날은 전체적으로 준비가 잘된 행사였다고 평가해보고 싶습니다. 가장 고생이 많으셨던 분이 [홍윤표](http://mydeute.com/){: target="_blank" }님이셨는데, 고생의 포스(?)를 복장과 표정으로 여실하게 보여주셨지요.
+세번째 웹표준의 날은 전체적으로 준비가 잘된 행사였다고 평가해보고 싶습니다. 가장 고생이 많으셨던 분이 [홍윤표](//mydeute.com/){: target="_blank" }님이셨는데, 고생의 포스(?)를 복장과 표정으로 여실하게 보여주셨지요.
   
 또한 참석하신 분들의 자세와 열의도 행사를 성공적으로 이끈 요소라고 봅니다. 사람이 많이 모일수록 산만해지는게 대부분인데, 정말 모이신 분들의 눈빛 하나하나가 '진심'을 담고 있었던 것 같습니다.  
 자주는 힘들겠지만, 이렇게 같은 지향점을 가진 분들의 모임이 자주 있었으면 좋겠다는 생각이 많이 드는 행사였습니다.
@@ -120,18 +120,18 @@ CDK적 접근 즉, <strong style="color: #ff9900;">C</strong>ontents/<strong sty
 
 ## 뒤풀이
 
-일을 끝내고 뒤풀이 장소로 다시 찾아갔습니다. 자봉단 분들과 발표자분들 뒤풀이 중이었는데, 새벽 2시가 넘어서 겨우 집에 올 수 있었습니다. 오랜만에 뒤풀이 장소에서 [위스턴](http://blog.wystan.net/){: target="_blank" }님을 뵙고 이런저런 얘기를 나눴습니다. 1년만이지요? ㅎ 요즘 너무 바쁘셔서...
+일을 끝내고 뒤풀이 장소로 다시 찾아갔습니다. 자봉단 분들과 발표자분들 뒤풀이 중이었는데, 새벽 2시가 넘어서 겨우 집에 올 수 있었습니다. 오랜만에 뒤풀이 장소에서 [위스턴](//blog.wystan.net/){: target="_blank" }님을 뵙고 이런저런 얘기를 나눴습니다. 1년만이지요? ㅎ 요즘 너무 바쁘셔서...
   
-아 그리고 [겨미겨미](http://miya.pe.kr/){: target="_blank" }님.. 뒤풀이 도중 가버리셔서 오늘은 별 얘기도 못했네요...  
+아 그리고 [겨미겨미](//miya.pe.kr/){: target="_blank" }님.. 뒤풀이 도중 가버리셔서 오늘은 별 얘기도 못했네요...  
 그리고, 마지니님도 반가웠구요.. 하코사의 이슬빛님, 스켈님, bitty님도 반가웠습니다.
 
 ## 다른분들의 후기
 
-  * [CDK 후기](http://forum.standardmag.org/viewtopic.php?id=2617){: target="_blank" }
-  * [정찬명님의 '웹표준을 넘어서'](http://naradesign.net/wp/2009/02/08/604/){: target="_blank" }
-  * [추지호님의 '세번째 웹표준의 날 행사 풍경'](http://www.pageoff.net/882){: target="_blank" }
-  * [조현진님의 '세번째 웹 표준의 날을 마치고'](http://resistan.com/3rd-web-standards-day/){: target="_blank" }
-  * [홍윤표님의 '세번째 웹 표준의 날'](http://mydeute.com/txp/article/134/KWSD3rd){: target="_blank" }
+  * [CDK 후기](//forum.standardmag.org/viewtopic.php?id=2617){: target="_blank" }
+  * [정찬명님의 '웹표준을 넘어서'](//naradesign.net/wp/2009/02/08/604/){: target="_blank" }
+  * [추지호님의 '세번째 웹표준의 날 행사 풍경'](//www.pageoff.net/882){: target="_blank" }
+  * [조현진님의 '세번째 웹 표준의 날을 마치고'](//resistan.com/3rd-web-standards-day/){: target="_blank" }
+  * [홍윤표님의 '세번째 웹 표준의 날'](//mydeute.com/txp/article/134/KWSD3rd){: target="_blank" }
 
 ## 행사때 직힌 성민장군 사진 (퍼옴)
 

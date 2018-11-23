@@ -31,7 +31,7 @@ dsq_thread_id:
 ![firefox 3 for Mac](/assets/img/2008/astar2_080620_04.gif){: .aligncenter}
 *firefox 3 for Mac*{: .aligncenter }
 
-자세한 기능들은 [여기](http://www.dria.org/wordpress/archives/2008/06/12/655/){: target="_blank" } ([한글번역본](http://mr-dust.pe.kr/entry/field-guide-to-firefox-3){: target="_blank" }도 추가되었네요.)에서 보실 수 있습니다.
+자세한 기능들은 [여기](//www.dria.org/wordpress/archives/2008/06/12/655/){: target="_blank" } ([한글번역본](//mr-dust.pe.kr/entry/field-guide-to-firefox-3){: target="_blank" }도 추가되었네요.)에서 보실 수 있습니다.
 
 설치후, 기존 firefox 2 사용자라면 어마어마하게 빨라진 랜더링 속도에 입이 쩍 벌어질 것입니다.  
 자세한 기능을 나열한 Guide에도 있지만, 랜더링 속도가 엄청나게 빨라졌고, 기존에 메모리를 많이 차지하던 것도 많이 개선되었습니다.
@@ -63,7 +63,7 @@ IE는 강제로(?) 사용할 수 밖에 없는 브라우저라면, firefox는 �
 
 firefox 3가 출시되고 **24시간만에 전세계 800만 이상이 다운로드**했다는 사실(**2008.06.20 현재 1300만**)을 듣고 상당히 놀랐습니다.
   
-한달여 전부터 진행된 [Download Day 행사](http://www.spreadfirefox.com/en-US/worldrecord/){: target="_blank" }를 통해 예약을 했었는데, 그게 주요했던 것도 있지만, 그만큼 표준을 지원하는 브라우저에 대한 사용자들의 요구가 강하다는 반증이겠죠.
+한달여 전부터 진행된 [Download Day 행사](//www.spreadfirefox.com/en-US/worldrecord/){: target="_blank" }를 통해 예약을 했었는데, 그게 주요했던 것도 있지만, 그만큼 표준을 지원하는 브라우저에 대한 사용자들의 요구가 강하다는 반증이겠죠.
 
 ![Download Day 행사](/assets/img/2008/astar2_080620_02.gif){: .aligncenter}
 *Download Day 행사*{: .aligncenter }
@@ -83,6 +83,6 @@ firefox 3 출시에 맞춰서 대충 적어봤습니다.
 [부연]
 
 IE 7 이 출시되었을때 각 포탈들에게 자사 사이트에 최적화된 IE 7 을 내려받도록 했었습니다.  
-firefox 도 현재 [네이버와 다음에서 자사 사이트에 최적화된 firefox 3 를 만드는 작업](http://www.etnews.co.kr/news/sokbo_detail.html?id=200806190346){: target="_blank" }을 하고 있습니다.
+firefox 도 현재 [네이버와 다음에서 자사 사이트에 최적화된 firefox 3 를 만드는 작업](//www.etnews.co.kr/news/sokbo_detail.html?id=200806190346){: target="_blank" }을 하고 있습니다.
   
 firefox 가 이제는 비주류가 아니라 주류라는 의미가 되겠죠?
