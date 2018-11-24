@@ -12,7 +12,8 @@ views:
 ---
 ## Company
 
-  * 2015.07. ~ 현재 : [SK 플래닛](http://www.skplanet.com/){: target="_blank" } / Front-end 개발팀 (팀장)
+  * 2018.09. ~ 현재 : [11번가(주)](http://www.11st.co.kr/){: target="_blank" } / FE 개발팀 (팀장)
+  * 2015.07. ~ 2018.08. : [SK 플래닛](http://www.skplanet.com/){: target="_blank" } / Front-end 개발팀 (팀장)
   * 2005.01. ~ 2015.07. : [잡코리아](http://www.jobkorea.co.kr/){: target="_blank" } / UI 기술팀 (팀장) / 모바일 TF장
   * 2002.05. ~ 2004.06. : ㈜해피앤굿 (with 학교 선배들)
   * 2000.07. ~ 2002.03. : ㈜하우머니닷컴 (with 학교 선후배들, 교수님)
