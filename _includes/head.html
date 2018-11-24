@@ -15,8 +15,15 @@
 	<meta property="og:title" content="{% if page.title %}{{ page.title }} | 장군블로그{% else %}{{ site.theme_settings.title }}{% endif %}">
 	<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.theme_settings.description }}{% endif %}">
 	<meta property="og:url" content="https://{{ site.url }}{{ page.url }}" />
+
+	{% if page.image.src %}
 	<meta property="og:image" content="http://{{ site.url | replace:'https','http' }}/assets/img/og/{{ page.image.src }}" />
 	<meta property="og:image:secure_url" content="https://{{ site.url | replace:'http://','https://' }}/assets/img/og/{{ page.image.src }}" />
+	{% elsif site.image.src %}
+	<meta property="og:image" content="http://{{ site.url | replace:'https','http' }}/assets/img/og/{{ site.image.src }}" />
+	<meta property="og:image:secure_url" content="https://{{ site.url | replace:'http://','https://' }}/assets/img/og/{{ site.image.src }}" />
+	{% endif %}
+
 	{% if site.image.height %}
 	<meta property="og:image:height" content="{{ site.image.height }}" />
 	{% endif %}
