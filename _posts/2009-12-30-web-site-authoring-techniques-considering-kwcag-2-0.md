@@ -13,7 +13,8 @@ tags:
   - 웹 표준
   - 장차법
 excerpt: 얼마전(2009년 12월 22일) 한국형 웹 콘텐츠 접근성 지침 2.0(이하 KWCAG 2.0)이 TTA 단체 표준으로 제정되었습니다. 2008년 12월에 제정된 W3C의 WCAG 2.0을 국내 실정에 맞게 만들기 위해 오랜기간 고생하신 많은 분(백남중 부장님, 현준호 부팀장님, 신현석님, 정찬명님, 그외 많은 전문가분들과 교수님들)들께 감사(?)의 뜻을 전해야할 것 같습니다. 아무나 할 수 없는 일을 아무런 대가없이 오랜기간 해오신 노고가 아마도 국내 웹 접근성을 향상시키는 초석이 될거라 믿어의심치 않습니다. 이번 KWCAG 2.0은 기존 국내 웹 접근성의 토대가 됐던 인터넷 웹 콘텐츠 접근성 지침 1.0 (이하 IWCAG 1.0)과 크게 달라지지 않았다고도 [...]
-image: web-site-authoring-techniques-considering-kwcag-2-0.png
+image:
+  src: 'web-site-authoring-techniques-considering-kwcag-2-0.png'
 views:
   - "27900"
 dsq_thread_id:

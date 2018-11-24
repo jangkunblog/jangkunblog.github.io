@@ -10,7 +10,8 @@ tags:
   - 웹 접근성
   - WAI-ARIA
 excerpt: 웹 표준이 국내 소개되면서 지금은 테이블을 활용해서 레이아웃을 만드는 일은 거의 없는 것으로 알고 있습니다. 하지만, 기존에 작업된 페이지의 유지보수나 어쩔 수 없이 레이아웃 테이블을 사용하는 경우가 종종 있는 것이 사실입니다. 이 경우 우리는 많은 죄책감(?)을 느끼게 됩니다. [...]
-image: using-wai-aria-presentation-role-to-layout-tables.png
+image:
+  src: 'using-wai-aria-presentation-role-to-layout-tables.png'
 views:
   - "44444"
 ---

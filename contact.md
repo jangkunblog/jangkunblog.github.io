@@ -5,7 +5,8 @@ title: 연락하기
 permalink: /contact/
 date: 2009-06-03
 excerpt: 안녕하세요! 성민장군에게 할 말 있으세요? 메일 보내주세요.
-image: jangkunblog-mail.png
+image:
+  src: 'jangkunblog.png'
 views:
   - "17490"
 ---

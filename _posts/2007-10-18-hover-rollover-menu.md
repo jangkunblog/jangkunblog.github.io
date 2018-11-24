@@ -11,7 +11,8 @@ tags:
   - hover
   - rollover
 excerpt: 얼마전에 윤석찬님이 번역해주신 ‘HTML 4와 HTML 5의 차이점‘ 이라는 글을 보고 HTML 5 가 상당히 재미있어질 것 같다는 생각을 했었다. 오늘 네이버 하코사 카페에 오랜만에 갔는데 HTML 5 에 관한 소식이 있어서 한번 가봤더니 ‘W3C Editor’s Draft‘ 라고 나와있었다. 오호라~ 솔직히 ‘Working Draft’와 ‘W3C Editor’s Draft’ 의 차이는 모르겠다. 어쨌든 확실한건 HTML 5에 대한 준비와 공부를 해야한다는 사실뿐이다. 당장은 아니지만, 이 짓을 업으로 살꺼라면 미리미리 준비해두는게 좋을듯하다.. ㅋㅋㅋ CSS3도 그렇고, 번역된 것이 없다보니 한계에 부딪히는 하루하루다. [...]
-image: hover-rollover-menu.png
+image:
+  src: 'hover-rollover-menu.png'
 views:
   - "20402"
 dsq_thread_id:

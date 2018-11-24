@@ -9,7 +9,8 @@ categories:
 tags:
   - KWAG-콱
 excerpt: KWAG 워크샵은 웹 접근성을 주제로 BarCamp와 동일하게 자발적인 참여를 기반으로 하는 형식이 없는 컨퍼런스(unConference)입니다. 열린 환경에서 서로 배우고 공유하기 위해 만들어졌으며 심도 있는 토론과 상호 교류, 데모 등이 이루어 집니다. 모든 참가자는 하나의 발표를 하거나 자원 봉사자로 참여해야 합니다. 비슷한 국내 행사로 BarCamp Seoul, FutureCamp, TagDay, Korea Web Standard Day 등이 있었습니다. 워크샵 안내 일시 [...]
-image: 9th-saturday-kwag-workshop.png
+image:
+  src: '9th-saturday-kwag-workshop.png'
 views:
   - "5288"
 dsq_thread_id:

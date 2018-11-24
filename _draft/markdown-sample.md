@@ -9,7 +9,8 @@ categories:
 tags:
   - KWAG-콱
 excerpt: ddd [...]
-image: permalink.png
+image:
+  src: 'permalink.png'
 views:
   - "44444"
 ---

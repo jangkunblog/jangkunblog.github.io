@@ -9,7 +9,8 @@ categories:
 tags:
   - 인크루트
 excerpt: 인크루트 메인이 개편된지 몇일이 지났다. 혹시나 하는 마음에 소스보기를 눌러봤다. 생각지도 않았는데, div, ul, li 등이 보였다. 오호라~ 당연히 css를 사용해 스타일을 입힌 ‘웹표준’ 작업이 진행되었겠지 싶었다. ‘이야.. 인크루트에도 괜찮은 사람이 있기는 있나보네’ 라고 걱정과 부러움이 교차했다. (걱정은 인크루트가 먼저 앞서간다는 것에서 기인했고, 부러움은 그런 생각을 하는 사람이 있고 일을 추진할 수 있었다는 것에서 기인했다.)  [...]
-image: incruit-web-standards.png
+image:
+  src: 'incruit-web-standards.png'
 views:
   - "4621"
 dsq_thread_id:

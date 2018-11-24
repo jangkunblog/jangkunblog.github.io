@@ -10,7 +10,8 @@ tags:
   - CSS
   - Sublime Text
 excerpt: Sublime Text의 CSS 속성 뒤의 공간에 대한 Sublime Text의 기본적인 처리방법은 아래와 같이 속성(property)을 자동완성에서 선택하면 콜론(:)뒤에 한 칸 여백이 생깁니다. 저희 회사는 이 여백을 사용하지 않고 있습니다. 어떤 분은 실서버에 반영할 때 자동으로 날리면 된다고 하시는 분들도 있지만, 저희는 아직 그런거 안합니다. 어쨌든 계속 신경쓰여서 혹시나 하고 검색해봤더니 여러 방법들이 있었습니다. PackageResourceViewer라는 플러그인을 설치하고 수정하는 방법도 있지만, 윈도우즈 탐색기를 통해서 접근하는게 더 쉽습니다. 단, 기본적으로 ‘폴더 옵션’에서 ‘숨김 파일, 폴더 및 드라이브 표시’가 설정되어 있어야 합니다. 위 경로대로 가면 css_completions.py라는 파일이 있고, 이를 에디터에서 열면 190번째
-image: how-to-remove-space-after-a-colon-in-css-with-sublime-text.png
+image:
+  src: 'how-to-remove-space-after-a-colon-in-css-with-sublime-text.png'
 views:
   - "12791"
 dsq_thread_id:
