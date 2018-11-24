@@ -12,7 +12,8 @@ tags:
   - 웹 표준
   - 웹접근성
 excerpt: 웹표준을 접하고 웹표준을 지켜서 개발해보려고 하는 사람들과 대화를 하다보면 항상 듣게 되는 말이 있습니다. 마크업이 너무 어려워요. 어디에 뭘 써야할지 늘 고민돼요. T.T 저역시도 처음에 가장 힘들었던 것이 바로 어떤 상황에 어떤 마크업을 하느냐였습니다. 이걸 dt로 해야하나? heading 몇으로 해야하나? fieldset을 넣는게 맞나? label은 항상 해야하나?…. 늘 그런 고민으로 지우고 다시 하고, 또 생각이 바뀌니까 또 지우고 다시 하고.. 이런 상황이 계속 반복되었습니다. 마크업한다는 것이 얼마나 어려운가에 대한 절망감으로 스스로 더욱 단련되어야 한다고 결심하곤 했습니다. 시간이 지나 Markup에 자신이 생기게 되었지만, 늘 2% 부족하다는 느낌을 [...]
-image: put-into-html-from-with-your-whole-heart.png
+image:
+  src: 'put-into-html-from-with-your-whole-heart.png'
 views:
   - "11245"
 dsq_thread_id:

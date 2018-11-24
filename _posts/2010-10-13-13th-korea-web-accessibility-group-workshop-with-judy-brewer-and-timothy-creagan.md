@@ -11,7 +11,8 @@ tags:
   - w3c
   - 웹 접근성
 excerpt: 지난주 목요일(10월 7일) 오후 1시부터 6시 30분까지 등촌동 한국정보화진흥원에서 한국 웹 접근성 그룹(KWAG)의 13번째 워크샵이 열렸습니다. 항상 토요일에 진행하던 콱의 워크샵이 평일에 열리게 되어 다들 의아해하셨을거라 생각합니다. 그 이유는 발표자분들을 확인해보시면 쉽게 이해가 되실 겁니다. W3C WAI(웹 접근성 위원회) 의장이며, 웹 접근성에서 가장 중요한 인물인 Judy Brewer와 미국 접근성 위원회 재활법 508조 담당자인 Timothy Creagan이 이번에 방한을 합니다. 쉽게 만나기 어려운 웹 접근성 분야 전문가들을 만나 다양한 주제에 대해 들어볼 수 있는 자리를 한국 웹 접근성 그룹(KWAG)에서 마련하게 되었습니다 [...]
-image: 13th-korea-web-accessibility-group-workshop.png
+image:
+  src: '13th-korea-web-accessibility-group-workshop.png'
 views:
   - "32023"
 dsq_thread_id:

@@ -11,7 +11,8 @@ tags:
   - 일본
   - 콘서트
 excerpt: 집사람이 일본 공연간지 벌써 6일째.. 공연 잘하고 있다는 통화만 계속 하고 있다.. 민재 보고 싶어서 징징 거릴줄 알았는데, 잘 견디며 지내고 있다. 소중한 동포들께 많은 힘 드리고 왔으면 좋겠다… ^^ 사랑해~~~ [...]
-image: japan-showcase-with-my-wife.png
+image:
+  src: 'japan-showcase-with-my-wife.png'
 views:
   - "6764"
 dsq_thread_id:

@@ -12,7 +12,8 @@ tags:
   - 웹 접근성
   - 웹 표준
 excerpt: ddd [...]
-image: guideline-1-1-alternative-text-website-authoring-techniques-considering-kwcag-2-0.png
+image:
+  src: 'guideline-1-1-alternative-text-website-authoring-techniques-considering-kwcag-2-0.png'
 views:
   - "54"
 ---

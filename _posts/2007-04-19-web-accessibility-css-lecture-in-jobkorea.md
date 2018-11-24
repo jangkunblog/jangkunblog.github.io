@@ -12,7 +12,8 @@ tags:
   - 웹 접근성
   - 잡코리아
 excerpt: 내일 회사에서 워크샵을 간다. 지난달에 1주일동안 들었던 css 관련 교육(실제로는 15시간)에 대한 전파교육을 하는 셈이다. 하지만, 욕심과 관심때문인가. 교육이 끝이 나고, 정말 미친듯이 공부와 실습을 한 것 같다. 이 얼마나 오랜만에 느끼는 ‘열정’인가. 미리 사놓은 1권의 책과 교육후에 구매한 2권의 책을 몇번이나 정독했을까. 온통 밑줄과 내 생각으로 끄적인 흔적들이 남아있다. 웹접근성에 대한 고민은 사실 그전까지 크게 하지 않았다. 하지만, 교육이후 웹접근성이라는 것이 얼마나 중요한지 깨닫게 되었다. [...]
-image: web-accessibility-css-lecture-in-jobkorea.png
+image:
+  src: 'web-accessibility-css-lecture-in-jobkorea.png'
 views:
   - "8210"
 dsq_thread_id:
