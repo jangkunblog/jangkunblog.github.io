@@ -8,7 +8,6 @@ theme_settings:
   title: 장군블로그
   favicon: favicon.ico
   description: 진심을 담은 마크업! 그 마음이 웹 접근성을 향상시킵니다.
-  og-image: jangkunblog.png
 
  # Scripts
   google_analytics: UA-7379986-1 # Tracking ID, e.g. "UA-000000-01"
@@ -56,7 +55,7 @@ exclude:
   - Gemfile.lock
 
 image:
-  src: '/image.png'
+  src: 'jangkunblog.png'
   height: 600
   width: 1200
   type: /png
