@@ -6,7 +6,7 @@
 
 	<link rel="shortcut icon" href="{{ site.baseurl }}/{{ site.theme_settings.favicon }}" type="image/x-icon">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | relative_url }}">
-	<link rel="alternate" type="application/atom+xml" title="{{ site.theme_settings.title }}" href="{{ "/feed.xml" | relative_url }}" />
+	<link rel="alternate" type="application/atom+xml" title="{{ site.theme_settings.title }}" href="{{ "/feed.xml" | relative_url }}">
 
 	{% if site.facebook_app_id %}
 	<meta property="fb:app_id" content="{{ site.facebook_app_id }}" />
@@ -14,9 +14,9 @@
 	<meta property="og:type" content="article">
 	<meta property="og:title" content="{% if page.title %}{{ page.title }} | 장군블로그{% else %}{{ site.theme_settings.title }}{% endif %}">
 	<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.theme_settings.description }}{% endif %}">
-	<meta property="og:url" content="{{ site.url }}{{ page.url }}">
-	<meta property="og:image" content="http://{{ site.url | replace:'https','http' }}/assets/img/og/{{ page.image.src }}" />
-	<meta property="og:image:secure_url" content="https://{{ site.url | replace:'http://','https://' }}/assets/img/og/{{ page.image.src }}" />
+	<meta property="og:url" content="//{{ site.url }}{{ page.url }}">
+	<meta property="og:image" content="http://{{ site.url | replace:'https','http' }}/assets/img/og/{{ page.image.src }}">
+	<meta property="og:image:secure_url" content="https://{{ site.url | replace:'http://','https://' }}/assets/img/og/{{ page.image.src }}">
 
 	<link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
