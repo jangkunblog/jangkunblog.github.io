@@ -1249,6 +1249,21 @@ em.aligncenter {
     padding: 50px 0;
     font-size: 16px;
     border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}
+
+.site-footer-link {
+    padding: 20px 0;
+    text-align: center;
+    
+    a {
+        color: #666
+    }
+
+    a:first-child:after {
+        content: "|";
+        padding: 0 10px;
+    }
 }
 
 .footer-area {
