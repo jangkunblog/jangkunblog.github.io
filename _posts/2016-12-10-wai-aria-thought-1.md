@@ -38,7 +38,7 @@ dsq_thread_id:
 
 ## WAI-ARIA 사례
 
-사례는 github에 모두 공개되어 있다. (<//github.com/niawa/ARIA>)
+사례는 github에 모두 공개되어 있다. ([github.com/niawa/ARIA](//github.com/niawa/ARIA){: target="_blank" })
 
 집필진 모두에게 감사인사드립니다~
 
