@@ -24,7 +24,7 @@ dsq_thread_id:
 Rollover(롤오버)메뉴를 만들때 기존에는 javascript의 도움을 받아왔다.  
 난 개발자가 아니기 때문에 기존에 사용하는 사이트에서 긁어오거나 에디터에서 자동으로 생성되는 소스를 그대로 사용했던 기억이 있다.
 
-[:hover를 이용한 Rollover Menu 예제](/study/css/ex/rollover/rollover.html){: target="_blank" }
+[:hover를 이용한 Rollover Menu 예제](/assets/study/css/ex/rollover/rollover.html){: target="_blank" }
 
 그런데, CSS로 Rollover메뉴를 쉽게 만들 수 있는 방법을 아는 순간 경악했다.  
 이런 간단한 방법이 있단 말인가! 왜 몰랐지.  
