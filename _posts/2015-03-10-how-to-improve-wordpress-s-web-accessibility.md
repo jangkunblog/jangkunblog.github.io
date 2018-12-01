@@ -86,7 +86,6 @@ youtubeId: lvb8SANYsUs
 
 ### 발표 자료
 
-
 [워드프레스로 웹 접근성 칭찬받기 (워드프레스 미트업) from Slideshare](//www.slideshare.net/jangkunblog/ss-45248628){: target="_blank" }
 
 ### 발표 영상
@@ -97,6 +96,10 @@ youtubeId: lvb8SANYsUs
 ## 남는건 사진
 
 어색하지만 찍힌 사진
+
+![발표 중인 성민장군](/assets/img/2015/wordpress_meetup_2.jpg){: .aligncenter}
+
+![발표 중인 성민장군](/assets/img/2015/wordpress_meetup_3.jpg){: .aligncenter}
 
 ## 마무리하며
 
