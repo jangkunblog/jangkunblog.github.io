@@ -369,7 +369,9 @@ embed,iframe,object {
     font-size: 18px;
     line-height: 24px;
     margin-bottom: 24px;
-    margin-top: 24px
+    margin-top: 24px;
+    background: url("/assets/img/common/icn_bg_1.png") no-repeat 8px -220px;
+    padding-left: 30px
 }
 
 .post-content h4 {
