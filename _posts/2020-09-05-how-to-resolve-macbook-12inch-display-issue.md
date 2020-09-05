@@ -15,7 +15,7 @@ image:
 views:
   - "1"
 dsq_thread_id:
-  - "6404765824"
+  - ""
 ---
 
 얼마전 4년째 잘 쓰고 있던 Macbook 12인치(2016 early)에 문제가 생겼다.  
