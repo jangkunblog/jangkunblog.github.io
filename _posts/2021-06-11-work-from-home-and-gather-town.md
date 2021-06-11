@@ -67,3 +67,9 @@ youtubeId: doUZq07Tay4
 
 뭐 내가 대표가 아니라서 잘 모르겠다 ㅎㅎㅎ
 그냥 아쉽다는거임 ㅋㅋㅋㅋ
+
+## 11번가 FE개발팀 채용정보
+
+UI개발자는 얼마전 채용이 완료되었고, 현재 FE개발자 두분을 모시고 있습니다.  ㅎㅎㅎ
+
+[https://careers.11stcorp.com/jobs/detail/30003450](https://careers.11stcorp.com/jobs/detail/30003450)
