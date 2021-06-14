@@ -21,11 +21,11 @@ views:
 ## Member
 
   * 한국 웹 접근성 그룹(KWAG), 리더 / [Website](http://kwag.net){: target="_blank" } / [Facebook](http://www.facebook.com/groups/kwag.net/){: target="_blank" }
-  * [HTML5 융합 기술 포럼, 웹 접근성 분과, 분과장](http://www.html5forum.or.kr/front/subsection/web_ab.jsp){: target="_blank" }
+  * [웹표준기술융합포럼, 웹 접근성 분과, 분과장](http://www.wstcforum.org/){: target="_blank" }
   * [웹 표준 프로젝트(Web Standards Korea)](http://webstandards.or.kr/about/){: target="_blank" }, 회원
   * [CSS Design Korea](http://www.cssdesign.kr/){: target="_blank" }, 회원
-  * [Microsoft MVP(Internet Explorer) " 2012~현재](http://mvp.microsoft.com/en-us/mvp/Sungmin%20Jang-4039909){: target="_blank" }
-  * [WSConf.](http://wsconf.org), Organizer
+  * [Microsoft Most Valuable Professional (MVP) " 2012~2018](http://mvp.microsoft.com/en-us/mvp/Sungmin%20Jang-4039909){: target="_blank" }
+  * [WSConf.](https://www.facebook.com/wsconf), Organizer
 
 ## 활동
 
@@ -97,47 +97,47 @@ views:
 
 ## Jobkorea
 
-  * 2012년 07월 : 잡코리아 모바일 웹 개편 PM
-  * 2012년 06월 : 잡코리아 "개인회원 개편" PM/HTML/CSS
+  * 2012년 07월 : 잡코리아 모바일 웹 개편 PO
+  * 2012년 06월 : 잡코리아 "개인회원 개편" (PM/HTML/CSS)
   * 2012년 : 잡코리아 모바일 TFT Manager
-  * 2010년 01월 : 잡코리아 "기업회원서비스/채용정보리스트/채용정보 최종페이지 리뉴얼" " HTML/CSS/Guide/Markup PM
-  * 2009년 12월 : 잡코리아 "마크업 개발 가이드(내부)" " HTML/CSS/PM
-  * 2009년 04월 : 잡코리아 [홈](http://www.jobkorea.co.kr/){: target="_blank" } 최적화/웹 접근성 작업 " PM/HTML/CSS
-  * 2009년 02월 : 잡코리아 "지역별 메인 및 채용정보 리스트" " HTML/CSS
-  * 2009년 02월 : 잡코리아 "채용정보 메인" " HTML/CSS
-  * 2008년 09월 : 잡코리아 "2008 대기업 공채관" " HTML/CSS
-  * 2008년 07월 : 잡코리아 "메인 최적화" 작업 " 제안/PM/HTML/CSS
-  * 2008년 05월 : 잡코리아 사이트 제작 템플릿 제작 및 적용 " Design/HTML/CSS
-  * 2008년 04월 : 잡코리아 HTML & CSS 스타일 가이드 정의/제작 " Design/HTML/CSS/룰 정의
-  * 2008년 01월 : 잡코리아 메인 페이지 웹 표준화 작업 " HTML/CSS/PM
-  * 2007년 12월 : 잡코리아 페이지뷰 Top 5 웹 표준화 작업 " HTML/CSS/PM
-  * 2007년 11월 : 잡코리아 "개인회원 홈" " Design/HTML
-  * 2007년 07월 : [노래패 우리나라 블로그](http://www.uni-nara.com){: target="_blank" } " Design/HTML/CSS
-  * 2006년 10월 : 글로벌 프런티어 2007 " Design/HTML/CSS
-  * 2006년 08월 : 잡코리아 미디어 전문사이트 "[미디어통](http://www.mediatong.co.kr){: target="_blank" }" BI 작업 및 사이트 " Design/HTML/CSS
+  * 2010년 01월 : 잡코리아 "기업회원서비스/채용정보리스트/채용정보 최종페이지 리뉴얼" (HTML/CSS/Guide/Markup PM)
+  * 2009년 12월 : 잡코리아 "마크업 개발 가이드(내부)" (PM/HTML/CSS)
+  * 2009년 04월 : 잡코리아 [홈](http://www.jobkorea.co.kr/){: target="_blank" } 최적화/웹 접근성 작업 (PM/HTML/CSS)
+  * 2009년 02월 : 잡코리아 "지역별 메인 및 채용정보 리스트" (HTML/CSS)
+  * 2009년 02월 : 잡코리아 "채용정보 메인" (HTML/CSS)
+  * 2008년 09월 : 잡코리아 "2008 대기업 공채관" (HTML/CSS)
+  * 2008년 07월 : 잡코리아 "메인 최적화" 작업 제안 (PM/HTML/CSS)
+  * 2008년 05월 : 잡코리아 사이트 제작 템플릿 제작 및 적용 (Design/HTML/CSS)
+  * 2008년 04월 : 잡코리아 HTML & CSS 스타일 가이드 정의/제작 (Design/HTML/CSS)
+  * 2008년 01월 : 잡코리아 메인 페이지 웹 표준화 작업 (PM/HTML/CSS)
+  * 2007년 12월 : 잡코리아 페이지뷰 Top 5 웹 표준화 작업 (PM/HTML/CSS)
+  * 2007년 11월 : 잡코리아 "개인회원 홈" (Design/HTML/CSS)
+  * 2007년 07월 : [노래패 우리나라 블로그](http://www.uni-nara.com){: target="_blank" } (Design/HTML/CSS)
+  * 2006년 10월 : 글로벌 프런티어 2007 (Design/HTML/CSS)
+  * 2006년 08월 : 잡코리아 미디어 전문사이트 "[미디어통](http://www.mediatong.co.kr){: target="_blank" }" BI 작업 및 사이트 (Design/HTML/CSS)
   * 2005년 01월 : [㈜잡코리아](http://www.jobkorea.co.kr){: target="_blank" } 입사
 
 ## HappyAndGood
 
   * 2004년 10월 : 필립모리스 Business PDA 솔루션 디자인 (내부 영업관리 시스템)
-  * 2004년 10월 : 한국기술이전진흥협회 (디자인, 기획, 개발)
-  * 2004년 10월 : 애국외대 청년동문회 (디자인, 기획, 개발)
+  * 2004년 10월 : 한국기술이전진흥협회 (기획/디자인/개발)
+  * 2004년 10월 : 애국외대 청년동문회 (기획/디자인/개발)
   * 2004년 09월 : 민주노동당 조승수 의원 홈페이지 리뉴얼 작업 " 내부 사정으로 오픈못함
-  * 2004년 08월 : ㈜나온소프트 어린이 컨텐츠 리뉴얼 (전체레이아웃에 맞춰서 내부만 작업)
+  * 2004년 08월 : ㈜나온소프트 어린이 컨텐츠 리뉴얼
   * 2004년 04월 : 듀오 제휴 페이지
-  * 2004년 03월 : 한겨레신문 작명컨텐츠 기획 및 디자인
-  * 2004년 03월 : 오마이뉴스 역학채널 기획 및 디자인
-  * 2004년 03월 : 역술가 김동완닷컴 디자인
+  * 2004년 03월 : 한겨레신문 작명컨텐츠 (기획/디자인/개발)
+  * 2004년 03월 : 오마이뉴스 역학채널 (기획/디자인/개발)
+  * 2004년 03월 : 역술가 김동완닷컴 (기획/디자인/개발)
   * 2004년 01월 : e현대백화점 토정비결 이벤트 디자인
   * 2003년 12월 : DB 인터랙티브 이벤트 디자인
-  * 2003년 10월~11월 : ㈜해피앤굿 사이트 리뉴얼
+  * 2003년 10월~11월 : ㈜해피앤굿 사이트 리뉴얼 (기획/디자인/개발)
   * 2003년 11월: ㈜VK 핸드폰 내장용 엠포츈 로고 디자인 및 모바일 게임 디자인
   * 2003년 09월 ~ 10월 : 듀오 미팅넷 운세 컨텐츠 개발
   * 2003년 09월 ~ 10월 : 클릭박스 운세 컨텐츠 개발
-  * 2003년 07월 : 은곡다원 일본어 사이트 개발
-  * 2003년 06월 : 은곡다원 녹차사이트 오픈
-  * 2003년 05월 : 운세포탈 사이트 '토정' 정식 오픈
-  * 2003년 01월 : 운세포탈 사이트 토정의 토정비결 컨텐츠 개발 " 기획 및 디자인
+  * 2003년 07월 : 은곡다원 일본어 사이트 개발 (기획/디자인/개발)
+  * 2003년 06월 : 은곡다원 녹차사이트 오픈 (기획/디자인/개발)
+  * 2003년 05월 : 운세포탈 사이트 '토정' 정식 오픈 (기획/디자인/개발)
+  * 2003년 01월 : 운세포탈 사이트 토정의 토정비결 컨텐츠 (기획/디자인/개발)
   * 2002년 12월 : KBS 노동조합 MUS (Mobile Union System) " 기획 및 디자인
   * 2002년 12월 : KBS 노동조합 KMS (Knowledge Management System) 개발 " 기획 및 디자인
   * 2002년 11월 : 한겨레신문사와 함께하는 토정작명소 작업
@@ -147,5 +147,5 @@ views:
 ## HowMoney & etc
 
   * 2002년 01월 : ㈜데이타링크 홈페이지 리뉴얼
-  * 1999년 11월 ~ 2002년 03월 : ㈜ 하우머니닷컴 디자인팀장으로 근무 (SK 금융파트인 financeOK.com 제작)
+  * 2000년 07월(실제로는 1999년 11월) ~ 2002년 03월 : ㈜ 하우머니닷컴 디자인 팀장 (SK 금융파트인 financeOK.com 제작)
   * 1998년 12월 ~ 1999년 11월 : 프리랜서로 기업홈페이지 4개 제작
