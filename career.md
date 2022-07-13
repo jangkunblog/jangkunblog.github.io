@@ -3,7 +3,7 @@ layout: page
 lang: ko
 title: 경력/이력
 permalink: /career/
-date: 2007-10-02
+date: 2022-07-13
 excerpt: 안녕하세요! 성민장군의 블로그에 오신 것을 환영합니다. 이 공간은 개인적인 생각과 일상들을 정리하는 지극히 개인적인 공간입니다. 웹 접근성과 웹 표준에 관심이 많습니다. 특히 웹 접근성 관련하여 이런저런 활동을 하고 있습니다.
 image:
   src: 'jangkunblog.png'
@@ -12,7 +12,8 @@ views:
 ---
 ## Company
 
-  * 2018.09. ~ 현재 : [11번가(주)](http://www.11st.co.kr/){: target="_blank" } / FE 개발팀 (팀장)
+  * 2022.04. ~ 현재 : [카카오 엔터프라이즈](https://www.kakaoenterprise.com/){: target="_blank" } / 커넥트SaaS파트 (파트장)
+  * 2018.09. ~ 2022.04 : [11번가](http://www.11st.co.kr/){: target="_blank" } / FE 개발팀 (팀장)
   * 2015.07. ~ 2018.08. : [SK 플래닛](http://www.skplanet.com/){: target="_blank" } / Front-end 개발팀 (팀장)
   * 2005.01. ~ 2015.07. : [잡코리아](http://www.jobkorea.co.kr/){: target="_blank" } / UI 기술팀 (팀장) / 모바일 TF장
   * 2002.05. ~ 2004.06. : ㈜해피앤굿 (with 학교 선배들)
