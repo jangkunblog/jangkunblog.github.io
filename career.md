@@ -12,18 +12,19 @@ views:
 ---
 ## Company
 
-  * 2023.06. ~ 현재 : [카카오](https://www.kakaocorp.com/){: target="_blank" } / DAO (Digital Accessibility Officer) (부장)
+  * 2023.06. ~ 현재 : [카카오](https://www.kakaocorp.com/){: target="_blank" } / 디지털접근성팀 (Digital Accessibility Team)
   * 2022.04. ~ 2023.06 : [카카오엔터프라이즈](https://www.kakaoenterprise.com/){: target="_blank" } / 라이브서비스팀 (팀장)
   * 2018.09. ~ 2022.04 : [11번가](http://www.11st.co.kr/){: target="_blank" } / FE 개발팀 (팀장)
-  * 2015.07. ~ 2018.08. : [SK 플래닛](http://www.skplanet.com/){: target="_blank" } / Front-end 개발팀 (팀장)
+  * 2015.07. ~ 2018.08. : [SK플래닛](http://www.skplanet.com/){: target="_blank" } / Front-end 개발팀 (팀장)
   * 2005.01. ~ 2015.07. : [잡코리아](http://www.jobkorea.co.kr/){: target="_blank" } / UI 기술팀 (팀장) / 모바일 TF장
   * 2002.05. ~ 2004.06. : ㈜해피앤굿 (with 학교 선배들)
   * 2000.07. ~ 2002.03. : ㈜하우머니닷컴 (with 학교 선후배들, 교수님)
 
 ## Member
 
-  * 한국 웹 접근성 그룹(KWAG), 리더 / [Website](http://kwag.net){: target="_blank" } / [Facebook](http://www.facebook.com/groups/kwag.net/){: target="_blank" }
-  * [웹표준기술융합포럼, 웹 접근성 분과, 분과장](http://www.wstcforum.org/){: target="_blank" }
+  * 한국 웹 접근성 그룹(KWAG), 리더 / [Facebook](http://www.facebook.com/groups/kwag.net/){: target="_blank" }
+  * NIA 디지털포용포럼 정보접근성분과 분과위원 (2023.09 ~)
+  * [웹3.0융합기술포럼(구,웹표준기술융합포럼), 웹 접근성 분과, 분과장](https://www.facebook.com/groups/4310246349027169/){: target="_blank" }
   * [웹 표준 프로젝트(Web Standards Korea)](http://webstandards.or.kr/about/){: target="_blank" }, 회원
   * [CSS Design Korea](http://www.cssdesign.kr/){: target="_blank" }, 회원
   * [Microsoft Most Valuable Professional (MVP) " 2012~2018](http://mvp.microsoft.com/en-us/mvp/Sungmin%20Jang-4039909){: target="_blank" }
@@ -32,7 +33,7 @@ views:
 ## 활동
 
   * 한국정보화진흥원 [[한국형 웹 콘텐츠 접근성 지침 2.1](http://goo.gl/SA5doW){: target="_blank" }] 표준 검토위원 (2013.09 ~ 2013.12)
-  * 한국정보화진흥원 [[웹 접근성 지킴이](http://www.wah.or.kr/Board/brd_view.asp?page=1&brd_sn=2&brd_idx=935){: target="_blank" }] 의 '전문가 멘토' 활동 (2012.04~현재)
+  * 한국정보화진흥원 [[웹 접근성 지킴이](http://www.wah.or.kr/Board/brd_view.asp?page=1&brd_sn=2&brd_idx=935){: target="_blank" }] 의 '전문가 멘토' 활동 (2012.04 ~)
   * 한국정보화진흥원 주관, 지자체 웹 접근성 방문 자문 및 컨설팅. (2010.09.07)
   * 한국정보화진흥원 [[웹 접근성 기술지원단 기술자문위원](http://lh4.ggpht.com/_JjnwZM01SjU/THvXtZRzChI/AAAAAAAAAjY/ZNZwScS6o6M/jangkunblog_1283184561_32415_me2photo.jpg){: target="_blank" }] (2010.08.27~현재)
   * 2010년 제23회 정보문화의 달 정보화 유공자 [[행정안전부장관 표창](http://www.flickr.com/photos/jangkunblog/4743751203/){: target="_blank" }] (2010.06.08)
@@ -64,7 +65,7 @@ views:
 
 ## 강의
 
-  * [ [리메인](http://remain.co.kr/){: target="_blank" }] 웹 디자이너를 위한 웹 접근성 특강 (2017.11)</span>
+  * [ [리메인](http://remain.co.kr/){: target="_blank" }] 웹 디자이너를 위한 웹 접근성 특강 (2017.11)
   * [하이웹솔루션] 웹 접근성 사내 교육 (2015.04)
   * [서울특별시] "서울시 홈페이지 운영자 교육", 웹 접근성 지침 강사. (2015.03)
   * [한국정보화진흥원] "[웹 접근성 평가사 교육](http://goo.gl/nWy0rd){: target="_blank" }" 강사. (2013.12)

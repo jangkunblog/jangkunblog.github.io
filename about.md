@@ -38,7 +38,7 @@ views:
   * Mobile : ~~011-9438-94**~~ <ins datetime="2009-07-10T09:20+09:00">010-9438-94**</ins>
   * E-Mail : [jangkunblog@gmail.com](http://www.jangkunblog.com/contact/)
   * Messenger 
-      * HangOut : jangkunblog@gmail.com
+      * KakaoTalk : jangkunblog
       * SKYPE : jangkunblog
       * NateOn : jangkunblog@nate.com
 
@@ -46,29 +46,28 @@ views:
 
   * ~~Apple Macbook 13형(white) (2008년 6월 구매)~~
   * ~~Apple iPod Touch 2세대 (2008년 10월 구매)~~
-  * ~~Apple Macbook Pro 15형 2.53GHz (2009년 7월 구매) : 김데레사님에게 2010년 6월 10일 판매~~
+  * ~~Apple Macbook Pro 15형 2.53GHz (2009년 7월 구매)~~
   * ~~Apple Macbook Pro 15형 2.66GHz Intel Core i7 (2010년 6월 14일 구매)~~
   * ~~Apple iPhone 3GS (2009)~~
   * ~~Apple iPad 16G (2010)~~
-  * Apple Macbook Air 13.3형 CTO (2010년)
+  * ~~Apple Macbook Air 13.3형 CTO (2010년)~~
   * ~~Apple iPhone 4S (2011)~~
   * ~~Apple Macbook Pro Retina 13.3형 (2012년)~~
   * 기계식 키보드 "['356CL Dark Gray Edition + 닭승화'](http://www.facebook.com/media/set/?set=a.1003322863333.222.1832703466&type=3#!/photo.php?fbid=3003449785256&set=a.1003322863333.222.1832703466&type=3&theater){: target="_blank"}"
   * ~~NEXUS 7 (2014년 10월 잡코리아 김화수 사장님 선물)~~
   * ~~Apple iPhone 6 (2015년 5월 구매)~~
   * ~~Apple, New Macbook 12인치 256G, Space Gray (2015년 9월)~~
-  * Apple iPhone 6s (2016년 1월 구매)
+  * ~~Apple iPhone 6s (2016년 1월 구매)~~
   * Apple, New Macbook 12인치 512G, Space Gray (2016년 10월)
 
 ## 학력/병역
 
-  * 한국항공대학교 대학원 정보보호학과 (2002~2004 중퇴)
+  * 한국항공대학교 대학원 정보보호학과 (중퇴)
   * 제3사관학교 각개전투 조교 (1996.2~1998.4)
-  * [한국항공대학교](http://www.hau.ac.kr){: target="_blank" } 경영학과 (1995~2002)
-  * [송림고등학교(분당)](http://www.songlimhs.net/){: target="_blank" } (1992~1994)
-  * 성남서중학교 (1991 전학)
-  * 영주 중학교 입학 (1989 입학)
-  * [영주 남부국민학교](http://www.yjnambu.es.kr/class/){: target="_blank" } 입학 (1983~1988)
+  * [한국항공대학교](http://www.hau.ac.kr){: target="_blank" } 경영학과 (1995학번)
+  * [송림고등학교(분당)](http://www.songlimhs.net/){: target="_blank" }
+  * 영주중학교 -> 성남서중학교 (1991 전학)
+  * [영주 남부국민학교](http://www.yjnambu.es.kr/class/){: target="_blank" }
 
 ## 학교/사회 활동
 
