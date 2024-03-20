@@ -24,6 +24,7 @@ views:
 
   * 한국 웹 접근성 그룹(KWAG), 리더 / [Facebook](http://www.facebook.com/groups/kwag.net/){: target="_blank" }
   * NIA 디지털포용포럼 정보접근성분과 분과위원 (2023.09 ~)
+  * '경기 RE100 플랫폼 구축」 기술자문위원 (2024.03 ~)
   * [웹3.0융합기술포럼(구,웹표준기술융합포럼), 웹 접근성 분과, 분과장](https://www.facebook.com/groups/4310246349027169/){: target="_blank" }
   * [웹 표준 프로젝트(Web Standards Korea)](http://webstandards.or.kr/about/){: target="_blank" }, 회원
   * [CSS Design Korea](http://www.cssdesign.kr/){: target="_blank" }, 회원
