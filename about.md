@@ -37,10 +37,13 @@ views:
 
   * Mobile : ~~011-9438-94**~~ <ins datetime="2009-07-10T09:20+09:00">010-9438-94**</ins>
   * E-Mail : [jangkunblog@gmail.com](http://www.jangkunblog.com/contact/)
+
+<!-- 
   * Messenger 
       * KakaoTalk : jangkunblog
       * SKYPE : jangkunblog
       * NateOn : jangkunblog@nate.com
+-->
 
 ## 사용 기기
 
@@ -58,8 +61,11 @@ views:
   * ~~Apple iPhone 6 (2015년 5월 구매)~~
   * ~~Apple, New Macbook 12인치 256G, Space Gray (2015년 9월)~~
   * ~~Apple iPhone 6s (2016년 1월 구매)~~
-  * Apple, New Macbook 12인치 512G, Space Gray (2016년 10월)
+  * ~~Apple, New Macbook 12인치 512G, Space Gray (2016년 10월)~~
+  * Apple Macbook Pro M2 14인치 (2023년 6월~)
+  * Apple Macbook Pro M4 14인치 (2025년 8월~)
 
+<!--
 ## 학력/병역
 
   * 한국항공대학교 대학원 정보보호학과 (중퇴)
@@ -78,4 +84,4 @@ views:
   * 1998년 : 범청학련 중앙 [통일선봉대](http://terms.naver.com/item.nhn?dirId=704&docId=7773){: target="_blank" } 소대장
   * 1995년 : 범청학련 중앙 [통일선봉대](http://terms.naver.com/item.nhn?dirId=704&docId=7773){: target="_blank" } 활동
   * 1995년 : 한국항공대학교 구국선봉대 "장백" 활동
-  
+  -->

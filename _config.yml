@@ -9,7 +9,7 @@ theme_settings:
   favicon: favicon.ico
   description: 진심을 담은 마크업! 그 마음이 웹 접근성을 향상시킵니다.
 
- # Scripts
+  # Scripts
   google_analytics: UA-7379986-1 # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname: jangkunblog
   search: true # Enable the search feature

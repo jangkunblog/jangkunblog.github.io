@@ -24,7 +24,7 @@ views:
 
   * 한국 웹 접근성 그룹(KWAG), 리더 / [Facebook](http://www.facebook.com/groups/kwag.net/){: target="_blank" }
   * NIA 디지털포용포럼 정보접근성분과 분과위원 (2023.09 ~)
-  * '경기 RE100 플랫폼 구축」 기술자문위원 (2024.03 ~)
+  * '경기 RE100 플랫폼 구축」 기술자문위원 (2024.03)
   * [웹3.0융합기술포럼(구,웹표준기술융합포럼), 웹 접근성 분과, 분과장](https://www.facebook.com/groups/4310246349027169/){: target="_blank" }
   * [웹 표준 프로젝트(Web Standards Korea)](http://webstandards.or.kr/about/){: target="_blank" }, 회원
   * [CSS Design Korea](http://www.cssdesign.kr/){: target="_blank" }, 회원
@@ -33,6 +33,7 @@ views:
 
 ## 활동
 
+  * 2025년 제38회 정보문화의 달 정보화 유공자 [[대통령 표창](https://www.facebook.com/share/p/1F3qmwKdHv/){: target="_blank" }] (2025.06.18)
   * 한국정보화진흥원 [[한국형 웹 콘텐츠 접근성 지침 2.1](http://goo.gl/SA5doW){: target="_blank" }] 표준 검토위원 (2013.09 ~ 2013.12)
   * 한국정보화진흥원 [[웹 접근성 지킴이](http://www.wah.or.kr/Board/brd_view.asp?page=1&brd_sn=2&brd_idx=935){: target="_blank" }] 의 '전문가 멘토' 활동 (2012.04 ~)
   * 한국정보화진흥원 주관, 지자체 웹 접근성 방문 자문 및 컨설팅. (2010.09.07)

@@ -22,19 +22,57 @@ layout: default
   </div> 
 
   {% if paginator.total_pages > 1 %}
-  <div class="pagination">
+  <nav class="pagination" role="navigation" aria-label="페이지네이션">
     {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url | replace: '//', '/' }}" class="button" >
+    <a href="{{ paginator.previous_page_path | relative_url | replace: '//', '/' }}" class="pagination-arrow pagination-prev" aria-label="이전 페이지">
       <i class="fa fa-chevron-left"></i>
-      {{ site.theme_settings.str_previous_page }}
     </a>
+    {% else %}
+    <span class="pagination-arrow pagination-prev disabled" aria-hidden="true">
+      <i class="fa fa-chevron-left"></i>
+    </span>
     {% endif %}
+
+    <span class="pagination-numbers">
+      {% assign page_limit = 5 %}
+      {% assign half_limit = 2 %}
+      
+      {% assign start_page = paginator.page | minus: half_limit %}
+      {% assign end_page = paginator.page | plus: half_limit %}
+      
+      {% if start_page < 1 %}
+        {% assign start_page = 1 %}
+        {% assign end_page = page_limit %}
+      {% endif %}
+      
+      {% if end_page > paginator.total_pages %}
+        {% assign end_page = paginator.total_pages %}
+        {% assign start_page = paginator.total_pages | minus: page_limit | plus: 1 %}
+        {% if start_page < 1 %}
+          {% assign start_page = 1 %}
+        {% endif %}
+      {% endif %}
+      
+      {% for page in (start_page..end_page) %}
+        {% if page == paginator.page %}
+        <span class="pagination-number current" aria-current="page">{{ page }}</span>
+        {% elsif page == 1 %}
+        <a href="{{ '/' | relative_url }}" class="pagination-number">{{ page }}</a>
+        {% else %}
+        <a href="{{ site.paginate_path | relative_url | replace: ':num', page | replace: '//', '/' }}" class="pagination-number">{{ page }}</a>
+        {% endif %}
+      {% endfor %}
+    </span>
+
     {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url | replace: '//', '/' }}" class="button" >
-      {{ site.theme_settings.str_next_page }}
+    <a href="{{ paginator.next_page_path | relative_url | replace: '//', '/' }}" class="pagination-arrow pagination-next" aria-label="다음 페이지">
       <i class="fa fa-chevron-right"></i>
     </a>
+    {% else %}
+    <span class="pagination-arrow pagination-next disabled" aria-hidden="true">
+      <i class="fa fa-chevron-right"></i>
+    </span>
     {% endif %}
-  </div>
+  </nav>
   {% endif %}
 </div>
